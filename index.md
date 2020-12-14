@@ -9,7 +9,7 @@ Now that you are properly refreshed, enjoy the rest this brochure at a more leis
 Some ideas at the far reaches of deep design-space in computing may, if brought too close to our familiar reality, pose a speculative risk of igniting a false-vacuum transition to bring the entire industry to a lower energy state with completely different empirical characteristics. They may also be just plain bonkers.
 
 * [Computer Programs as Databases, not Plain Text](code_db.md)
-* Tabs and Spaces are Both Broken.
+* [Tabs and Spaces are Both Broken: It's time for Encapsulated Text.](tab_space.md)
 * Automated reasoning assistance for evidence and belief in uncertain propositions
 * We're (probably) doing self-driving cars completely wrong.
 
