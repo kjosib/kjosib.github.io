@@ -12,7 +12,7 @@ Some ideas at the far reaches of deep design-space in computing may, if brought 
 * [Tabs and Spaces are Both Broken: It's time for Encapsulated Text.](tab_space.md)
 * Automated reasoning assistance for evidence and belief in uncertain propositions
 * We're (probably) doing self-driving cars completely wrong.
-
+* [Error-Reporting for Humans](error_reporting.md)
 
 # 📜  Resume! 📜
 
