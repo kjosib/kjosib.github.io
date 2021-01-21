@@ -5,11 +5,16 @@ Feel your cheeks ripple in the wind as you ride the roller-coaster down graceful
 Now that you are properly refreshed, enjoy the rest this brochure at a more leisurely pace.
 
 
+# 📜  Resume! 📜
+
+Here's [a recent version](Resume - Ian Kjos - 2020-12-02.pdf).
+
+
 # 🦆 Perfectly Reasonable Ideas 🦆
 
 If it looks, walks, and quacks like a duck, then either a great deal of thought
 and care went into determining and replicating the observable properties
-of ducks, or else it's a duck. Unfortunately ducks do not grow by chance on source trees
+of ducks, or else it's a duck. Unfortunately ducks do not grow on source trees by chance
 (despite the prevalence of duck-typed programming systems) so we programmers are stuck
 with the former option: exercising thought and care when we'd like to make something
 act a certain way.
@@ -42,7 +47,3 @@ Some ideas at the far reaches of deep design-space in computing may, if brought 
 * We're (probably) doing self-driving cars completely wrong.
 
 
-
-# 📜  Resume! 📜
-
-Here's [a recent version](Resume - Ian Kjos - 2020-12-02.pdf).
