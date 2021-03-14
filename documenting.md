@@ -131,6 +131,7 @@ Note any confusing vocabulary or words overloaded with many definitions. Do you 
 
 Are there sibling projects or infrastructure teams you'll need to be on good terms with? Secure an invitation to meet and greet.
 
+What about process management: creating, monitoring, signaling, and collecting results of child processes? Is there a utility API for this?
 
 ### Data Landscape:
 
