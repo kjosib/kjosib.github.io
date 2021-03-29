@@ -116,6 +116,72 @@ Don't go overboard, but this is the kind of commentary that makes maintainers ha
 
 3. There is no *how*. The *how* is in the code, and the code only -- although you may be confusing this with case #1, above.
 
+## Documenting (Object-Oriented) Classes
+
+Things like these should go in a class's docstring:
+
+* What's its responsibility? (Free clue: A class should have a clear and simple purpose or responsibility.)
+* What roles does it play? (E.G. does it participate in a well-known [design pattern](https://en.wikipedia.org/wiki/Software_design_pattern)?)
+* What other classes (or interfaces) does it collaborate with?
+* What observable guarantees does the class make? (I.E. the external class-invariant)
+* What external conditions does the class rely on for its own correct behavior?
+
+Additionally, just below the docstring you should probably make note of any internal class-invariants which your implementation relies on for correctness, because these are not always obvious just from looking at method body code. 
+
+
+## Interfaces, Abstract Classes, and Type Classes.
+
+In modern functional programming, you hear of "type-classes". This concept is more like an abstract data type, but expressed in terms of the operations any concrete manifestation of that type must support. You can think of them as roughly equivalent to what Java calls an "interface". To that end, they appear in this section.
+
+Most of the documentation needs will be similar between the abstraction and the concrete implementation, because in any event the caller treats either as an abstraction. However, these overt abstractions have an additional audience: those who are implementing a derived concrete class.
+
+Therefore, please include (if not obvious from context):
+
+* All the same things you'd write about a concrete class.
+* The reason for, and nature of, the abstraction.
+* Known implementations, or examples of the kind of implementations one might reasonably expect to encounter.
+
+
+
+## Documenting Modules (Libraries)
+
+The key to understanding a module's role in a larger system is to understand the API it presents, for that API is an abstraction boundary.
+
+### API-Centric Module Documentation
+
+A module's API is best understood as a collection of abstract data-types (ADTs) and the operations between them, which collectively the module implements and exports.
+(A concise, coherent, orthogonal set of such abstractions reflects a high-quality API.)
+
+Therefore, module-level documentation should:
+
+* Summarize the purpose for the module's existence within the program or library.
+* Tell the organizing principle or general nature of the module.
+	* For example, does it reflect a well-known [design pattern](https://en.wikipedia.org/wiki/Software_design_pattern)?
+* Postulate and give an overview of the ADTs and operations which this module exports/implements.
+	* This is a general guide. The full details are in the function- and class-level docstrings.
+	* Be organized according to concept, not just alphabetically.
+	* Highlight convenience methods and the common use-cases they apply to.
+	* Don't forget a section on exceptions that may burble out. These, too, are part of the interface.
+* Refer to authoritative sources for relevant bodies of academic theory.
+	* Oh, and **thou shalt** use standard vocabulary for standard concepts.
+	* This applies both to documentation and indentifiers.
+* Ideally, give some examples of how you'd use the different operations together.
+* Note any general constraints, limitations, etc.
+
+
+### Design Hints for Modules
+
+I can't resist throwing in a little advice:
+
+The seminal primary source on modularity is probably
+[On the criteria to be used in decomposing systems into modules](https://prl.ccs.neu.edu/img/p-tr-1971.pdf), David L. Parnas, 1971, Carnegie Mellon University, Pittsburgh, PA
+It's a fine read as an academic paper, not too long, and the points are every bit as valid 50 years later despite the archaic notation in the examples.
+
+TL;DR: divide module boundaries according to [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns), *not jobs*, and you'll have a flexible, sustainable system.
+
+(One comment: In 1971 there were still people worried about the overhead of a subroutine call, and Parnas spent a paragraph or two addressing that fear. In modern systems, that overhead is the least of your worries.)
+
+
 ## Documenting Projects
 
 ### Overall Architecture:
@@ -193,4 +259,5 @@ Also, an interesting interview would be to ask each member of the team
 
 * (a) what they think the answers to the above questions currently are, and
 * (b) how satisfied they are with that aspect of the status quo.
+
 
