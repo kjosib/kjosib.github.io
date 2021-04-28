@@ -18,6 +18,7 @@ I make no claim to perfection: evolution is still possible, and feedback is enco
 * [How to Make a Duck](make_duck.md) (Slightly allegorical.)
 * [Error-Reporting for Humans](error_reporting.md)
 * [Writing Documentation](documenting.md)
+* [Interviewing: From a new-ish hiring manager's perspective](interviewing.md)
 * *More to come, eventually.*
 
 
