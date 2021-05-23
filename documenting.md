@@ -184,12 +184,7 @@ TL;DR: divide module boundaries according to [separation of concerns](https://en
 
 ## Documenting Projects
 
-You can think of projects as having a "system boundary" and a "functional block diagram".
-They might reasonably be broken into sub-projects based on scope, technology, or other factors.
-At this level, pretty pictures (e.g. functional block diagram) are nice but not absolutely necessary.
-Note how the team talks about these distinctions.
-
-### Overall Familiarization / Project Citizenship:
+### Orientation / Project Citizenship:
 
 What's the overall mission, and our relationship to it?
 * Define "success" for the project, and for the team.
@@ -202,14 +197,31 @@ What principles and values are core to project success?
 * Move fast and break things?
 * Correctness first, performance later?
 
+How do we think about, and balance:
+* cost, schedule, and scope?
+* capacity, performance, reliability, availability, and correctness?
+
+Interpersonal: *Free clue: Meet these people.*
+* Who are the stakeholders?
+* What sibling projects or infrastructure teams will you need to be on good terms with? 
+* How shall the team communicate with other teams, and about what kinds of things?
+
+### Technical Overview:
+
 What are the major "system metaphors"?
 
 Note any confusing vocabulary or words overloaded with many definitions. Do you have jargon specific to your company, task force, project, or team?
 
-Are there sibling projects or infrastructure teams you'll need to be on good terms with? Secure an invitation to meet and greet.
+Describe the system boundary: What systems and actors provide and consume the inputs and outputs?
 
+In what environment must the system work? Linux? The surface of another planet?
 
 ### High-Level Functional Breakdown:
+
+A project might reasonably be broken into sub-projects based on scope, technology, or other factors.
+At this level, pretty pictures (e.g. functional block diagram) are nice but not absolutely necessary.
+Note how the team talks about these distinctions.
+
 
 What subprojects are there? What are they for, and how do they communicate?
 
@@ -270,8 +282,8 @@ for a given data store must answer these questions:
 
 Also, you'll want to note:
 
-* Which data stores are mean to hold which sorts of data
-* What sorts of retention and archiving policies apply
+* Which data stores are meant to hold which sorts of data?
+* What sorts of retention and archiving policies apply?
 * Capacity and performance restrictions and requirements
 
 ### Data in Motion:
