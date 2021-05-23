@@ -184,50 +184,108 @@ TL;DR: divide module boundaries according to [separation of concerns](https://en
 
 ## Documenting Projects
 
-### Overall Architecture:
-
-What are the major "system metaphors"?
-
 You can think of projects as having a "system boundary" and a "functional block diagram".
 They might reasonably be broken into sub-projects based on scope, technology, or other factors.
 At this level, pretty pictures (e.g. functional block diagram) are nice but not absolutely necessary.
-Note how the team talks about these distinctions. What subprojects are there? Is there a list or map?
+Note how the team talks about these distinctions.
+
+### Overall Familiarization / Project Citizenship:
+
+What's the overall mission, and our relationship to it?
+* Define "success" for the project, and for the team.
+* Is it attainable?
+* Sustainable?
+* Any special considerations or caveats?
+
+What principles and values are core to project success?
+* Stability above all?
+* Move fast and break things?
+* Correctness first, performance later?
+
+What are the major "system metaphors"?
 
 Note any confusing vocabulary or words overloaded with many definitions. Do you have jargon specific to your company, task force, project, or team?
 
 Are there sibling projects or infrastructure teams you'll need to be on good terms with? Secure an invitation to meet and greet.
 
-What about process management: creating, monitoring, signaling, and collecting results of child processes? Is there a utility API for this?
 
-### Data Landscape:
+### High-Level Functional Breakdown:
 
-* What APIs and abstraction layers does the team use for storage and interprocess communication (IPC)?
-* How to read/write to storage, and up/download; publish/subscribe; etc. using the team's chosen abstraction layer?
-* What naming conventions, data formats, credentials, and APIs will you need to know for storage/retrieval/communication?
-* What sorts of records do the different submodules store and retrieve, send and receive? And under what circumstances does this happen?
-
-### Detailed Architecture:
+What subprojects are there? What are they for, and how do they communicate?
 
 For each ``(sub-)*box`` in the functional-block diagram, ask and answer the following questions:
 
 * What's it do? Explain like to the new guy.
 * In 25 words or less, what's its raison d'être?
+* What kind of architecture is the service?
+	* e.g. is there a supervisory process and a bunch of per-$foo child processes?
+	* Explain $foo to me like I'm 5. What's the life-cycle of a $foo?
+	* What's the general flow of work between different castes of subprocess?
+	* How are each of the castes represented? What modules, classes, and methods, define each of these?
 * Describe its I/O and API boundary: What promises does it make? What does it demand?
 * What are its specific endpoints of communication (with other processes, and with data storage)?
 * Semantically, what sorts of messages come or go across each channel?
 * What are the formats of messages passed across these channels? (Don't just say "pickles"; say where to find the structure definitions.)
 * Are there any unusual storage, communication, or other APIs unique to this service, or does it strictly rely on project-wide standard practice?
 * What additional naming conventions (or such details) apply to the code, storage, and communications resources associated with this service?
-* What kind of architecture is the service? e.g. is there a supervisory process and a bunch of per-$foo child processes? Explain $foo to me like I'm 5. What's the life-cycle of a $foo?
-* For each intelligible subprocess, how would you describe it as a state-machine? What's the happy-path? The less-happy paths? What events result in what state transitions?
-* For each state, what's the meaning and consequence of every conceivable input message?
-* What kinds of "dances" to these (sub)processes engage in? (i.e. protocol negotiations, synchronization requirements; etc.) What are these dances meant to accomplish? What happens if the dance * partner dies or gets rebooted? What about extra partners stepping in?  What about delayed, duplicated, missing, or out-of-order messages?
+
+### Dynamics:
+
+For each intelligible subprocess:
+
+* How would you describe it as a state-machine?
+	* For each state, what events result in what state transitions?
+	* What's the happy-path?
+	* The less-happy paths?
+	* What's the meaning and consequence of every conceivable input message or event?
+
+Between subprocesses:
+
+* What kinds of "dances" to these (sub)processes engage in?
+	* Examples: protocol negotiations, synchronization requirements; etc.
+	* What are these dances meant to accomplish?
+	* What happens if the dance partner dies or gets rebooted?
+	* What about extra partners stepping in?
+	* What about delayed, duplicated, missing, or out-of-order messages?
+
 * Are there any Byzantine-Generals problems in all of the above? If so, how do we cope?
-* What's the general flow of work between different castes of subprocess?
-* How are each of the castes represented? What modules, classes, and methods, define each of these?
+
+### Data at Rest:
+
+What schemas, structures, and file formats are particularly relevant? How do they fit into the system?
+
+For relational databases, you probably want two views:
+
+* a conceptual/categorical management view which groups general concepts, and might index the...
+* detailed entity-relationship diagrams for quick reference by working developers.
+
+For non-relational and/or document-oriented data stores, you will have some concept of an accessor key
+for a chunk of related data. That key might look like a pathname, or it may have no particular structure,
+but one way or another you have a mental model of navigating from zero to data. Effective documentation
+for a given data store must answer these questions:
+
+* Given an accessor key following this pattern, what schema of document will I find there?
+* Given a document of this schema, what sort of information can I extract (or store)?
+* Given some sort of information, what schemas are relevant and where should I expect such documents to live?
+
+Also, you'll want to note:
+
+* Which data stores are mean to hold which sorts of data
+* What sorts of retention and archiving policies apply
+* Capacity and performance restrictions and requirements
+
+### Data in Motion:
+
+* What APIs and abstraction layers does the team use for storage and interprocess communication (IPC)?
+* How to read/write to storage, and up/download; publish/subscribe; etc. using the project's chosen abstraction layer?
+* What naming conventions, data formats, credentials, and APIs will you need to know for storage/retrieval/communication?
+* What sorts of records do the different submodules store and retrieve, send and receive? And under what circumstances does this happen?
+
+### Design and Code Conventions:
+
 * Dependency inversion strategy: We'd like to be able to "mount a scratch monkey" in many ways, so how are real and mock bits constructed and composed, as far as each caste of sub-process?
 
-
+* What about process management: creating, monitoring, signaling, and collecting results of child processes? Is there a utility API for this?
 
 
 ## Documenting Project Teams
