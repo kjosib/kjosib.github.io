@@ -19,6 +19,7 @@ I make no claim to perfection: evolution is still possible, and feedback is enco
 * [Error-Reporting for Humans](error_reporting.md)
 * [Writing Documentation](documenting.md)
 * [Interviewing: From a new-ish hiring manager's perspective](interviewing.md)
+* [Thoughts on Code Quality](code_quality.md)
 * *More to come, eventually.*
 
 
