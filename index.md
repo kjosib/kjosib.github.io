@@ -22,8 +22,8 @@ I make no claim to perfection: evolution is still possible, and feedback is enco
 * [Thoughts on Code Quality](code_quality.md)
 * [Agile, the Great and Terrible](agile_the_terrible.md)
 * [Requirements Capture and Tracking for Humans](requirements.md)
+* [Reading List for Software Developers / "Engineers"](dev_reading.md)
 * *More to come, eventually.*
-
 
 # ✨ Let's blow up the universe! ✨
 
