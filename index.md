@@ -31,6 +31,7 @@ Some ideas at the far reaches of deep design-space in computing may, if brought 
 
 * [Computer Programs as Databases, not Plain Text](code_db.md)
 * [Tabs and Spaces are Both Broken: It's time for Encapsulated Text.](tab_space.md)
+* [The Groupware of the Future](groupware.md)
 * Automated reasoning assistance for evidence and belief in uncertain propositions
 * We're (probably) doing self-driving cars completely wrong.
 

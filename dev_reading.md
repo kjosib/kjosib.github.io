@@ -21,5 +21,11 @@ There's a paper I mean to track down which explains this.
 Anyone concerned with concurrency should read Charles Anthony R. Hoare's article
 [Communicating Sequential Processes](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf).
 
+[WAT](https://destroyallsoftware.com/talks/wat)
+
+[On the Maintenance of Classic Modula-2 Compilers](https://arxiv.org/pdf/1809.07080.pdf)
+
+[The Sixth Stage of Debugging](https://levelup.gitconnected.com/the-sixth-stage-of-debugging-20d245172ffd)
+
 I will add to this list as things occur to me.
 
