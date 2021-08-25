@@ -100,21 +100,23 @@ There are going to be cases where the caller expects you to specifically follow 
 
 Assuming your doc-comment is written decently, remaining code comments have basically two purposes:
 
-1. Clarify *what* (some section of code) is doing, explained at a higher level.
+1.  Clarify *what* (some section of code) is doing, explained at a higher level.
 
-In this case, stop and see if you can extract a function.
-It doesn't matter how small, or whether it's only called once ever.
-You've identified a meaningful unit of abstract computation.
-Stop worrying and learn to love functional abstraction.
-It's our primary means to conquer complexity.
+	In this case, stop and see if you can extract a function.
+	It doesn't matter how small, or whether it's only called once ever.
+	You've identified a meaningful unit of abstract computation.
+	Stop worrying and learn to love functional abstraction.
+	It's our primary means to conquer complexity.
 
 
-2. Clarify *why* (some section of code) is designed this particular way, either in contrast to something (apparently) simpler or just as pure educational content.
+2.  Clarify *why* (some section of code) is designed this particular way,
+	either in contrast to something (apparently) simpler or just as pure educational content.
 
-First, decide if the added complexity is worthwhile. If the answer is yes, then GREAT! Leave this in.
-Don't go overboard, but this is the kind of commentary that makes maintainers happy.
+	First, decide if the added complexity is worthwhile. If the answer is yes, then GREAT! Leave this in.
+	Don't go overboard, but this is the kind of commentary that makes maintainers happy.
 
-3. There is no *how*. The *how* is in the code, and the code only -- although you may be confusing this with case #1, above.
+3.  There is no *how*. The *how* is in the code,
+	and the code only -- although you may be confusing this with case #1, above.
 
 ## Documenting (Object-Oriented) Classes
 
@@ -194,8 +196,8 @@ and even between applications.
 ## Documenting Projects
 
 The function and purpose of project-level documentation is to take the reader
-on a **journey of exposition**, from ignorance to awareness to understanding to evaluation of
-project requirements, issues, design/architecture, deployment, maintenance, and shortcomings.
+on a **journey of exposition**, from *ignorance* to *awareness* to *understanding* to *evaluation*,
+of project requirements, issues, design/architecture, deployment, maintenance, and shortcomings.
 
 Recall that the right way to divide modules is separation of concerns (not tasks).
 I believe the same separation inspires the smart way to organize documentation:
@@ -216,7 +218,7 @@ for that particular concern, with sub-sub-headings and cross-references as appro
 Because well-factored code will reflect just such a hierarchy,
 you should be able to embody much of your outline through the structuring
 conventions of your source language. Thus, the sections above about doc-comments.
-However, **some things trancend code.** Also, there are bound to be tricky interfaces
+However, **some things transcend code.** Also, there are bound to be tricky interfaces
 betweeen concerns which merit special care and commentary.
 Many of those topics are listed below:
 
