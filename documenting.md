@@ -173,16 +173,52 @@ Therefore, module-level documentation should:
 
 I can't resist throwing in a little advice:
 
-The seminal primary source on modularity is probably
+The seminal primary source on modularity is probably
 [On the criteria to be used in decomposing systems into modules](https://prl.ccs.neu.edu/img/p-tr-1971.pdf), David L. Parnas, 1971, Carnegie Mellon University, Pittsburgh, PA
 It's a fine read as an academic paper, not too long, and the points are every bit as valid 50 years later despite the archaic notation in the examples.
+(One comment: In 1971 there were still people worried about the overhead of a subroutine call, and Parnas spent a paragraph or two addressing that fear.
+In modern systems, that overhead is the least of your worries.)
 
 TL;DR: divide module boundaries according to [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns), *not jobs*, and you'll have a flexible, sustainable system.
-
-(One comment: In 1971 there were still people worried about the overhead of a subroutine call, and Parnas spent a paragraph or two addressing that fear. In modern systems, that overhead is the least of your worries.)
+Violations of this principle will prevent you from *having nice things*.
+This concept applies at all levels of modularity:
+between individual statements,
+stanzas,
+functions,
+module files,
+packages,
+services,
+and even between applications.
 
 
 ## Documenting Projects
+
+The function and purpose of project-level documentation is to take the reader
+on a **journey of exposition**, from ignorance to awareness to understanding to evaluation of
+project requirements, issues, design/architecture, deployment, maintenance, and shortcomings.
+
+Recall that the right way to divide modules is separation of concerns (not tasks).
+I believe the same separation inspires the smart way to organize documentation:
+distinct concerns and the connections (or gaps) between them.
+
+**What is a concern?** A concern is anything that adds complexity to solving a problem,
+whether high-level or low, whether essence or accident.
+
+You can think of any particular atomic fragment of documentation as falling
+along a horizontal axis representing the subject matter (or concern) it deals with,
+and a vertical axis of how sophisticated the reader is (so far) with that subject.
+
+Most probably, a process of progressive refinement will yield a general outline,
+or **hierarchy of separated concerns** similar to the Dewey decimal system.
+Within each subheading, the body text should elaborate the journey-of-exposition
+for that particular concern, with sub-sub-headings and cross-references as appropriate.
+
+Because well-factored code will reflect just such a hierarchy,
+you should be able to embody much of your outline through the structuring
+conventions of your source language. Thus, the sections above about doc-comments.
+However, **some things trancend code.** Also, there are bound to be tricky interfaces
+betweeen concerns which merit special care and commentary.
+Many of those topics are listed below:
 
 ### Orientation / Project Citizenship:
 
@@ -266,10 +302,11 @@ Between subprocesses:
 
 What schemas, structures, and file formats are particularly relevant? How do they fit into the system?
 
-For relational databases, you probably want two views:
+For relational databases, you probably want three views:
 
 * a conceptual/categorical management view which groups general concepts, and might index the...
 * detailed entity-relationship diagrams for quick reference by working developers.
+* a data dictionary, which explains the meaning or interpretataion of data found in each field.
 
 For non-relational and/or document-oriented data stores, you will have some concept of an accessor key
 for a chunk of related data. That key might look like a pathname, or it may have no particular structure,
