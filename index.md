@@ -20,6 +20,7 @@ I make no claim to perfection: evolution is still possible, and feedback is enco
 * [Writing Documentation](documenting.md)
 * [Interviewing: From a new-ish hiring manager's perspective](interviewing.md)
 * [Thoughts on Code Quality](code_quality.md)
+* [Vehement Words on Testing](code_test.md)
 * [Agile, the Great and Terrible](agile_the_terrible.md)
 * [Requirements Capture and Tracking for Humans](requirements.md)
 * [Reading List for Software Developers / "Engineers"](dev_reading.md)
