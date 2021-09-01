@@ -4,6 +4,38 @@ These vehement words come in no particular order. Yet.
 
 Please also know there are whole books, and good ones, on this subject. Maybe these words will tempt you to find and read one.
 
+I'm assuming you're on-board with the general ideas of test automation.
+
+## Tests Are Not Documentation.
+
+Documentation needs to say what is, what was,
+and what shall come to be. Tests deal only in the present.
+At best, a test specifies how things were expected to
+be at the moment when it was created. But plans and specifications have
+their own lifecycle, independent of the code and its tests.
+So too with documentation.
+
+It's fine to have a documentation format from which test cases may be extracted.
+Indeed, this is an excellent idea, especially for API usage examples.
+But too many unwholesome forces apply to the production of tests generally,
+and especially in the *enterprise environment* where different people have
+different agendas. 
+
+## Tests Are Not Requirements.
+
+That's not to say you can't encode a requirement into a test.
+This too is an excellent idea *where it makes sense*.
+It just has a limited domain of applicability.
+
+* By the way, special tools and languages exist just for this purpose.
+  They are typically founded on a *given / when / then* semantic framework,
+  with enough syntactic sugar as to be readable (though not necessarily writable)
+  by non-technical people.
+
+It's to say that the Platonic essence of a *requirement* is categorically different from that of a *test*.
+* They change for different reasons, and they carry different amounts of weight in a conflict.
+* Requirements give *direction*. Tests give *assurance*.
+* If a current requirement and a current test disagree, *the requirement wins* and the test has to change.
 
 ## Testing for Reliability
 
@@ -20,6 +52,33 @@ what sorts of flaws are likely, given human nature and programmer psychology.
 
 * Example: off-by-one errors are common, so we test near size thresholds.
 
+## Testing for Regressions
+
+Regression testing is one of the most mature testing strategies.
+It also comes with the easiest business case for providing long-term value.
+The fundamental assumptions are:
+* We're going to make mistakes. These will lead to product failure modes.
+* We're not too good at predicting them (or we wouldn't make them!)
+* We will have to reproduce a failure mode to fix the underlying mistake.
+* That act constitutes the creation of a test case.
+* By keeping these around in an automated suite, our process can learn from the mistakes of the past.
+
+Theory says that if you have kept good data about the sorts of regression tests
+you end up with over time, then you'll start to get better about predicting the
+kinds of cases where bugs are likely to happen, and that's how you get a good
+QA engineer who can be productive writing tests for reliability, possibly even
+before the function-under-test is quite complete.
+
+I find this a compelling argument in the abstract, but it does invite challenging politics.
+To quote Casey Stengel, "good pitching will always stop good hitting, and vice-versa."
+A separate QA department easily falls into an adversarial (or worse: conspiratorical)
+relationship with main-line development.
+
+One approach to managing that relationship is to make QA and development be the same people,
+wearing different hats at different times.
+That's essentially the case for making developers write their own (unit) tests.
+You could also do this with pairs of programmers who trade roles periodically.
+A greater discussion of the benefits of pair programming is beyond the scope of this rant, though.
 
 ## Testing for Coverage
 
