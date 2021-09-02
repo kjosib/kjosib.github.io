@@ -61,24 +61,21 @@ The fundamental assumptions are:
 * We're not too good at predicting them (or we wouldn't make them!)
 * We will have to reproduce a failure mode to fix the underlying mistake.
 * That act constitutes the creation of a test case.
-* By keeping these around in an automated suite, our process can learn from the mistakes of the past.
+* By keeping these around in an automated suite, our process can learn from the mistakes of the past
+  and avoid accidentally re-introducing a flaw we've fixed before.
 
 Theory says that if you have kept good data about the sorts of regression tests
 you end up with over time, then you'll start to get better about predicting the
-kinds of cases where bugs are likely to happen, and that's how you get a good
-QA engineer who can be productive writing tests for reliability, possibly even
-before the function-under-test is quite complete.
+kinds of cases where bugs are likely to happen, and that's how you get good
+QA/Test Engineers who can be productive writing tests for reliability,
+possibly even before the function-under-test is quite complete.
 
-I find this a compelling argument in the abstract, but it does invite challenging politics.
-To quote Casey Stengel, "good pitching will always stop good hitting, and vice-versa."
-A separate QA department easily falls into an adversarial (or worse: conspiratorical)
-relationship with main-line development.
+* Clarification: I'm being deliberately abstract about the nature of these mistakes.
+  They might be low-level function flaws or high-level integration snafus.
+  I'll get to organizing your test cases some other time.
 
-One approach to managing that relationship is to make QA and development be the same people,
-wearing different hats at different times.
-That's essentially the case for making developers write their own (unit) tests.
-You could also do this with pairs of programmers who trade roles periodically.
-A greater discussion of the benefits of pair programming is beyond the scope of this rant, though.
+* Digression: I find this section to be a compelling argument for a certain approach
+  to the practice of programming, but that's [an entirely different rant.](./code_practice.md)
 
 ## Testing for Coverage
 
