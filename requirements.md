@@ -1,5 +1,8 @@
 # Requirements Capture and Tracking for Humans
 
+Prereading:
+[Interview with Fred Brooks on “Building Effective Large-Scale Requirements”](https://link.springer.com/article/10.1007/s12599-010-0104-x)
+
 These days, [Agile Development](agile_the_terrible.md) is all the rage, so let's assume:
 
 * Lax process controls relying on human (un)reliabilty.
