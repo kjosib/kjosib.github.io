@@ -22,8 +22,8 @@ I make no claim to perfection: evolution is still possible, and feedback is enco
 * [Thoughts on Code Quality](code_quality.md)
 * [Vehement Words on Testing](code_test.md)
 * [Agile, the Great and Terrible](agile_the_terrible.md)
-* [Requirements Capture and Tracking for Humans](requirements.md)
 * [Reading List for Software Developers / "Engineers"](dev_reading.md)
+* [Thoughts on the Practice of Programming](code_practice.md)
 * *More to come, eventually.*
 
 # ✨ Let's blow up the universe! ✨
@@ -33,6 +33,7 @@ Some ideas at the far reaches of deep design-space in computing may, if brought 
 * [Computer Programs as Databases, not Plain Text](code_db.md)
 * [Tabs and Spaces are Both Broken: It's time for Encapsulated Text.](tab_space.md)
 * [The Groupware of the Future](groupware.md)
+* [Requirements Capture and Tracking for Humans](requirements.md)
 * Automated reasoning assistance for evidence and belief in uncertain propositions
 * We're (probably) doing self-driving cars completely wrong.
 
