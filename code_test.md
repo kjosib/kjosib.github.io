@@ -70,11 +70,11 @@ kinds of cases where bugs are likely to happen, and that's how you get good
 QA/Test Engineers who can be productive writing tests for reliability,
 possibly even before the function-under-test is quite complete.
 
-* Clarification: I'm being deliberately abstract about the nature of these mistakes.
+* **Clarification:** I'm being deliberately abstract about the nature of these mistakes.
   They might be low-level function flaws or high-level integration snafus.
   I'll get to organizing your test cases some other time.
 
-* Digression: I find this section to be a compelling argument for a certain approach
+* **Digression:** I find this section to be a compelling argument for a certain approach
   to the practice of programming, but that's [an entirely different rant.](./code_practice.md)
 
 ## Testing for Coverage
@@ -220,25 +220,65 @@ but they fit in a different part of the deployment and reliability pipeline.
 By definition these can only test the cases that correspond to the environments in which they run.
 Your continuous-test server can not get a meaningful result from the production-integration-validation test case.
 
+## Drawing the Line on Dependencies
 
-## Assert what you mean.
+Extending the session-cache example from above:
 
-Every so often, I see someone's wrapped a log-capturing patch around a call to some function-under-test.
-They call the function and then assert the log contains some string or another.
-On a good day when I haven't gone full drill-instructor, I'll politely ask the perpetrator
-what the intended purpose of that function-under-test was. Invariably, they *do not* say anything
-about logging a message. Then why, I ask, do they assert in a unit test that it logs a message?
-Typically, I'm next told "That's how I know it worked."
+You might decide that a session cache needs to be able to:
+* read and write the current session, and
+* invalidate idle sessions periodically
 
-I'm not even going to try anymore to understand this obvious double-think.
+Maybe you go on to define:
+* "current" in terms of browser cookies, IP address, and a unique ID.
+* "read and write" in terms of opaque objects known only to the application layer.
+* "periodically" in terms of time.
 
-Oh by the way, there's also a very good chance that the offending function violated the CIPO boundary.
+In that case, you have several dependencies:
+* the browser's cookies (to read, but also to write in case of a new session)
+* a source of unique IDs
+* some sort of persistence layer, which supports a two kinds of queries and one update
+* a concept of time, which applies to all session operations
 
-## `unittest.mock` is not your friend.
+You want to be able to phrase your unit testing as follows:
+
+* **Given** that all of my dependencies work as advertised,
+* **When** my caller invokes feature X,
+* **Then** feature X works as advertised.
+
+When all the modules in a system provide that particular style of assurance,
+then there's a neat inductive proof that the whole system works as advertised.
+
+----
+
+You're probably mumbling to yourself that it's impractical to to incorporate a web browser
+and a database into the unit tests for some server-site session-management system.
+That's why (and when) we create mocks.
 
 The proper concept and application of mock objects are clearly explained at
 [the Wikipedia page on the subject](https://en.wikipedia.org/wiki/Mock_object).
 
+In short, the mock should exhibit an API that is *similar enough* to a real implementation,
+but it should also have other characteristics (such as simplicity, speed, and instrumentation)
+which make it *fit for purpose* in the context of the test.
+
+An interesting software-engineering consequence is that you nail down an API even if you haven't done yet.
+That means there are good and bad ways to make and use mock objects,
+corresponding roughly to good and bad ways to design an API.
+
+## `unittest.mock` is not your friend. `mock.patch` may even be the enemy.
+
+In Python's standard library, ``unittest.mock`` exposes a few kinds of "magic-mock" objects.
+They're "magic" in that they respond favorably to just about any conceivable (mis)treatment,
+constructing new magic-mocks along the way.
+This is held up as an example of saving the programmer time.
+
+It has its place, but it is no magic wand.
+
+Just for a simplistic example: Suppose your module-under-test makes an invalid API call against
+a dependency. A magic-mock will report no errors. But a realistic-mock would throw the missing-method
+exception you need to see right then.
+
+* Clarification: Yes, the auto-spec feature solves some of this, but not all.
 
 In [To Kill a Mocking-Nest](https://www.rea-group.com/blog/to-kill-a-mockingtest/),
 Ken Scambler points out a number of problems surrounding the use of mocks and
@@ -252,7 +292,81 @@ His thesis is roughly:
 
 He also gives a couple of illuminating case studies exploring why people are tempted to mock, along with simple design fixes that **assert what he means** about API behavior.
 
-Mark Sands gives a more impassioned but also more concise expression of similar ideas in
+## Assert what you mean.
+
+Every so often, I see someone's wrapped a log-capturing patch around a call to some function-under-test.
+They call the function and then assert the log contains some string or another.
+On a good day when I haven't gone full drill-instructor, I'll politely ask the perpetrator
+what the intended purpose of that function-under-test was. Invariably, they *do not* say anything
+about logging a message. *Then why,* I ask, *do you assert in a unit test that it logs a message?*
+Typically, I'm next told "That's how I know it worked." 👎😞
+
+I'm not even going to try anymore to understand this obvious double-think.
+
+Oh by the way, there's also a very good chance that the offending function violated the CIPO boundary.
+
+Mark Sands gives a more impassioned expression of similar ideas in
 [Mocking is tautological.](http://marksands.github.io/2014/05/14/mocking-is-tautological.html)
-He ends the
+
+# Calming the Maelstrom
+
+A this point it seems not everyone uses words like "mock" and "patch" in exactly the same way.
+I've argued *for* dependency injection and mock-objects, and then I've turned around and argued
+apparently *against* the very same thing! Where do I stand? What color are my test boxes?
+
+One size does not fit all. 
+We are called to make (and sometimes defend) technical choices and trade-offs in support of strategy goals.
+There will always be encouragement to shift things this way or that.
+
+The whole point of testing is [quality](code_quality.md), which is subjectively defined by
+whoever is paying for the product to be built and supported.
+Those quality requirements should determine how much time, energy, and creativity will be
+devoted to testing, and how deeply/thoroughly that testing will be done.
+
+A good testing approach acheieves the required level of assurance at reasonable cost,
+both in terms of
+* the effort to test,
+* the opportunity cost (e.g. new functionality),
+* and the presumed systemic slow-down to adjust tests for details that change.
+
+If you're in a mature organization, many of those decisions will already be a matter of culture.
+If you feel the project you're working on merits a different level of care than it seems to be attracting,
+it's probably a good time to apply your people skills.
+
+## What about test-driven development?
+
+Does anyone remember XP? Extreme Programming?
+It started with the notion that practices are a system, meaningless in isolation.
+And then it turned a lot of dials up to eleven.
+Writing the test *before* the code was one of those dials.
+Mandatory pair-programming was another.
+
+I think the average corporate environment undermines these original XP practices,
+and probably others besides. It feels like that clash between two different songs playing at once.
+
+To write a test before the corresponding code exists, you must first decide on an API and a scenario.
+Now chances are your commit rules won't let you check in a failing test, so you have to implement something.
+You can either do it for real, or *do the simplest thing that could possibly work* which presumably just spits out the expected result.
+According to TDD dogma, you're meant to do the latter, check it in, and then go back to adding scenarios until...
+
+Do you have a clearly defined stopping condition?
+
+Because I think you need one. And that condition is the actual API contract.
+And you might easily be able to cast such a contract into a modicum of illustrative test cases.
+But if you do this, then you have a fat wad of test code which prevents you from checking in partial progress on your module.
+
+I think the *feasible* way is to develop tests and code in parallel,
+much the same way you might develop proof and code in parallel.
+You start with a quantum of API design, considering *design for test* as explained earlier.
+From the API flows the pre- and post-conditions, the dependencies, and so forth.
+These in turn *dictate* both proof obligation and code,
+but they leave the writing of actual test cases to judgment and discipline as a risk mitigation activity.
+
+## Parting Observations
+
+Test-case quality is much more important than quantity:
+For any given module, the first few tests you write will have the greatest impact.
+
+You seem to get the most (impact, code coverage, etc) the fastest by testing with realistic (if abridged)
+scenarios and, where necessary for practicality, realistic mocks.
 
