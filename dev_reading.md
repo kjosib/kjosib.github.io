@@ -32,6 +32,11 @@ TL;DR: Separate *concerns*, not *jobs*, and you will do reasonably well.
 * The proper domain of a module is abstract data types and the operations among them.
 There's a paper I mean to track down which explains this.
 
+[Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/) is a web-hosted presentation.
+(It has a video feed and a separate portion of the browser window used for slides.)
+The hour you invest to watch this presentation will be repaid ten thousand times
+in terms of increased quality of life for yourself and your colleages.
+
 I wrote down a few [thoughts on code quality](code_quality.md) some time back. So have many others.
 That's why I linked to several primary sources. Speaking of:
 
