@@ -75,6 +75,18 @@ However, when reading this, please keep in mind a few points:
 * At least in Python, I've often seen both unit- and integration-tests use the same `unittest` framework.
 * The corresponding sin for integration tests is excessive monkey-patching (e.g. ``mock.patch``).
 
+## Software as a way of life
+
+[Things you should never do, Part 1](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+is Joel Spolski's experiential rant about the terrible idea it usually is to wipe the slate and start from scratch
+when you already have a functioning (if perhaps crufty) system.
+* Joel's advice on this topic is almost always correct. In particular, it is probably correct for your current project.
+* It may seem at odds with Fred Brooks' advice to [Build one to throw away](https://wiki.c2.com/?PlanToThrowOneAway).
+  Rapid prototyping has value, but Joel is on about full-scale projects. You know: the ones in danger of
+  [Second Second Effect](https://wiki.c2.com/?SecondSystemEffect).
+* [Rob Landley's Reply](https://www.landley.net/writing/stuff/2007-05-14.html) has a few good counterpoints,
+  but he does not reverse the main thrust.
+
 ## The Industry
 
 Anyone who's thought about teaching the subject should read
