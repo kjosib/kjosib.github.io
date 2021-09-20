@@ -25,6 +25,20 @@ It should use that logic, along with organizational priorities,
 to highlight the most important or valuable issues any given person can be working on just now.
 And it should also tell you when your own pet projects are stuck behind a long list of higher priorities.
 
+Part of a solution might be:
+* an organized and federated system
+* supporting publish/subscribe/retain/search/audit
+* for formally- and informally-structured multimedia documents,
+* and semantic links between them.
+
+We may postulate that each document:
+* has a globally-unique identifier by which it may be retrieved most rapidly.
+* participates in a systematic organization of topics, tags, and sequences (to be described elsewhere).
+* has a schema, which consists of one or more (typed) content fields and link types, and which is made manifest by a meta-application.
+
+Ticketing and workflow may be seen as a highly-structured application of publish/subscribe.
+Automated notifications could amount to publishing documents with carefully-chosen tags and topics.
+
 ## Things I do not mean
 
 There's a sense in which Google Wave was sort of like this. But only sort of.
