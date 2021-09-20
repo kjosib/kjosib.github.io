@@ -82,10 +82,16 @@ is Joel Spolski's experiential rant about the terrible idea it usually is to wip
 when you already have a functioning (if perhaps crufty) system.
 * Joel's advice on this topic is almost always correct. In particular, it is probably correct for your current project.
 * It may seem at odds with Fred Brooks' advice to [Build one to throw away](https://wiki.c2.com/?PlanToThrowOneAway).
-  Rapid prototyping has value, but Joel is on about full-scale projects. You know: the ones in danger of
+  Rapid prototyping has value, but Joel writes of production-stage projects. You know: the ones in danger of
   [Second Second Effect](https://wiki.c2.com/?SecondSystemEffect).
+* Joel has a good head on his shoulders: Most of the rest of https://www.joelonsoftware.com is worth reading too, or maybe spring for his book.
 * [Rob Landley's Reply](https://www.landley.net/writing/stuff/2007-05-14.html) has a few good counterpoints,
   but he does not reverse the main thrust.
+
+[Two Is An Impossible Number](https://wiki.c2.com/?TwoIsAnImpossibleNumber) starts with some good advice about
+design in the face of optionality: Once *A* and *B* are allowed, then *C..Z* are not far behind.
+As with any proverb, you have to apply common sense: If you squint just right,
+you can almost make out a case for premature generalization. But that would be premature.
 
 ## The Industry
 
