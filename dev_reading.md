@@ -32,6 +32,10 @@ TL;DR: Separate *concerns*, not *jobs*, and you will do reasonably well.
 * The proper domain of a module is abstract data types and the operations among them.
 There's a paper I mean to track down which explains this.
 
+[Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
+will both *motivate* and familiarize you with the benefits of truly *functional* programming.
+Read it: you'll crave referential transparency and maybe even lazy evaluation.
+
 [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/) is a web-hosted presentation.
 (It has a video feed and a separate portion of the browser window used for slides.)
 The hour you invest to watch this presentation will be repaid ten thousand times
