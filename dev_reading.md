@@ -70,14 +70,50 @@ into less than five hilarious minutes of biting satire.
 
 [On the Maintenance of Classic Modula-2 Compilers](https://arxiv.org/pdf/1809.07080.pdf)
 
+## A focus on testing
+
+**Let's begin at the beginning:**
+Circa 1971, Edsger Dijkstra, the grand-daddy of formal methods, wrote in
+[On the reliability of programs](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD303.html)
+not only of the "software crisis", but also gave the first *and only* viable path to reliable software:
+* Consider a program to be a *mathematical artefact*.
+* Demand a (more or less formal) proof-of-correctness.
+* Develop said proof hand-in-hand with the program.
+* Eliminate all possible *sources* of error.
+* Apply the right kinds of abstractions and stick to what we can understand.
+* Testing and debugging are hopelessly inadequate for software quality, although they may uncover clerical errors.
+
+**Point:**
+[Integrated Tests Are A Scam](https://vimeo.com/80533536) is a 65-minute video presentation
+in which J. B. Rainsberger:
+* lays out the problem with "integration tests" (in common practice),
+* sketches a clear solution for how to do testing the *isolated* way,
+* illuminates the positive impact this makes on architecture and design,
+* and finally gives a straightforward proof, in terms of mathematical induction, that the method is reliable.
+
+Rainsberger's approach is a solid one: define interfaces, test contracts and collaboration, and then
+*[it's turtles all the way down](https://en.wikipedia.org/wiki/Turtles_all_the_way_down)*
+until you reach a trusted boundary. At that point, you can work to minimize the surface area of that boundary.
+
+**Counterpoint:**
+In [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a),
+Eric Elliot surveys from the opposite extreme: a quagmire of too many defined, tested, and *mocked* APIs,
+which collectively paralyze efforts to respond to changing requirements -- generally due to coupling.
+His central tenet might be this quote: *Mocking is required when our decomposition strategy has failed.*
+He then proceeds to lay out a panoply of techniques and prescriptions for removing various design errors.
+
+**Synthesis:**
+Naturally I have my own [Vehement words about software testing](code_test.md).
+These words are far from being an exhaustive treatise, but they hit the main issues I see in practice.
+Topics include:
+* The nature, purpose, and promise of tests
+* Designing programs with effective testing in mind
+* Designing effective tests with program flexibility in mind
+* Testing practices and culture
+
+**Humor:** Embedded near the beginning of
 [The Sixth Stage of Debugging](https://levelup.gitconnected.com/the-sixth-stage-of-debugging-20d245172ffd)
-
-[Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
-However, when reading this, please keep in mind a few points:
-
-* The author is focused on unit tests, not integration tests.
-* At least in Python, I've often seen both unit- and integration-tests use the same `unittest` framework.
-* The corresponding sin for integration tests is excessive monkey-patching (e.g. ``mock.patch``).
+comes the mentioned list of six stages. Fair warning: the rest is psychobabble of dubious profundity.
 
 ## Software as a way of life
 
