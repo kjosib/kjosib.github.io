@@ -159,7 +159,7 @@ But I've seen (and made) way too many messes in this arena.
 
 Why is this hard?
 
-The answer is that people trained principally on conventional programming languages
+My hypothesis is that people trained principally on conventional/imperative programming languages
 tend to make poor architectural choices around control functions.
 In fact, I would venture a guess that, as an industry, we've done a poor job of teaching
 people how to design control functions.
