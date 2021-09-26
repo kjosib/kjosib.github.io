@@ -111,9 +111,21 @@ Topics include:
 * Designing effective tests with program flexibility in mind
 * Testing practices and culture
 
+**Elements of Style:**
+[Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
+is Martin Fowler's cogent explanation of two major styles of unit testing,
+and the tools and philosophies that guide them. Personally, I find the classic
+style more compelling in almost every case: *I do X, the result should be Y.*
+That's a meaningful and falsifiable proposition. The result I want is usually
+just a return value. If I/O is on the line, I'll pass in a fit-for-purpose fake
+dependency and check the post-condition by interrogating the fake.
+Yes, that means I have to verify that the fake API is sufficiently realistic.
+Java has interfaces for that. Python has -- well -- the lesson is over for today.
+
 **Humor:** Embedded near the beginning of
 [The Sixth Stage of Debugging](https://levelup.gitconnected.com/the-sixth-stage-of-debugging-20d245172ffd)
 comes the mentioned list of six stages. Fair warning: the rest is psychobabble of dubious profundity.
+
 
 ## Software as a way of life
 
@@ -132,6 +144,11 @@ when you already have a functioning (if perhaps crufty) system.
 design in the face of optionality: Once *A* and *B* are allowed, then *C..Z* are not far behind.
 As with any proverb, you have to apply common sense: If you squint just right,
 you can almost make out a case for premature generalization. But that would be premature.
+
+[Getting Shit Done](https://www.rea-group.com/about-us/news-and-insights/blog/getting-shit-done/)
+is one part bleary nostalgia, three parts cool reflection, and nine parts wise counsel of lessons
+the author prays his colleagues might embrace from the excesses and vicissitudes of the past.
+
 
 ## The Industry
 
