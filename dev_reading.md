@@ -18,6 +18,28 @@ I'm assuming you are reasonably fluent in some general-purpose programming langu
 and you can make it do a decent variety of cute tricks.
 However, seventeen syllables do not a haiku make.
 
+Take a moment to think about what *engineering* means in any other context than software.
+What does a process engineer or a mechanical engineer do all day long?
+The answer is a number of things, but among them you will find:
+* Living up to a [professional code of ethics](https://www.acm.org/code-of-ethics).
+* Applying technical knowledge to design solutions to hard problems.
+* [Documenting the work thoroughly](documenting.md),
+  and delivering that documentation to the client as part of the deal,
+  for a laundry-list of excellent reasons.
+* Taking [personal responsibility](https://www.acm.org/about-acm/risks-forum) for the work.
+
+As an adjunct to the usual form of software documentation,
+I would encourage anyone and everyone to have a look around http://www.literateprogramming.com/
+for inspiration. Invented by [Donald Knuth](https://www.google.com/search?q=Donald+Knuth),
+the idea is to put exposition foremost, with the idea that software is *read* much more often
+than it is *written*. In a significant money-where-mouth-is way, this idea is vindicated
+through Knuth's vaunted **TeX** computerized typesetting system. Along with **MetaFont**,
+the two systems are written with literate programming and are subject to the first and
+[most prestigious bug-bounty program ever](https://en.wikipedia.org/wiki/Knuth_reward_check),
+but in over 40 years of their existence, they've netted a shockingly small quantity of bugs.
+(Although it may be hypthesized this is a consequence less of the development methodology
+and more of the fact that a *literal* God of Computer Science wrote it....)
+
 Edsger Dijkstra infamously quipped that software engineering is *how to program when you cannot*.
 I do believe that software can be an engineered product, but often it is merely designed.
 A good place to start, though, is with his treatise on programming:
