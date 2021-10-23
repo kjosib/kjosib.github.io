@@ -68,24 +68,24 @@ then have a look at the section on related cultural issues and see what you migh
 What do we know about the Business Requirement?
 
 * Definition of Success
-	* By the way, now's the time to think about design life.
+  * By the way, now's the time to think about design life.
 * Identity of Stakeholders:
-	* Not just owners, but also
-	* day-to-day operators
-	* maintainers
-	* construct/deploy/IT infrastructure people
-	* developers/engineers/designers
-	* incident-response team, for supportability
-	* (maybe more?)
+  * Not just owners, but also
+  * day-to-day operators
+  * maintainers
+  * construct/deploy/IT infrastructure people
+  * developers/engineers/designers
+  * incident-response team, for supportability
+  * (maybe more?)
 * Constraints:
-	* Regulatory
-	* Ethical
-	* Technical
-	* Budget
-	* Scope
-	* Schedule
-	* Logistical
-	* (maybe more?)
+  * Regulatory
+  * Ethical
+  * Technical
+  * Budget
+  * Scope
+  * Schedule
+  * Logistical
+  * (maybe more?)
 
 What definition and analysis has already been done?
 
@@ -93,20 +93,20 @@ What definition and analysis has already been done?
 * Transactions necessary to implement core functionality
 * Operabilty, reliability, and monitoring concerns
 * Size:
-	* Data, Compute, Storage, Communications
-	* Feed-stock Charateristics, Process-plant, Import/Export terminals
-	* *Your industry here*
+  * Data, Compute, Storage, Communications
+  * Feed-stock Charateristics, Process-plant, Import/Export terminals
+  * *Your industry here*
 * General layout / breakdown / roadmap:
-	* features and sub-features
-	* systems and sub-systems
+  * features and sub-features
+  * systems and sub-systems
 * Partners, colleagues, and vendors:
-	* Points of contact
-	* Service level agreements and responsiveness expectations
-	* Multi-way interface agreements *(I need Alice and Bob to cooperate...)*
-	* Specifications on deliverable artifacts and services
-	* Scope of support after the fact
-	* Any costs involved, or money changing hands
-	* Logistical concerns
+  * Points of contact
+  * Service level agreements and responsiveness expectations
+  * Multi-way interface agreements *(I need Alice and Bob to cooperate...)*
+  * Specifications on deliverable artifacts and services
+  * Scope of support after the fact
+  * Any costs involved, or money changing hands
+  * Logistical concerns
 
 
 ## Some related cultural issues
@@ -115,20 +115,20 @@ How do we keep this large project on track?
 
 * A growing team requires an evolving management style.
 * Dog-house, People-house, Apartment-complex, Skyscraper:
-	* Larger projects require more than just grunt-level technical activity.
-	* You can't solve all your problems with code anymore.
+  * Larger projects require more than just grunt-level technical activity.
+  * You can't solve all your problems with code anymore.
 * The forecast: It needs to
-	* exist, and everyone should see it.
-	* change, and for the right reasons.
-	* achieve more detail, as activities approach or complete.
+  * exist, and everyone should see it.
+  * change, and for the right reasons.
+  * achieve more detail, as activities approach or complete.
 * What fraction of efforts, on a continuous or periodic basis, will you devote to:
-	* Refinining and scheduling the near-term forecast?
-	* The same, but for intermediate term, and longer-term?
+  * Refinining and scheduling the near-term forecast?
+  * The same, but for intermediate term, and longer-term?
 * How shall we measure and manage the schedule?
-	* Take small bites.
-	* Plan the work and work the plan.
-	* Don't get too far ahead of yourself.
-	* Lather, rinse, and repeat on a defined cadence.
+  * Take small bites.
+  * Plan the work and work the plan.
+  * Don't get too far ahead of yourself.
+  * Lather, rinse, and repeat on a defined cadence.
 
 How shall we communicate the forecast, schedule, and progress?
 
@@ -146,9 +146,9 @@ What information composes the schedule and progress?
 
 * On what scales shall we define blocks of work?
 * At each scale:
-	* Which blocks are in what status?
-	* broadly speaking how fast are we moving?
-	* Who all is working on which blocks right now?
-	* What blocks are stuck or at schedule risk, and why?
-	* What blocks require what other blocks complete before meaningful progress can begin?
+  * Which blocks are in what status?
+  * broadly speaking how fast are we moving?
+  * Who all is working on which blocks right now?
+  * What blocks are stuck or at schedule risk, and why?
+  * What blocks require what other blocks complete before meaningful progress can begin?
 	
