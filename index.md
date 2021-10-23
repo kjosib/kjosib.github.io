@@ -24,6 +24,7 @@ I make no claim to perfection: evolution is still possible, and feedback is enco
 * [Agile, the Great and Terrible](agile_the_terrible.md)
 * [Reading List for Software Developers / "Engineers"](dev_reading.md)
 * [Thoughts on the Practice of Programming](code_practice.md)
+* [Project Kick-Off](kick_off.md)
 * *More to come, eventually.*
 
 # ✨ Let's blow up the universe! ✨
