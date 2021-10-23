@@ -108,6 +108,12 @@ What definition and analysis has already been done?
   * Any costs involved, or money changing hands
   * Logistical concerns
 
+Broadly speaking, how shall we proceed?
+
+* Roles and Responsibilities (in the abstract)
+* Key Persons list (concretely, who embodies those roles)
+* Action items: short, medium, and long-term
+* Time line for follow up on each scale
 
 ## Some related cultural issues
 
