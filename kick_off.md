@@ -1,8 +1,8 @@
-# Project Kick-Off
+# Project Kick-Off and Realignment
 
 Struggling to get a project off the ground?
 Maybe it needs a kick.
-Are you getting what you need from your project kick-off meetings?
+Are you getting what you need from your kick-off and realignment meetings?
 
 
 ## What For?
@@ -10,29 +10,39 @@ Are you getting what you need from your project kick-off meetings?
 The kick-off sets the (initial) tone of the entire project to come.
 Do it well, and you're off to a good start. And conversely.
 
-A proper kick-off accomplishes (at least) several goals:
+I've read that the purpose of all meetings is to get someone to do
+something they might not otherwise do.
+In general, people aren't especially prone to spontaneously organize
+and coordinate towards a common goal without clarity and motivation.
+The kick-off provides both.
 
-* The staff is revved up to perform and aligned on the mission.
-* There's a clear and prominent record of:
+Whether you hold a fancy offsite with catered lunch or gather
+in a dusty grey conference room with notepads and coffee,
+a proper project kick-off accomplishes (at least) several sub-goals:
+
+* Clients, Project Sponsors, and Lead Staff are all aligned on mission and vision.
+* The lead staff is revved up to perform, with a basic idea about what's required.
+* The client is reminded of, and has agreed to, its responsibilites.
+* Meaningful work can ramp up in earnest.
+* There's a *clear and prominent record* of:
 	* The original goal, at least in overview.
 	* The original concept of how to get there.
 	* Big risks and major milestones.
 	* Top-level outline of scope, schedule, and budget.
-* Meaningful work can ramp up in earnest.
 
-We commonly think of that brief retreat where the senior-most poobahs
-huddle for a day, eat a catered lunch, and then declare that *it will be great,*
-but that's far from the only session you need.
+Localized, team-by-team kick-off activities bring similar benefits:
 
-At each layer of communication (such as between team-lead and direct-contributor)
-a localized kick-off meeting helps get things underway for that specific sub-unit of your organization
-and its localized responsibilites that contribute to the larger project success.
+* The team's specific contribution to mission and vision are clear.
+* Pathways for internal communication are established.
+* Roles, responsibilites, norms, and values come into focus.
+* Meaningful work can begin.
 
-Sometimes, you're recovering from missed steps.
-Perhaps project stakeholders feel a bit in the dark.
-Perhaps the project is a bit off the rails.
-The form and substance of the kick-off may help you recover some lost momentum,
-or at least find which way the rails might have gone without you.
+Finally, periodic realignment meetings help keep the project on-track.
+Gently massaged, the form and substance of the kick-off meeting can
+be a great way to draw attention to, and begin to resolve, project imbalances.
+Indeed, even if you've inherited a disaster,
+cutting your losses is a project in itself.
+It merits something akin to a kick-off.
 
 
 ## How To?
@@ -40,8 +50,7 @@ or at least find which way the rails might have gone without you.
 First, all the usual rules of meetings apply:
 * Block out an appropriate amount of time.
 * Invite the right people, and make sure they can pay attention.
-  (That fellow with his mind on Fantasy Sportsball is going to scuttle your project, so fire him.)
-* Set the right agenda. (A sample is below).
+* Set the right agenda. (A sample is below, but you'll want to customize it.)
 * Have someone *designated* to take the minutes/notes.
   (This, and the lead/facilitator, are the only person allowed to open their laptops.)
 * Publish the results of the meeting in a proper place.
@@ -49,11 +58,7 @@ First, all the usual rules of meetings apply:
 Because the kick-off is designed to align the momentum of a team,
 you need immediate follow-up, loudly and with much fanfare,
 to make sure everyone knows where to find the resulting artifacts.
-And I do mean *everyone*, all the way from the executive sponsor to the high-school drop-out pushing a broom for minimum wage.
-(Digression:
-That drop-out makes it so we can work.
-What's *our* best alternative to clean hallways?
-Is he compensated accordingly?)
+And I do mean *everyone*, all the way from the executive sponsor to the summer intern.
 
 And again, you'll need another larger cycle of follow-up to make sure the effects stick across time and space.
 See that your lieutenants are getting their own people aligned on mission accordingly.
@@ -77,7 +82,7 @@ What do we know about the Business Requirement?
   * developers/engineers/designers
   * incident-response team, for supportability
   * (maybe more?)
-* Constraints:
+* Known and Unknown Constraints:
   * Regulatory
   * Ethical
   * Technical
@@ -120,9 +125,8 @@ Broadly speaking, how shall we proceed?
 How do we keep this large project on track?
 
 * A growing team requires an evolving management style.
-* Dog-house, People-house, Apartment-complex, Skyscraper:
-  * Larger projects require more than just grunt-level technical activity.
-  * You can't solve all your problems with code anymore.
+* Bigger projects require more careful planning and technical documentation.
+* What's the GICOT (good-idea cut-off time) for different kinds of changes?
 * The forecast: It needs to
   * exist, and everyone should see it.
   * change, and for the right reasons.
@@ -135,6 +139,24 @@ How do we keep this large project on track?
   * Plan the work and work the plan.
   * Don't get too far ahead of yourself.
   * Lather, rinse, and repeat on a defined cadence.
+
+How shall we refine the scope successively until the bites are chewable?
+
+* This smacks of top-down design. That's fine; I believe in it.
+* It also sounds like big-design-up-front. It's not; you can leave sections to be refined later.
+* Agile tempts people to procrastinate on refinement,
+  especially for high-risk features with external dependencies,
+  because there's generally something more immediately acheivable.
+* Beyond some threshold size, nobody volunteers for a task.
+  To mitigate this, make tickets for *investigation* and *design*.
+  Decide ahead of time the format of these artifacts.
+  Use the results to create smaller, more detailed tickets.
+* Project teams can get defensive around dependencies -- especially the high-risk ones --
+  because nobody wants to work an unachievable goal. It's tempting to just declare an API,
+  but don't get too far ahead: the risk YAGNI (You Ain't Gonna Need It) becoming thrown-away
+  sunk-cost deletium increases exponentially.
+* If you've done all you can and a goal is genuinely wedged,
+  make a loud clamor to the sponsor or whoever else has influence.
 
 How shall we communicate the forecast, schedule, and progress?
 
@@ -157,4 +179,3 @@ What information composes the schedule and progress?
   * Who all is working on which blocks right now?
   * What blocks are stuck or at schedule risk, and why?
   * What blocks require what other blocks complete before meaningful progress can begin?
-	
