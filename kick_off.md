@@ -8,10 +8,13 @@ Are you getting what you need from your kick-off and realignment meetings?
 ## What For?
 
 The kick-off sets the (initial) tone of the entire project to come.
-Do it well, and you're off to a good start. And conversely.
+It's sort of like choosing a destination and purpose before you begin a journey:
+Do it well, and you're off to a good start.
+Do otherwise, and wander aimlessly for 40 years.
 
 I've read that the purpose of all meetings is to get someone to do
 something they might not otherwise do.
+(They might not read or understand your e-mail, but that's another topic.)
 In general, people aren't especially prone to spontaneously organize
 and coordinate towards a common goal without clarity and motivation.
 The kick-off provides both.
@@ -22,13 +25,18 @@ a proper project kick-off accomplishes (at least) several sub-goals:
 
 * Clients, Project Sponsors, and Lead Staff are all aligned on mission and vision.
 * The lead staff is revved up to perform, with a basic idea about what's required.
-* The client is reminded of, and has agreed to, its responsibilites.
+* Project philosophy and major policies are established and agreed,
+  such as who has the authority to order and/or agree to a change in scope.
+* Each party (particularly including the Client) has *overtly* agreed and bought into
+  the scope of its responsibilites and the boundaries of its authority.
 * Meaningful work can ramp up in earnest.
 * There's a *clear and prominent record* of:
 	* The original goal, at least in overview.
 	* The original concept of how to get there.
 	* Big risks and major milestones.
 	* Top-level outline of scope, schedule, and budget.
+	* Responsibilities, Authorities, and modes of Accountability --
+	  which *absolutely **must** be aligned* for project success.
 
 Localized, team-by-team kick-off activities bring similar benefits:
 
@@ -38,11 +46,16 @@ Localized, team-by-team kick-off activities bring similar benefits:
 * Meaningful work can begin.
 
 Finally, periodic realignment meetings help keep the project on-track.
+The realignment allows for the direction of the momentum to be adjusted where necessary and given a renewed boost.
+They may be required with a frequency depending on magnitude and complexity of the task;
+ongoing assessment of how well the project is adhering to the initial goals, schedule, budget, etc.;
+and how much interpersonal interface the project requires.
 Gently massaged, the form and substance of the kick-off meeting can
 be a great way to draw attention to, and begin to resolve, project imbalances.
+
 Indeed, even if you've inherited a disaster,
-cutting your losses is a project in itself.
-It merits something akin to a kick-off.
+cutting your losses and getting out of Dodge is a project in itself.
+It merits something akin to a kick-off, at least among your inner cabal.
 
 
 ## How To?
@@ -50,20 +63,47 @@ It merits something akin to a kick-off.
 First, all the usual rules of meetings apply:
 * Block out an appropriate amount of time.
 * Invite the right people, and make sure they can pay attention.
+* Specifically exclude the *wrong* people. (Their identities are left as an exercise for the reader. Use your imagination.)
 * Set the right agenda. (A sample is below, but you'll want to customize it.)
 * Have someone *designated* to take the minutes/notes.
-  (This, and the lead/facilitator, are the only person allowed to open their laptops.)
-* Publish the results of the meeting in a proper place.
+  (This, and the lead/facilitator, are the only person allowed to open their laptops/phones/tablets/etc.)
+* Document the meeting’s agreements, commitments, decisions, and action items.
+* Consider getting the key authorities to sign off on the meeting notes, as this firms up the commitments.
+* Publish the results of the meeting in a proper place *promptly*.
 
-Because the kick-off is designed to align the momentum of a team,
+The initial kick-off is much more in-depth.
+A realignment meeting can usually share the same basic structure and agenda,
+but quickly gloss over areas deemed to be working just fine.
+
+Because the kick-off is designed to impart the initial aligned momentum to a team,
 you need immediate follow-up, loudly and with much fanfare,
-to make sure everyone knows where to find the resulting artifacts.
+to make sure everyone knows where to find the resulting artifacts
+*and understands the key points therein*.
 And I do mean *everyone*, all the way from the executive sponsor to the summer intern.
 
+Because of what kinds of things are established in a kick-off,
+it's important that your entire task force understand the key points,
+whether they attended the meeting or not.
+This includes new members as they come onto the team – modified by anything that comes from realignment meetings of course.
+This does more than help people get oriented.
+It also diminshes the chance of disaster, as this quote illustrates:
+> ... bidding on work in the Amazon river basin and people were made aware of the reason that there was to be NO contact with any of the indigenous tribes who were still more or less isolated from the modern world – kind of an ethical question, but really more of a safety and legal consideration as it was against the law in the affected countries (the east of Peru or west of Brazil if I recall correctly).
+
 And again, you'll need another larger cycle of follow-up to make sure the effects stick across time and space.
-See that your lieutenants are getting their own people aligned on mission accordingly.
-Check back periodically, both vertically and horizontally, to see what needs to change,
-and then make the appropriate changes loudly and with much fanfare.
+When new people join, give them a copy or link to read the kick-off artifacts.
+See that your lieutenants are getting their subordinates aligned on mission accordingly.
+Check back periodically, both vertically and horizontally, to see what needs to change.
+
+When appropriate changes *are* agreed:
+* Modify the kick-off artifacts accordingly.
+* Highlight the actual changes.
+* Distribute them loudly and with much fanfare.
+
+You may choose to separate kick-off into two phases:
+one where you get your own team working well together or discuss sensitive internal issues,
+and another involving the Client.
+This is particularly valuable when composing teams from people who have not worked together before,
+or who hail from different cultures.
 
 Finally, if you're relatively new at this, or if the organization doesn't do this all the time,
 then have a look at the section on related cultural issues and see what you might need to nail down.
