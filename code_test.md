@@ -115,11 +115,22 @@ We should try to make that core very small, simple, and obvious,
 so that it's easy to trust by inspection
 and easy to know where this extra inspection is needed.
 
+In zones of low test coverage, there's a good chance the affected code is either
+* configuration specific to a deployment environment (so ought not be code) or
+* for weird scenarios that should never happen in a well-behaved system (so should be fault-injected), or
+* strongly coupled and thus hard to test in isolation (so should be decoupled/refactored).
+
 ## Design for Test
 
-In zones of low test coverage, there's a good chance the affected code is either
-* for weird scenarios that should never happen in a well-behaved system, or
-* strongly coupled and thus hard to test in isolation.
+If I may [appeal to authority](https://youtu.be/pAX8GAsRaYk?t=785) you might
+take someone else's word that design-for-test is a good idea. (The rest of the
+video is about continuous-integration, which is a different rant.)
+
+The executive summary is that code *designed with testing in mind* naturally
+ends up displaying a host of other positive qualities that make it easier to
+get high-quality results more quickly. (Quality and speed go hand-in-hand.)
+
+How, then, can we design for test?
 
 I'm going to invoke a super-ancient acronym here: **CIPO.** That stands for
 * Control
