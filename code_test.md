@@ -4,7 +4,56 @@ These vehement words come in no particular order. Yet.
 
 Please also know there are whole books, and good ones, on this subject. Maybe these words will tempt you to find and read one.
 
-I'm assuming you're on-board with the general ideas of test automation.
+## Why Test?
+
+Since you're human and fallible, and you recognize the fact, you necessarily have
+some process for trying to flush out development mistakes before calling yourself
+done with some fragment of code that you *intend to ship.*
+
+* Maybe you run it manually and try a few cases.
+* Maybe you write a test script to put the artifact through its paces.
+* Maybe you hire an expert testing engineer and tell the mainline programmers to chill.
+* Or maybe you do nothing, in which case you are a danger to others and should change careers.
+
+Regardless of how you do it, we call that process "testing".
+
+Testing is a completely different skill from ordinary coding or design,
+but it's got to be done because *people get things wrong* on every level.
+* What if your proof of correctness is flawed? (Did you ever think of that?)
+* What if your proof is fine, but the transcription into code is flawed?
+* What if a camel spat on the version control system?
+
+In practice, we assess risk to determine how much paranoia we embed into the testing process.
+Maybe the hazard is report layout cosmetics, so we can be satisfied with a quick glance.
+Maybe the hazard is astronauts getting lost in space,
+so we crank the entire development process [up to eleven](https://en.wikipedia.org/wiki/Up_to_eleven)
+and achieve SEI CMM level five.
+
+*PS:* No, you are *not* allowed to simply "get it right the first time".
+Or at least, you can't assume you will. That would be a position of smugness and pride,
+which goes before the autumn. Or the fall. You pick.
+
+*PPS:* Trivial one-off commands don't fall under the heading of "intend to ship."
+
+## When Test?
+
+Testing is a risk-mitigation effort, not a harm-reduction effort. You should
+therefore test *before* the risk is made manifest and the harm comes to pass.
+
+Testing provides feedback. It's well-known that a programmer's efficiency is
+inversely proportional to the length of her feedback cycle. So test early and often.
+
+## Why Write (Automated) Test-Code?
+
+Concerning the vast majority of code not best described as "U/I definition",
+it's actually easier and less effort, systemically, to take option two than option one.
+
+Furthermore, test-code codifies your expectations. If your expectations are flawed,
+the reviewer has another chance to catch that divergence while looking at your tests.
+
+What about option three? I've never had the privilege. Some shops work that way.
+Chances are, your dedicated test engineer is essentally doing option two under the
+covers with some fancy tool. And maybe that's right for you. Your mileage may vary.
 
 ## Tests Are Not Documentation.
 
@@ -52,6 +101,51 @@ what sorts of flaws are likely, given human nature and programmer psychology.
 
 * Example: off-by-one errors are common, so we test near size thresholds.
 
+## (Good) Unit Tests Are Not "Double-Coding", But An Inductive Argument.
+
+* You need not assert that your code does what it obviously says that it does.
+
+Mr. C___ K___ once complained that unit-tests merely restate what's obviously written down in the function under test,
+and thus add no value; only consuming developer time and resources. A pathological situation was evident.
+
+After a bit more conversation, I believe he been seeing what's known as "behavior-based" assertions:
+the idea that the test-subject clearly needs to perform X, Y, and Z actions, so assert that it does indeed call
+methods X, Y, and Z. However, if the test-subject also manifests the principle of stepwise refinement,
+then chances are `X;Y;Z` is the entire text of its code. So yes, if that's how you code (and it should be) then
+you can probably skip the behavior-based assertions in favor of the sensible code review you're already doing.
+(You *are* doing code-review, right?)
+
+* Instead, assert about things that legitimately might be -- or later become -- *wrong despite code review:*
+  mistaken notions, broken/changed contracts, or the subtleties around corner cases. (This is the art of testing.)
+
+The far-distant end of the pendulum from behavior-based assertions is end-to-end integration testing:
+where you feed a workload through a system and assert that everything came out alright. Any given test case
+thereby exercises more parts of the system (an advantage), but it takes exponentially longer *and* it
+requires *factorially*-more test cases to excercise every single thing in this manner (a much more serious disadvantage)
+so it's not viable as a primary quality control layer **unless** you have *very* few components and a *very* small system.
+
+*So that's what we'll do.*
+
+The general idea is to form tiny compositions of just one or a tiny handful of components,
+using realistic-mock objects as necessary and prudent,
+then feed in a suitable set of test cases tailored to exercise the contract-under-test,
+and finally conclude that the component-under-test -- the outermost -- is therefore assured (not strictly proven) to (still)
+fulfill its contract.
+
+In short, my tests don't (generally) concern themselves with how we got to the answer;
+they are instead concerned with showing that the answer comes out correct,
+given a severely restricted subset of the overall system.
+
+Assurance of overall quality comes from a straightforward inductive argument over the set of all components in the system:
+
+1. If my dependencies are fit-for-purpose (inductive case) or I have none to speak of (base case),
+2. and if I use them correctly (code review),
+3. and if points 1 and 2 imply my own fitness (unit-tests, possibly involving suitable mocks),
+4. then the system in aggregate is fit-for-purpose.
+
+You do have to separately convince yourself that any mocks you use in step 3 are of sufficient fidelity,
+but this is generally a much easier problem.
+
 ## Testing for Regressions
 
 Regression testing is one of the most mature testing strategies.
@@ -86,6 +180,12 @@ Testing specifically *in the name of coverage* will catch
 most typos and simple clerical errors, but it does nothing to
 improve confidence that the code does the right thing.
 
+* High coverage is one consequence of, but unable to cause,
+  thorough testing *combined with and enabled by* suitable design-for-test.
+* High coverage can also come about through gaming the system, so a low coverage metric
+  does not mean anything conclusive on its own. It's more like a smell: you can
+  spray the room with air freshener, but that doesn't eliminate the poop in the corner.
+
 Developers may be driven to nefarious duplicity in the name of mandatory test-coverage checks.
 * What counts as a line of code? If we coalesce lines without changing their meaning, does it improve things?
 * What counts as coverage? If we mock out the CPU, the disk, the memory, and the network card, did we test anything?
@@ -108,7 +208,7 @@ By contrast, high coverage is like silence from the same baby:
 it may grant brief relief to the senses, but a good parent
 is soon anxious if baby is too quiet for too long.
 
-Thus, **absolute 100% coverage is a fool's errand.**
+**Absolute 100% coverage is a fool's errand.**
 
 There will always be some core of bits we have to take at face value.
 We should try to make that core very small, simple, and obvious,
@@ -120,7 +220,7 @@ In zones of low test coverage, there's a good chance the affected code is either
 * for weird scenarios that should never happen in a well-behaved system (so should be fault-injected), or
 * strongly coupled and thus hard to test in isolation (so should be decoupled/refactored).
 
-## Design for Test
+# Design for Test
 
 If I may [appeal to authority](https://youtu.be/pAX8GAsRaYk?t=785) you might
 take someone else's word that design-for-test is a good idea. (The rest of the
@@ -373,9 +473,120 @@ From the API flows the pre- and post-conditions, the dependencies, and so forth.
 These in turn *dictate* both proof obligation and code,
 but they leave the writing of actual test cases to judgment and discipline as a risk mitigation activity.
 
+## Testing and SQL
+
+Thus spake Noel Darlow: http://aperiplus.sourceforge.net/testing-data-access-classes.php
+
+The gist is: Your mocking framework cannot understand SQL, and so it cannot tell if SQL code is even valid, much less sensible.
+Nothing short of an actual instance of the database server should be trusted to parse or interpret your queries in test context.
+It is dangerous and irresponsible to even try to mock out a SQL connection.
+Rather, treat *persistence* as an injectable dependency with a clearly-demarcated API.
+Test business logic with a mock persistence layer that doesn't involve SQL at all,
+and test the real SQL-based persistence layer against a real database server in a test environment.
+
+Yes, this portion of your test suite will run a bit slower than average.
+Yes, it requires some extra IT work to set up external resources.
+Yes, some people will insist on calling these "integration tests" -- although clearly not end-to-end integration.
+But this is what it takes to test your SQL code in any meaningful way.
+
+Noel also gives some advice and ideas on making sure that your tests do not trip over their own shoelaces or scribble on production data.
+The article is not long, and completely worth a read.
+
+# Superfund Projects: Adding Tests to Legacy Systems
+
+When *The Management* gets [Test-Infected](https://wiki.c2.com/?TestInfected), things sometimes get a bit out of control.
+Management loves metrics. Code coverage is a metric. It's not a particularly useful one by itself, as earlier explained,
+but hey we're not too far advanced from measuring programmer productivity by lines-of-code written. So here we are.
+You're the unlucky chap standing nearest to some arcane legacy system when *The Management* decrees that coverage must increase from,
+say, 16% to 70% over the coming six months. So here we go.
+
+You need to attack this problem on several fronts.
+
+**First:**
+When *The Management* complains about test coverage, I want you to replace that in your mind by a statement
+that management is afraid for the reliability of the system, especially in the face of coming change or even general maintenance.
+So that means you need to set the discussion back on track of how to achieve fit-for-purpose quality assurance,
+and what that might entail as change is seriously considered. Remember: The legacy system has a track record.
+It may be good or bad, but ultimately it's the track record -- past and future -- that *The Management* actually cares about.
+
+*Key point:* When you talk to management, try not to even acknowledge code coverage as a metric. (It's certainly not
+a reliable proxy for reliability; you know that but clearly management is three furlongs down the garden path.)
+You want to speak the language of mean-time between failures, the costs and consequence of different failure modes,
+and so forth.
+
+This is totally at odds with a lot of published literature about how to build high-reliability systems, but that's OK.
+We're not doing that. We're here here to engineer a *fit-for-purpose solution* to the problem management actually has,
+which is again the anxiety about technical risk embodied in a legacy system that was not built with modern ideas
+in mind about how to assure quality or reliability.
+
+In other words, we're trying to make the fewest and least expensive changes to the status quo,
+which will:
+1. Diminish the *actual* cost and probability of encountering the conditions which *would* cause the system to fail,
+   to an *acceptably low level*.
+2. Convince management that what we've done achieves that aim *without* sacrificing either our values or our sanity.
+
+The mutual understanding you gain from *speaking management* will pay massive dividends when it comes time to prioritize risks.
+
+**Second:**
+If you have *test* coverage analysis,
+you might also be able to get *runtime* coverage analysis against either production or simulacrum workloads.
+That would allow you to see what code is running without tests, and could form part of a basis for proioritizing efforts.
+If that's not available, or if coverage is really low (say, less than 33% perhaps)
+then you might achieve an early bump by adding a few simple end-to-end regression
+test cases to the suite. You'll at least get a quick guide to the common-case code,
+which by the way is now covered in some manner. It's not the ideal scenario by any stretch,
+but that's not the point. You now have data and can prioritize.
+
+At this point you'll probably find code falling into these categories:
+
+* Mainline code does the usual work. It's therefore probably also the most correctness-critical, and oh yes it's now tested, so *WIN!*
+* Defensive code deals with scenarios that should never happen; as such they cannot easily be stimulated.
+* Alternative code coincidentally is not reached by the particular test cases you've chosen.
+  Don't try too hard to fix this just yet; at this stage adding test cases has quickly diminishing returns.
+  Instead, just note the cause and consequence.
+
+**Third:**
+At this point, your goal is to enumerate, evaluate, and prioritize the real risks remaining in the legacy code base.
+There's always way too much code for anyone to understand it all in detail at once, so don't try:
+you'd sacrifice your sanity as well as the schedule. Instead, try for an approximate gestalt.
+If you have any reliable guides to the system architecture, that's great! Read them first.
+Afterwards, quickly skim or glance through a random selection of different files in different packages.
+Look for broad architectural (anti)patterns, major code smells, and overall themes in technical debt.
+
+* Big-ball-of-mud? (i.e. giant methods/objects with too many responsibilities on too many layers of abstraction?)
+* Inscrutable ravioli? (i.e. "collaborating" objects playing long volleys of control-flow ping-pong?)
+* Tight coupling? (i.e. strong assumptions about specific arbitrary details scattered hither and yon?)
+* Copy Pasta? (i.e. many nearly-identical blocks of code that do almost the same thing, perhaps with minor details changed?)
+* Etc. Etc. Etc. [A good list is here.](https://wiki.c2.com/?CodeSmell)
+
+**Finally:**
+The last step is *refactoring* -- with exceeding care, and following best practices.
+Remember, the key idea here is that each change needs to be self-contained and simple enough to be obviously-correct.
+Get a skilled colleague to review each change with a critical eye, and don't feel bad if you have a few false starts.
+Begin around the margins with the low-hanging fruit, and slowly work your way into the deeper mysteries.
+As you go along,
+* new functions will consolidate, simplify, or replace old code-blocks; these will of course be unit-tested.
+* the architecture and your understanding of it will both improve, giving more weight to the risk/reward balance.
+* new opportunities for easily testing old components will reveal themselves as a consequence of both points above.
+* you may even find bugs. Actually, be very careful how you proceed: some of these so-called bugs may be features in disguise.
+
+You can always leave this process aside while dealing with some other priority,
+because it's designed around making a long train of small incremental improvements
+while always keeping the system ready for prime time.
+
+**One Last Thing:**
+Do not for a minute worry the process creates no value.
+Even if the legacy code was perfect and you never find a single bug,
+you're still wiping the *perception* of risk from the company balance sheet.
+That perception can drive much bigger costs than whatever you spent on refactoring the system into a (more) tested state.
+
+On that very account, make sure to keep up dialogue with *The Management*.
+When they understand how you've improved the risk profile of continuing to operate the legacy system,
+they're much more likely to relent sooner and let you work on something sexier -- or at least give you due credit.
+
 ## Parting Observations
 
-Test-case quality is much more important than quantity:
+Test quality is much more important than quantity:
 For any given module, the first few tests you write will have the greatest impact.
 
 You seem to get the most (impact, code coverage, etc) the fastest by testing with realistic (if abridged)
