@@ -137,17 +137,26 @@ In short, my tests don't (generally) concern themselves with how we got to the a
 they are instead concerned with showing that the answer comes out correct,
 given a severely restricted subset of the overall system.
 
-Assurance of overall quality comes from a straightforward inductive argument over the set of all components in the system:
+Assurance of overall quality comes from a two-phase inductive argument over the set of all components in the system.
 
-1. If I use all my dependencies correctly (code review),
-2. and if quality unit-tests reasonably probe my contract (test review),
-3. then: the fitness of my dependencies gives sufficient assurance of my own fitness (inductive axiom).
-4. If my dependencies are fit-for-purpose (inductive case) or I have none to speak of (base case),
-5. and every unit satisfes the inductive axiom given in point 3 (inductive argument),
-6. then the system in aggregate is fit-for-purpose (inductive condition).
+Phase One: Establishing the Inductive Criterion
+* If I use all my dependencies correctly (code review),
+* and if quality unit-tests reasonably probe my contract (test review),
+* then: the fitness of my dependencies gives sufficient assurance of my own fitness ().
 
-You do have to separately convince yourself that any mocks you use in step 3 are of sufficient fidelity,
+Phase Two: Exploiting the Inductive Criterion
+* Assume there are no cyclic dependencies. (If you have them, you need to get rid of them.)
+* Let all units be properly tested in accordance with phase one.
+* Base Case: Some units have no (relevant) dependencies;
+  these form level 0 and are trivially fit-for-purpose.
+* Inductive Case: Level N+1 contains all units which depend only on those in levels 0..N;
+  by the inductive criterion these too are fit-for-purpose.
+* Inductive Axiom: There are finitely many levels(*), so the system in aggregate is fit-for-purpose.
+
+You do have to separately convince yourself that any mocks you use are of sufficient fidelity,
 but this is generally a much easier problem.
+
+(*) ...in a directed acyclic (dependency) graph with finitely many nodes...
 
 ## Testing for Regressions
 
