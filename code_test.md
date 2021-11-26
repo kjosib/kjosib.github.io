@@ -142,16 +142,16 @@ Assurance of overall quality comes from a two-phase inductive argument over the 
 Phase One: Establishing the Inductive Criterion
 * If I use all my dependencies correctly (code review),
 * and if quality unit-tests reasonably probe my contract (test review),
-* then: the fitness of my dependencies gives sufficient assurance of my own fitness ().
+* then: the fitness of my dependencies gives sufficient assurance of my own fitness.
 
 Phase Two: Exploiting the Inductive Criterion
 * Assume there are no cyclic dependencies. (If you have them, you need to get rid of them.)
 * Let all units be properly tested in accordance with phase one.
-* Base Case: Some units have no (relevant) dependencies;
+* Some units have no (relevant) dependencies;
   these form level 0 and are trivially fit-for-purpose.
-* Inductive Case: Level N+1 contains all units which depend only on those in levels 0..N;
+* Level N+1 contains all remaining units which depend only on those in levels 0..N;
   by the inductive criterion these too are fit-for-purpose.
-* Inductive Axiom: There are finitely many levels(*), so the system in aggregate is fit-for-purpose.
+* There are finitely many levels(*), so the system in aggregate is fit-for-purpose.
 
 You do have to separately convince yourself that any mocks you use are of sufficient fidelity,
 but this is generally a much easier problem.
