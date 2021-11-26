@@ -10,10 +10,10 @@ Since you're human and fallible, and you recognize the fact, you necessarily hav
 some process for trying to flush out development mistakes before calling yourself
 done with some fragment of code that you *intend to ship.*
 
-* Maybe you run it manually and try a few cases.
-* Maybe you write a test script to put the artifact through its paces.
-* Maybe you hire an expert testing engineer and tell the mainline programmers to chill.
-* Or maybe you do nothing, in which case you are a danger to others and should change careers.
+1. Maybe you run it manually and try a few cases.
+2. Maybe you write a test script to put the artifact through its paces.
+3. Maybe you hire an expert testing engineer and tell the mainline programmers to chill.
+4. Or maybe you do nothing, in which case you are a danger to others and should change careers.
 
 Regardless of how you do it, we call that process "testing".
 
@@ -21,7 +21,7 @@ Testing is a completely different skill from ordinary coding or design,
 but it's got to be done because *people get things wrong* on every level.
 * What if your proof of correctness is flawed? (Did you ever think of that?)
 * What if your proof is fine, but the transcription into code is flawed?
-* What if a camel spat on the version control system?
+* What if a camel spat upon the version control system?
 
 In practice, we assess risk to determine how much paranoia we embed into the testing process.
 Maybe the hazard is report layout cosmetics, so we can be satisfied with a quick glance.
@@ -116,7 +116,8 @@ you can probably skip the behavior-based assertions in favor of the sensible cod
 (You *are* doing code-review, right?)
 
 * Instead, assert about things that legitimately might be -- or later become -- *wrong despite code review:*
-  mistaken notions, broken/changed contracts, or the subtleties around corner cases. (This is the art of testing.)
+  mistaken notions, broken/changed contracts, or the subtleties around corner cases.
+* This is the art of testing.
 
 The far-distant end of the pendulum from behavior-based assertions is end-to-end integration testing:
 where you feed a workload through a system and assert that everything came out alright. Any given test case
@@ -138,10 +139,12 @@ given a severely restricted subset of the overall system.
 
 Assurance of overall quality comes from a straightforward inductive argument over the set of all components in the system:
 
-1. If my dependencies are fit-for-purpose (inductive case) or I have none to speak of (base case),
-2. and if I use them correctly (code review),
-3. and if points 1 and 2 imply my own fitness (unit-tests, possibly involving suitable mocks),
-4. then the system in aggregate is fit-for-purpose.
+1. If I use all my dependencies correctly (code review),
+2. and if quality unit-tests reasonably probe my contract (test review),
+3. then: the fitness of my dependencies gives sufficient assurance of my own fitness (inductive axiom).
+4. If my dependencies are fit-for-purpose (inductive case) or I have none to speak of (base case),
+5. and every unit satisfes the inductive axiom given in point 3 (inductive argument),
+6. then the system in aggregate is fit-for-purpose (inductive condition).
 
 You do have to separately convince yourself that any mocks you use in step 3 are of sufficient fidelity,
 but this is generally a much easier problem.
@@ -500,8 +503,6 @@ but hey we're not too far advanced from measuring programmer productivity by lin
 You're the unlucky chap standing nearest to some arcane legacy system when *The Management* decrees that coverage must increase from,
 say, 16% to 70% over the coming six months. So here we go.
 
-You need to attack this problem on several fronts.
-
 **First:**
 When *The Management* complains about test coverage, I want you to replace that in your mind by a statement
 that management is afraid for the reliability of the system, especially in the face of coming change or even general maintenance.
@@ -516,7 +517,7 @@ and so forth.
 
 This is totally at odds with a lot of published literature about how to build high-reliability systems, but that's OK.
 We're not doing that. We're here here to engineer a *fit-for-purpose solution* to the problem management actually has,
-which is again the anxiety about technical risk embodied in a legacy system that was not built with modern ideas
+which is again the *anxiety about technical risk* embodied in a legacy system that was not built with modern ideas
 in mind about how to assure quality or reliability.
 
 In other words, we're trying to make the fewest and least expensive changes to the status quo,
