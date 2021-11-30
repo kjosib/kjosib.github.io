@@ -4,58 +4,11 @@ These vehement words come in no particular order. Yet.
 
 Please also know there are whole books, and good ones, on this subject. Maybe these words will tempt you to find and read one.
 
-## Why Test?
 
-Since you're human and fallible, and you recognize the fact, you necessarily have
-some process for trying to flush out development mistakes before calling yourself
-done with some fragment of code that you *intend to ship.*
-
-1. Maybe you run it manually and try a few cases.
-2. Maybe you write a test script to put the artifact through its paces.
-3. Maybe you hire an expert testing engineer and tell the mainline programmers to chill.
-4. Or maybe you do nothing, in which case you are a danger to others and should change careers.
-
-Regardless of how you do it, we call that process "testing".
-
-Testing is a completely different skill from ordinary coding or design,
-but it's got to be done because *people get things wrong* on every level.
-* What if your proof of correctness is flawed? (Did you ever think of that?)
-* What if your proof is fine, but the transcription into code is flawed?
-* What if a camel spat upon the version control system?
-
-In practice, we assess risk to determine how much paranoia we embed into the testing process.
-Maybe the hazard is report layout cosmetics, so we can be satisfied with a quick glance.
-Maybe the hazard is astronauts getting lost in space,
-so we crank the entire development process [up to eleven](https://en.wikipedia.org/wiki/Up_to_eleven)
-and achieve SEI CMM level five.
-
-*PS:* No, you are *not* allowed to simply "get it right the first time".
-Or at least, you can't assume you will. That would be a position of smugness and pride,
-which goes before the autumn. Or the fall. You pick.
-
-*PPS:* Trivial one-off commands don't fall under the heading of "intend to ship."
-
-## When Test?
-
-Testing is a risk-mitigation effort, not a harm-reduction effort. You should
-therefore test *before* the risk is made manifest and the harm comes to pass.
-
-Testing provides feedback. It's well-known that a programmer's efficiency is
-inversely proportional to the length of her feedback cycle. So test early and often.
-
-## Why Write (Automated) Test-Code?
-
-Concerning the vast majority of code not best described as "U/I definition",
-it's actually easier and less effort, systemically, to take option two than option one.
-
-Furthermore, test-code codifies your expectations. If your expectations are flawed,
-the reviewer has another chance to catch that divergence while looking at your tests.
-
-What about option three? I've never had the privilege. Some shops work that way.
-Chances are, your dedicated test engineer is essentally doing option two under the
-covers with some fancy tool. And maybe that's right for you. Your mileage may vary.
 
 ## Tests Are Not Documentation.
+
+At any rate, tests are unsatisfactory as a sole medium of documentation.
 
 Documentation needs to say what is, what was,
 and what shall come to be. Tests deal only in the present.
