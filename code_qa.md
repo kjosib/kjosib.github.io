@@ -20,9 +20,9 @@ The situation changed unevenly over the last couple centuries: Precise details v
 
 * An engineer and his employer are held legally liable for harms caused by his designs
   (but typically insulated if construction diverges significantly from design).
-* A *professional engineer* (by whatever nomenclature) must hold a license to practice in or for a given jurisdiction.
+* A *professional engineer* (PE) must hold a license to practice in or for a given jurisdiction.
 * An apprenticeship period of several years is required, during which a candidate must work under the supervision of a PE.
-* Violation of an official code of professional ethics results in sanctions such as losing one's license to practice.
+* Violation of the code of professional ethics results in sanctions: e.g. losing one's license.
 * The output of an engineering activity is expect to describe, in sufficient detail, a solution which is
   *fit-for-purpose*, *safe* for the general public, and which *complies* with applicable laws and regulations.
   (If these cannot be achieved, the engineer withdraws from the engagement.)
@@ -48,7 +48,7 @@ the task force is complying with its defined work-processes. They'll make *obser
 *findings* (think "violation") which the other teams are then compelled to address meaningfully.
 
 In theory, there's another layer: when deficiencies come to light, someone needs to track the ultimate cause back and improve the process.
-In practice there's generally a serious threat of expensive litigation, so there's a sense in which QA is also CYA. (But that's tangential.)
+In practice there's generally a serious threat of expensive litigation, so there's a sense in which QA is also CYA. (But I digress...)
 
 *Supplier Quality Survey* is a different discipline, often more associated with the procurement department.
 That's the group of people who travel to watch procured components get built and tested,
@@ -60,7 +60,8 @@ But they are themselves subject to the same quality-assurance process as every o
 
 Popping the stack once more, let's get back to the alleged duties of a QA department in a software shop.
 
-If you follow the SEI CMM model, you probably have someone checking to make sure that each element of
+If you follow the [SEI CMM](https://www.google.com/search?q=software+engineering+institute+capability+maturity+model),
+you probably have someone checking to make sure that each element of
 your organization is either following the written procedures or updating them to match practice according
 to another defined process for organizational learning. But let's face it: unless you're a space agency,
 you're probably not running CMM level five. For that matter, level three is darn good as indie shops go.
@@ -135,14 +136,16 @@ then there are simply too many cases to contemplate, much less enumerate.
 (Briefly ponder how you might test just the addition operation.
 Decide what fraction of all possible inputs you'd consider,
 and how long that might take on a modern machine with, say, a 64-bit word length.)
-To get any comfortable level confidence that a system works correctly,
+To get any comfortable level confidence that a sizeable system works correctly even when stressed in unpredictable ways,
 you need to be confident of two things:
-* all the parts are correct in terms of what they do, and
-* all the connections between the parts are correct in terms of how they interact.
+* all the parts are correct in terms of what they do (even when stressed), and
+* all the connections between parts are correct in how they interact (even when stressed).
+
 As such, if you want reasonable assurance of a properly tested system,
 you need to be testing individual small components and very small groups *in isolation* from the remainder,
 both for happy-path and weird corner-cases. **That is called unit-testing.**
-And clearly it has to evolve in parallel with the invention of all those small components.
+It has to evolve in parallel with the invention of all those small components,
+and it puts pressure on those components to have well-defined functional interactions rather than promiscuity with global state.
 Yes, you also want a show-and-tell with the customer to make sure you're building the right product,
 but that's a small fraction of the overall effort.
 
@@ -174,7 +177,7 @@ The big ideas are roughly recalled:
    This is the fundamental theorem in the theory of constraints.
 2. *That same limit sets the maximum worthwhile pace for other operations.*
    Moving any faster only creates a backlog of incomplete work-in-progress.
-   Beyond your batch size, that backlog doesn't do you any good, because of rule 1 above.
+   Beyond your batch size, that backlog doesn't do you any good.
 3. *Put the slowest walker at the head of the line, and the fastest at the end.*
    This is metaphor. The image is of a tight line of hikers who do not spread out.
    In concept, this is about minimizing even the space available for work-in-progress to pile up
@@ -191,7 +194,7 @@ Passing comments:
 * There's a related concept in the deployment of troops to primary and secondary military objectives.
   The standard model is you put enough force to assure a primary win, but not too much more, because the rest
   is better spent on secondary objectives.
-* Point five above is specifically relevant to a certain someone's numbers and data. He knows who he is.
+* Point five above is specifically relevant to a certain someone's numbers and data.
 
 ----
 
