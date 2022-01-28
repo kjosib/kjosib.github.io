@@ -11,6 +11,15 @@ If you don't know a programming language, you could do a lot worse than this edi
 In fact, read that anyway if you're new-ish to the field -- say, less than a few years experience.
 You'll also learn Python along the way, if you haven't already.
 
+## Stupid Human Tricks, Programming Edition
+
+This section is pointers to articles on general good and bad practice.
+(At the moment, only one.)
+
+* [Single-letter names - a cautionary tale](https://hilton.org.uk/blog/single-letter-names-tale)
+  hammers the gong on meaningful identifiers.
+
+
 ## Software as an Engineered Product
 
 Starting in this section,
