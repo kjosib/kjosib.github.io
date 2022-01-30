@@ -1,4 +1,4 @@
-+ Let's Design an IDE
+# Let's Design an IDE
 
 First of all, let's get the obvious out of the way:
 
@@ -12,7 +12,7 @@ Hobby projects were never meant to be profitable.
 They're a way to put one's ideas into the world.
 Maybe the world ignores that. Maybe not.
 
-++ Anti-Requirements!
+## Anti-Requirements!
 
 Before listing all the things it *should* be,
 it's an excellent idea to list off some things I definitely want to *avoid!*
@@ -29,7 +29,7 @@ If I'm going to make a dent, the thing needs to be different.
 * No funky fonts or styling! It should look like EGA text mode: easy, consistent, good contrast, and large enough to read.
 * No tabs! Tabs are another form of oppression.
 
-++ Concepts!
+## Concepts!
 
 Attention is the foremost value. Attention and focus. Also, nobody expects the Spanish Inquisition. But I digress.
 
@@ -103,7 +103,7 @@ The point is working an issue that takes many separate hack sessions:
 you might save brain power not having to reconstruct your thoughts.
 Another possible approach would be to be able to save and restore session context.
 
-++ What's this about consoles being special?
+## What's this about consoles being special?
 
 Let's say every area/section has a certain amount of durable context,
 The first part is which (if any) file is open.
@@ -121,7 +121,7 @@ For instance, the search interface might be *stack*,
 while the search results are *tails*. Edit views are again *heads*,
 so you can flip back and forth between hits and text by pressing *escape*.
 
-++ Dealing with Sections. Also, Search. And Errors, Too.
+## Dealing with Sections. Also, Search. And Errors, Too.
 
 Let's say every column has at least one section, with dividers above and below.
 You can drag dividers up and down to resize sections. Do this at top or bottom,
@@ -157,7 +157,7 @@ This also closes any stacked activites in that area.
 
 Stacked activities will be obvious what they are, but should probably include a prominent header nonetheless.
 
-++ Language Integration
+## Language Integration
 
 I'd argue that you get most of your value from a few simple capabilities:
 
@@ -173,7 +173,7 @@ I'd argue that you get most of your value from a few simple capabilities:
 Basically all of these concepts have to work by being cards --
 same as editor cards as far as the UI is concerned, but with different implementation.
 
-++ Syntax Folding: a Swing and a Miss
+## Syntax Folding: a Swing and a Miss
 
 *(You might also see it called "code outlining".)*
 
@@ -195,7 +195,7 @@ but this is easy enough: recall anyway that the set of open files is
 completely separate from the list of edit-views, which simply *refer*
 to an open file.
 
-++ Implicit-Save / Checkpointing:
+## Implicit-Save / Checkpointing:
 
 It's a common newbie mistake to edit code, forget to save, and then wonder what's wrong.
 Implicit-save is nice from that angle, but it has a down-side, which is that there's no
@@ -209,7 +209,7 @@ An IDE enhancement to this would be that if you *run* with un-saved changes,
 ask the user if (s)he'd like to save files first before *actually* running the code.
 You can discuss refinements to this idea, but anyway I think it's fine.
 
-++ Implementation Options
+## Implementation Options
 
 One idea is to start with an existing editor and hack it. *That's terrible.*
 I won't do it. Not for a hobby project.
@@ -238,7 +238,7 @@ From a "hobby project" perspective, the goal is not what's soonest,
 or easiest, but what's most interesting and educational as well
 as providing a reasonable chance of success.
 
-++ Final Notes:
+## Final Notes:
 
 This project seems way less daunting than it probably should.
 I don't know if that's good or bad.
