@@ -14,11 +14,14 @@ You'll also learn Python along the way, if you haven't already.
 ## Stupid Human Tricks, Programming Edition
 
 This section is pointers to articles on general good and bad practice.
-(At the moment, only one.)
+(At the moment, very few.)
 
+* This [Java-specific style guide](https://openjdk.java.net/projects/amber/guides/lvti-style-guide)
+  on a specific feature nevertheless includes a lot of generally-good ideas regardless of language.
 * [Single-letter names - a cautionary tale](https://hilton.org.uk/blog/single-letter-names-tale)
   hammers the gong on meaningful identifiers.
-
+* [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM), by Brian Will,
+  
 
 ## Software as an Engineered Product
 
