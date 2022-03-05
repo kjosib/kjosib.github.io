@@ -8,7 +8,7 @@
 
 We have experienced the century of radical novelty in terms of what computers can be and do:
 the nature of discrete logic and programmable generality being the chief drivers of that novelty,
-with every-increasing hardware performance and the development of software marketplaces following closely behind.
+with ever-increasing hardware performance and the development of software marketplaces following closely behind.
 And yet, despite advances in IDE technology,
 we still consider the least-common-denominator of code as regular files containing only plain text.
 (All that highlighting and cross-linking your IDE presents is a sophisticated magic-act enabled by
@@ -81,10 +81,63 @@ Similarly, traditional-concept IDEs afford copy/paste/modify, so we tend to see 
 
 ## Semantic disasters
 
+Perhaps "disaster" is too strong a word. Perhaps not?
+
 ### Python:
 
-Strings as collections of length-one strings.
-	Strings should be considered as atomic by default, but expose a view of a collection of characters.
-	
-* Random note #2: Date-time objects are not dates, and vice-versa. Rather, a datetime has a date, and a time, and maybe a time zone.
-* Not-so-random corrolary: Date-time work in Python is a disaster. It's 
+For an imperative language, Python gets a lot right, but it does have a few major design face-palms:
+
+**Strings as collections of length-one strings**
+
+Strings should be considered as atomic by default, but perhaps expose a read-only view as a collection of characters.
+On a related note, characters should be considered distinct from length-one strings.
+Both of the above prescriptions feed back to Python's idea of what's iterable-by-default.
+
+**iterable-by-default**
+
+The language tries way too hard to make things iterable. If you implement the `__getitem__` magic-method,
+but not `__iter__`, then the language will invent a trivial `__iter__` based on `range`,
+which if you'd wanted you would have written down because it's so trivial.
+In consequence, an oversight can mean really strange error messages about integers you never mentioned.
+
+**Dictionary iterations by key**
+
+In Python, `for x in someDictionary` iterates over keys. But a dictionary does not contain keys. It contains key-value pairs.
+You can write `for k,v in someDictionary.items()` but it's extra noise in the usual case.
+You can also write `for x in someDictionary.keys()` which is perfectly clear and explicit,
+or even `for x in someDictionary.values()` for to fill out the options.
+
+Given that one of Python's own laws is *explicit is better than implicit*,
+iterating over a dictionary should require naming your choice to iterate specifically the keys, or the pairs, or the values.
+Simply naming a dictionary to a for-loop should be considered an error.
+
+(Corrolary: perhaps list iteration should require the use of an `.each()` method/view for iteration?)
+
+**Conflating Chronologic Typology**
+
+Semantically, a date-and-time *is not* a date, and vice-versa. Rather, a datetime *has* a date, and a time, and maybe a time zone.
+But Python's `isinstance(...)` routinely gives the *wrong* answers about these ideas. If you want to know a date from a datetime,
+you'll need to use something like `type(foo) is date`.
+
+On a related note, time zones and time arithmetic in Python are anything other than intuitive.
+To be fair, you do get correct results if you know your way around `import pytz`,
+but the very need for such a library is a miss.
+
+### Ruby:
+
+**Raise and Throw**
+
+Ruby allows you to raise exceptions, but also to throw symbols.
+This means there are two distinct sets of non-local action-at-a-distance semantics to wrap your head around,
+which is both a burden and fertile ground for terrible choices.
+
+**Bizarre Booleans**
+
+In Ruby, the only false-ish values (in conditional context) are `false` and `nil`.
+This is a terrible semantic miss:
+People writing in dynamic-typed languages generally like to exploit the false-ish nature of empty strings,
+empty containers, the number zero, and so forth.
+You design-in the an opinion that such tests should be written to explicitly state the condition rather than rely on contextual promotion,
+but the right way is to simply say that these other data types are ineligible in that context:
+i.e. not to have any automatic Boolean promotion at all.
+This even extends to `nil`: an undefined (or absent) value isn't strictly false either. At best, you don't know. At worst, it's a bug.
