@@ -136,6 +136,13 @@ which collectively paralyze efforts to respond to changing requirements -- gener
 His central tenet might be this quote: *Mocking is required when our decomposition strategy has failed.*
 He then proceeds to lay out a panoply of techniques and prescriptions for removing various design errors.
 
+**Something Simpler:**
+Gary Bernhardt has a nice article entitled
+[Test Isolation Is About Avoiding Mocks](https://www.destroyallsoftware.com/blog/2014/test-isolation-is-about-avoiding-mocks)
+in which (among other things) he illustrates the connection between mock-nesting-depth and design-coupling-depth.
+The overt theme is that better design (i.e. less-coupled, more flexible) automatically allows easier, simpler testing.
+But along the way, he does not miss the opportunity to plug *functional-core, imperative-shell* as an architecture pattern.
+
 **Synthesis:**
 Naturally I have my own [Vehement words about software testing](code_test.md).
 These words are far from being an exhaustive treatise, but they hit the main issues I see in practice.
