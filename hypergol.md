@@ -1,87 +1,139 @@
 # Hypergol: A programming paradigm for the future
 
-* Insipration from Algol, Hypercard, Python, TempleOS, Haskel, Dijkstra, Forth, Ruby, Smalltalk, Erlang, and maybe some abstract algebra thrown in. Oh, and maybe decaf, depending on your brew.
+* Insipration from Algol, HyperCard, Python, Haskell, Dijkstra, Forth, Ruby, Smalltalk, Erlang, and maybe some abstract algebra thrown in. Oh, and maybe decaf, depending on your brew.
 
-# Some Specific Ideas
+## Some Specific Ideas
 
-## The need for radical novelty
+### What made ALGOL great?
 
-We have experienced the century of radical novelty in terms of what computers can be and do:
-the nature of discrete logic and programmable generality being the chief drivers of that novelty,
-with ever-increasing hardware performance and the development of software marketplaces following closely behind.
-And yet, despite advances in IDE technology,
-we still consider the least-common-denominator of code as regular files containing only plain text.
-(All that highlighting and cross-linking your IDE presents is a sophisticated magic-act enabled by
-partially re-interpteting the *text* along similar (but not identical) lines to whatever the compiler ultimately will do.)
+The algorithmic programming language ALGOL came on the scene in 1958 with a number of true innovations.
+For instance, it was the first with a formally-defined syntax.
+(This aspect contributed to a Turing Award for both John Backus and Peter Naur: see also BNF.)
+Now most people can't conceive of a programming language syntax being described any other way.
 
-It's time that we create radical novelty in terms of how software gets made.
+I want to focus on two aspects.
 
-In industry, software is not some perfect crystaline artifact that you carefully grow under ideal conditions to best express a cool idea.
-(I mean, we need those things too, but we just take them from academia and then get them dirty, dented, cracked, and debauched.)
+**First,** ALGOL is *block-structured.* At the time, this was considered a marvelous idea.
+Today, it's perfectly ordinary and expected, at least in a limited form.
+In practice, it means that you can nest functions inside other functions, and sensible scope-rules apply.
+It also sparked a lot of thinking about what those scope-rules ought to be.
 
-Rather, software gets treated as a means to an end.
-And just like that, the whole development life-cycle, as-experienced,
-can also be understood as a means to an end.
+In principle, a block-structured language also allows data-type definitions private to nested sub-functions.
+Pascal allows this also, but in the years I spent programming Pascal I don't recall being tempted to do this much.
+Typically, by the time I'm defining record types, I'm also moving them into a unit (a separately-compiled module).
+Then again, those were some of my earlier years.
+Looking back, I can see the appeal of at least being *able* to define structured data that only one function or procedure uses or sees.
+Given that dynamic languages tend to require (and even allow) quite a bit less ceremony (and therefore, clarity)
+around data types, and given that most of my professional work is with a dynamic language,
+I'll just say this is a concept worth keeping -- at least in principle.
 
-The key idea is that a software system (in industry) is not a static document, fired and forgotten.
-Rather, it's a massive collection of interconnected and interacting clumps of both functionality and state, and it changes.
-Indeed, a system spends most of its time in maintenance mode.
-Even the production of new features means working in the context of the bits already written.
-It's like the old joke that you can't eat more than one bite on an empty stomach.
+**Second,** and perhaps more directly relevant, ALGOL had actually *two* syntaxes.
+According to the official definition of the language,
+there was a typeset syntax for what you'd see in a fancy publication,
+and then separately there was the punch-card syntax you might feed to a compiler.
+(Don't forget, this was the time before interactive terminals.)
+The former syntax would specify things like font face and weight,
+indicating for example that keywords should be in bold (don't quote me on this exactly)
+whereas the latter made all the allowances for the truly terrible text input mechanisms of the day.
 
-There's a sort of political-economy space:
-How do our decisions about practices and tooling influence (each other and) the end for which they are the means?
-As an interesting academic exercise, we can run studies to investigate these things in fine detail,
-perhaps with an eye to improving the state of the art.
-Or, you could just take my word on faith.
-Not exactly a stellar argument I know,
-but I hope to formulate a compelling vision of sufficient novelty to motivate a call to action.
+### How do we get from here to HyperCard?
 
-Software systems are growing in complexity for a number of the wrong reasons.
-Let's be clear: complexity is always a negative, but sometimes it buys you something positive.
-Since Fred Brooks wrote in *The Mythical Man-Month* of the difference between essential and accidental complexity,
-the commonplace wisdom is that all the worst accidental complexity had already been taken care of with the simple
-act of adopting high-level languages: The remaining complexity is mostly essential,
-so that no single artifact or technique would yield a ten-fold improvement in productivity.
+The product officially known as HyperCard (TM) was a commercial mediocrity at best,
+but it did bring about the general public's first realistic exposure to the *idea* of hyper-media.
+In fact, the world-wide-web is largely an outgrowth of ideas that had their first broad public display through HyperCard.
 
-We can look at where complexity is coming from, and see if we still agree that it's mostly essential.
-To that end, cast your eye upon industrial codebases across the realm and see for yourself if programmers are
-spending their time casting essential verities into the spare notation of lambda calculus,
-or if rather they are upgrading log4j to patch remote-execution vulnerabilities,
-scratching their heads over quadruple-quoting the backslashes in a regular expression contained in a constant string,
-and swimming through reams of API documentation just to get an image to appear on the screen of a cell phone.
+What I mean by hyper-media in this context is that you have a collection of inter-linked multi-media pages (or documents, if you prefer)
+each of which may be composed of intermixed text, graphics, video, and audio.
+The actual HyperCard (TM) application added scripting and animation for a truly generalized interactive user-experience.
+On the web, we call that *JavaScript* in the browser.
+But critically, the HyperCard deck development environment gave an interactively-editable view of the page elements.
+The graphical resources attached to a deck were like first-class citizens of the source code.
 
-The common use of high-level languages did not and will not solve the software crisis.
-Rather, it enabled us to make bigger messes, and faster, and with more people along the way.
+I now hereby invoke a strained analogy between punched-cards and hyper-cards.
 
-Ordinary plain-text computer code, and our traditional ways of working with it, are the wrong answer.
+Briefly: in a conventional programming language, it's normal to spend some fraction of your code
+either directly solving the problem of loading assets (resources) into process space,
+or else delegating the problem to a library.
+Also, you have the mirror-image problem to keep the correspoonding assets organized in some way
+convenient to both the artists who create them and the programmers who must integrate them into the application.
+And last, there's a question of bundling these assets along with whatever deployment technology you use.
+This last adds even more complexity to the asset-loading problem.
 
-(So is a low-code platform, but that's a different rant.)
+I believe that:
 
-What we need is to focus our tooling (and our practices) on the sole and exclusive task of keeping our systems
-*intellectually manageable.*
-That specifically means enabling journeyman programmers to join a team and get up to speed rapidly,
-even with unfamiliar sections of the codebase that nobody has looked at in a while.
+* Assets -- shapes, colors, pictures, video, audio, nontrivial GUI component hierarchies, and random other data -- are critically important for the modern application.
+  Therefore, we should take seriously their proper integration into the development environment.
+* Asset-bundling should transparently happen in real-time directly in the program editor.
+* Assets should effectively bind directly like literal constants in lexical scope. (Or perhaps named constants; we'll see. Depends on the block structure.)
+* In the editor, you should see an asset thumbnail, not a file-name, at the point of "definition": Maybe click to open a registered viewer/editor for the asset.
+* In current environments, it may be necessary to play games with filesystems behind the scenes to make the important use-cases work properly.
+* There may be a temptation to compare this with SceneBuilder/FXML or Visual Basic. The comparison is entirely warranted, but neither is a perfect match:
+  SceneBuilder is slick, but still requires significant manual symbolic binding efforts.
+  VB is a *little* bit better about name bindings, but imposes rigid organizational constraints that don't exactly lend themselves to highly-dynamic interfaces.
 
-You can't do that while you're still arguing over the question of curly-braces vs. significant-whitespace.
-It's so much the wrong question; I can't even begin to express how much the wrong question it is.
-This much is not controversial.
+### How does Python slither in?
 
-Then, there are the methodologists: these people claim that if you follow correct practice, things will work out.
-And in the toy examples, things do indeed work out after one or two orders of magnitude too much code.
-(See, for example, the enterprise-grade hello-world in your favorite search engine.) But as should be apparent,
-things aren't so clean when the real world bites you on the knee. Failure can always be blamed on imperfect practice,
-or upon the failure to incorporate the contents of the *next* revelation from on high into the practice of the day.
+It has a solid standard library, great documentation online, and a thriving community.
+Zero of these are a direct consequence of the language itself, but rather come from over 40 years of the creator's ceaseless promotion in well-connected contexts.
+Still, that's the preferred model if you want to stick around.
 
-The question of the day, then, is *what are the right things to be concerned with,* when we have such silicon snake-oil flowing so freely?
+Also, to the extent we retain a notion of textual notation, Python's succinct style strikes a well-respected balance.
 
-Personally, I'm a fan of the theory of affordances: We grab a door by its knob because a knob affords holding.
-Similarly, traditional-concept IDEs afford copy/paste/modify, so we tend to see a lot of that.
-(As a thought-experiment, imagine if you *could not paste code.* What would happen to your designs?)
+### What do we take from Haskell?
+
+Haskell put Hindley-Milner Type Inference on the map. Sure, there were earlier examples. But Haskell solved a number of usability quirks.
+
+Haskell demonstrates that a lazy-evaluation strategy can lead to excellent program-structuring conventions.
+In Haskell, your computation-sequencing discipline is exactly functional dependency, not the incidental accidentals of lexical sequence.
+There is, in short, no semicolon operator in the pure-functional context.
+
+On the downside, Haskell's absolute uncompromising functional purity does mean certain other compromises.
+For example, you genuinely cannot write QuickSort in Haskell, mistaken assertions to the contrary notwithstanding.
+(The oft-referenced two-liner is not a true QuickSort, and it may not even be O(n log n), if I recall.)
+
+### Why Erlang?
+
+Erlang seems to get CSP exactly right. Its concepts for asynchronous computing and coordination are just about ideal.
+
+It also has an excellent I/O model, with a native concept of something like ropes-but-better:
+Virtually all string concatenation (and much string-conversion) is pushed right to the system boundary, which is really helpful in applications
+where you can't afford to get stuck in a quadratic (or worse) operation because of multiple layers of string re-concatenation.
+
+Despite supporting a few notions similar to assignment, the referential transparency is equivalent to that of a pure-functional language and means garbage collection can be much simpler.
+
+The one thing I would criticize is that it plays super fast and loose with compile-time type checking. Basically, there is only arity.
+
+### Dijkstra, Forth, Ruby, Smalltalk, Decaf, maybe abstract algebra
+
+Um... More to say here.
+
+### Aspect-Oriented Data Structuring
+
+Functions are the obvious candidate for the fundamental unit of program composition.
+However, consider graph theory.
+The data structures and algorithms are interesting enough on their own in an academic context,
+but I care about using them on real problems *seen through the lens* of a graph-structure interpretation.
+
+In many cases, a graph algorithm needs to attach extra data to each node as it goes along.
+Afterwards, I may care about that extra per-node data, or I want to take some reading from it and be done.
+So, I may want space for the intermediate and final results either pre-allocated in the node,
+or conveniently located nearby, or whatever -- and this does not really change the algorithm in the abstract.
+
+I think it's important to be able to expose a sort of graph-algorithm constructor set,
+capable of meeting all these ideas, and then also not only for graphs but every similar kind of operational domain.
+
+### Same name, Same Type of Thing
+
+There's a balance to be struck between all-inferred types and the way manifest-types are usually done.
+I've an idea we should decouple the type assertion from the declaration of parameters and variables.
+This enables independent reuse of the effect of that type assertion, simply by re-using a type-constrained name in a new context.
+This may require some motivating examples. The mathematics textbook is the most familiar.
 
 ## Semantic disasters
 
 Perhaps "disaster" is too strong a word. Perhaps not?
+Anyway, these are some specific pain-points drawn from existing languages.
+I'd like to avoid or overcome them in whatever's next.
 
 ### Python:
 
