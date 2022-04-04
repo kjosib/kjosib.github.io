@@ -168,15 +168,32 @@ To keep things simple, I'll ask for letter grades on each of several aspects of 
 * Feasibility analysis:
   The economic sniff-test: Accounting for the costs and high-risk hurdles that might stymie project completion,
   balancing these against viable mitigations, and roughly estimating the likely ROI on implementing a concept.
-* Architecture: The abstract plan to divide and conquer the overarching problem. Modular breakdown and overall approach to design.
-* Design: Concrete *and understandable* solutions to specific, detailed subproblems.
-* Engineering [Documentation](../documenting.md):
-  The glue between specification, architecture, and design.
-  Says what code can't.
-  Helps all the internals make sense, so you don't have to remember.
 * Procurement: Obtaining physical and logical resources on which to develop, test, or deploy the solution, service, or product.
 * Deployment: Connecting, configuring, and installing the software on computing machines so that stuff physically works.
 * Configuration Management: Keeping track of what versions of which artifacts are meant to be part of which release. Also, version control.
+* Requirements / General:
+  Is there an up-to-date, detailed, and well-organized record of what the product is meant to do and how it's meant to work,
+  such that someone unfamiliar could efficiently come up to speed on any arcane aspect?
+  Or do you instead rely on individuals and their falible recollections to be fonts of subject matter expertise,
+  subjecting your project thereby to the hazard of someone leaving or getting hit by a truck?
+* Requirements / Traceability:
+  Do you have a clear and detailed picture of why each bit of your application exists and behaves as it does,
+  or do you frequently wonder whether some oddity is a bug, a feature, or a vestigial relic?
+* Architecture: The abstract plan to divide and conquer the overarching problem. Modular breakdown and overall approach to design.
+* Design / General: Concrete *and understandable* solutions to specific, detailed subproblems: are we doing that well?
+* Design / Plans and Records:
+  For nontrivial problems, you probably sketched out some design notes in the process of convincing your team that an approach would work.
+  Can we find those sketches or notes later when someone has a question about said design,
+  or do we throw it away and have to figure it all out again when the time comes?
+* Code / Organization:
+  How easy or hard is it for a new person to find the modules they need to read or update?
+* Code / Dragons:
+  Give a bad grade if there are large sections of code that nobody knows how or why it works.
+* Code / Simplicity:
+  Is your project's code trivially-easy to read, understand, and modify even at a deep level,
+  or does it contain lots of long, inscrutable procedures where people are afraid even to look (much less touch anything) for fear of breaking things?
+* Code / Extremes:
+  How would you grade the single *worst* function or module in your application, that you know about?
 * Inter-Team Negotiation and Persuasion:
   For example, say your project has some new feature under development,
   which will also require Team XYZ to accomplish a task they might not otherwise do any time soon.
@@ -211,17 +228,12 @@ To keep things simple, I'll ask for letter grades on each of several aspects of 
   Primary focus is the grand vision and outside stakeholders.
 * Intra-Team Communications: quantity, quality, tone, dignity, completeness, clarity, and frequency.
 * Extra-Team Communications: quantity, quality, tone, dignity, completeness, clarity, and frequency.
-* Technical Debt:
-  Do you stay tightly factored, with functional cohesion and low coupling,
-  or do you have bad copy-and-mutate with interlocking temporal dependencies?
-  Can you understand your code declaratively from denotational semantics,
-  or does it require tricky operational reasoning?
 * Overall Process Maturity:
   For what fraction of our activities do we consistently follow a defined process?
   Do we periodically assess and evolve, or do we shoot from the hip?
 * Stress Level / Vibe:
-  Do you arrive happy, work in a calm and professional environment, and leave relaxed;
-  or do you arrive anxious, fight fires in a culture of urgency and loud voices, and leave relieved?
+  Do you work in a calm, motivating, and professional environment with clear sequencing,
+  or do you fight fires in a culture of constant urgency where the loudest voice wins?
 
 ----
 
@@ -238,6 +250,15 @@ If you are a Team Lead or Senior Contributor:
 
 1. What do your more junior colleagues most need to improve on? (Free-form)
 2. Why is this?
+
+3. On the same grading scale as before, how do you grade the overall code quality on your project?
+   Do you stay tightly factored, with functional cohesion and low coupling,
+   or do you have bad copy-and-mutate with interlocking temporal dependencies?
+   Can you understand your code declaratively from denotational semantics,
+   or does it require tricky operational reasoning?
+
+4. Are the more junior people learning as much, and as quickly, as you'd hoped on this project?
+   Not just about the project itself, but overall software engineering skill.
 
 ----
 
