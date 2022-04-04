@@ -180,7 +180,9 @@ To keep things simple, I'll ask for letter grades on each of several aspects of 
   In our context, I mean planning, control, execution, and administrative accountability
   for capacity, monitoring, support, and incident response.
 * End-User Documentation: Can a person unfamiliar with the specifics of your product (a) figure out what to even look for, and (b) find it?
-* Quality Assurance: Unit tests are not enough. But do we even know how to 
+* Quality Assurance:
+  Code test coverage is not enough.
+  How do you know that the system does exactly what it's supposed to, even in weird rare corner cases?
 * Project Control:
   Track, report, and analyze the plan, forecast, budget, schedule, scope, progress, effort, process, and changes to the above.
 * Team member professional development: Are you getting better at this, fast enough?
@@ -191,6 +193,11 @@ To keep things simple, I'll ask for letter grades on each of several aspects of 
   Primary focus is the grand vision and outside stakeholders.
 * Intra-Team Communications: quantity, quality, tone, dignity, completeness, clarity, and frequency.
 * Extra-Team Communications: quantity, quality, tone, dignity, completeness, clarity, and frequency.
+* Technical Debt:
+  Do you stay tightly factored, with functional cohesion and low coupling,
+  or do you have bad copy-and-mutate with interlocking temporal dependencies?
+  Can you understand your code declaratively from denotational semantics,
+  or does it require tricky operational reasoning?
 * Overall Process Maturity:
   For what fraction of our activities do we consistently follow a defined process?
   Do we periodically assess and evolve, or do we shoot from the hip?
