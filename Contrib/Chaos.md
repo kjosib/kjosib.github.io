@@ -111,11 +111,14 @@ Recently, all the usual topics had been used up, and it came out that more gener
 It sounds like I just have to propose a topic and I'll be given a 30-minute speaking engagement.
 
 I could probably parley that into some good data about needs and wants by driving traffic to a survey web site,
-while also facilitating a discussion of the interplay between software and engineering through such topics as the ACM code of professional ethics
+while also facilitating a discussion of the interplay between software and engineering through such topics as
+the [ACM code of professional ethics](https://www.acm.org/code-of-ethics)
 or the development of engineering ethics as a phenomenon (which is historically recent).
 
 To that end, and possibly eventually as an appendix to this paper, I'll create a brief agenda, the survey,
 and maybe even a slide show that I can use to organize and orchestrate this first local information-gathering phase.
+
+**Other Fora:** I'm actually not sure yet. This part is under construction, seeking mentorship.
 
 ## Results / Data / Findings / Proof / Discussion
 
@@ -127,3 +130,67 @@ and maybe even a slide show that I can use to organize and orchestrate this firs
 
 ## References
 
+## Appendix: Survey Questions
+
+With the advice and consent of the management,
+I'm trying to gather quantifiable data that will guide our future knowledge-transfer efforts.
+Thank you for participating.
+
+----
+
+The first questions are about your personal skills and contributions to the near future of your current project.
+If you lead a team, that will be on a separate screen.
+
+1. What tool or technology would be most valuable for you to brush up on?
+2. What aspect of the development life-cycle would be most valuable for you to learn more about?
+
+----
+
+These next questions relate to your current project. If you've recently changed projects,
+please answer with respect to the project you're currently most familiar with.
+I will *not* ask what project you're on. (I fear it might poison the data.)
+
+To keep things simple, I'll ask for letter grades on each of several aspects of project execution:
+
+* A: Excellent; exemplary.
+* B: Good and respectable.
+* C: Passable, but would benefit from improvement.
+* D: Needs improvement badly.
+* F: Fail.
+* K: I am not well-enough skilled in this topic to evaluate our performance.
+* N: I have no visibility into the team's approach to this.
+
+----
+* Mission and Vision: What makes this project special and worthwhile?
+* Planning and Roadmap: Thinking up and evaluating possible future features or lines of development.
+* Release Cadence: Do meaningful increments of business value go live regularly, or do technical obstacles slow the pace?
+* Reliability: Does your product or service *just work,* or do you spend much time dealing with mistakes and breakdowns?
+* Feasibility analysis: Looking for ways to overcome the high-risk hurdles that might stymie project completion.
+* Architecture: The abstract plan to divide and conquer the overarching problem. Modular breakdown and overall approach to design.
+* Design: Concrete *and understandable* solutions to specific, detailed subproblems.
+* Engineering [Documentation](../documenting.md):
+  The glue between specification, architecture, and design.
+  Says what code can't.
+  Helps all the internals make sense, so you don't have to remember.
+* Procurement: Obtaining physical and logical resources on which to develop, test, or deploy the solution, service, or product.
+* Deployment: Connecting, configuring, and installing the software on computing machines so that stuff physically works.
+* Configuration Management: Keeping track of what versions of which artifacts are meant to be part of which release. Also, version control.
+* Interface Management: Persuading other teams to play along nicely with your grand vision.
+* [Production/Operations Management](https://www.britannica.com/technology/production-management):
+  In our context, I mean planning, control, execution, and administrative accountability
+  for capacity, monitoring, support, and incident response.
+* End-User Documentation: Can a person unfamiliar with the specifics of your product (a) figure out what to even look for, and (b) find it?
+* Quality Assurance: Unit tests are not enough. But do we even know how to 
+* Project Control:
+  Track, report, and analyze the plan, forecast, budget, schedule, scope, progress, effort, process, and changes to the above.
+* Team member professional development: Are you getting better at this, fast enough?
+* Project Management:
+  Sets goals/priorities, manages changes to scope/schedule/budget, allocates resources, and facilitates success.
+  Primary focus is mission accomplishment on time, under budget, and with a satisfied customer.
+* Product Management: Lives at the intersection of Business, UX, and Tech to invent, guide, and evolve the product.
+  Primary focus is the grand vision and outside stakeholders.
+* Intra-Team Communications: quantity, quality, tone, dignity, completeness, clarity, and frequency.
+* Extra-Team Communications: quantity, quality, tone, dignity, completeness, clarity, and frequency.
+* Overall Process Maturity:
+  For what fraction of our activities do we consistently follow a defined process?
+  Do we periodically assess and evolve, or do we shoot from the hip?
