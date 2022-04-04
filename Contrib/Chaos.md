@@ -165,7 +165,9 @@ To keep things simple, I'll ask for letter grades on each of several aspects of 
 * Planning and Roadmap: Thinking up and evaluating possible future features or lines of development.
 * Release Cadence: Do meaningful increments of business value go live regularly, or do technical obstacles slow the pace?
 * Reliability: Does your product or service *just work,* or do you spend much time dealing with mistakes and breakdowns?
-* Feasibility analysis: Looking for ways to overcome the high-risk hurdles that might stymie project completion.
+* Feasibility analysis:
+  The economic sniff-test: Accounting for the costs and high-risk hurdles that might stymie project completion,
+  balancing these against viable mitigations, and roughly estimating the likely ROI on implementing a concept.
 * Architecture: The abstract plan to divide and conquer the overarching problem. Modular breakdown and overall approach to design.
 * Design: Concrete *and understandable* solutions to specific, detailed subproblems.
 * Engineering [Documentation](../documenting.md):
@@ -175,17 +177,33 @@ To keep things simple, I'll ask for letter grades on each of several aspects of 
 * Procurement: Obtaining physical and logical resources on which to develop, test, or deploy the solution, service, or product.
 * Deployment: Connecting, configuring, and installing the software on computing machines so that stuff physically works.
 * Configuration Management: Keeping track of what versions of which artifacts are meant to be part of which release. Also, version control.
-* Interface Management: Persuading other teams to play along nicely with your grand vision.
+* Inter-Team Negotiation and Persuasion:
+  For example, say your project has some new feature under development,
+  which will also require Team XYZ to accomplish a task they might not otherwise do any time soon.
+  How hard is it to achieve and recognize alignment on schedule and expectations between your combined sets of stakeholders?
 * [Production/Operations Management](https://www.britannica.com/technology/production-management):
   In our context, I mean planning, control, execution, and administrative accountability
   for capacity, monitoring, support, and incident response.
 * End-User Documentation: Can a person unfamiliar with the specifics of your product (a) figure out what to even look for, and (b) find it?
+* End-User Support / Availabillity:
+  Do people trivially find the help they need when they need it,
+  or is it a long slog to find your inadequate homepage or contact list?
+  Do new customers have to guess at how to properly request help or file a defect report?
+* End-User Support / Boundaries:
+  Do you clearly publish the boundaries on your scope of support?
+  Have your customers understoood and agreed to these bounds?
+  Does the support staff know how to say "no" when it's called for?
+* End-User Support / Transparency:
+  When you have a support interaction, do customers know what to expect and when, or does the squeaky wheel get the grease?
+* End-User Support / Sustainability:
+  Does each new customer increase your own burden? What about the overall collective burden imposed on the company stemming from that relationship?
+* Operations Support: When something does go wrong, how quick and easy is it for trained personnel to notice, identify the cause, and fix the problem?
 * Quality Assurance:
   Code test coverage is not enough.
   How do you know that the system does exactly what it's supposed to, even in weird rare corner cases?
 * Project Control:
   Track, report, and analyze the plan, forecast, budget, schedule, scope, progress, effort, process, and changes to the above.
-* Team member professional development: Are you getting better at this, fast enough?
+* Team member professional development: Are you getting better at this job, fast enough?
 * Project Management:
   Sets goals/priorities, manages changes to scope/schedule/budget, allocates resources, and facilitates success.
   Primary focus is mission accomplishment on time, under budget, and with a satisfied customer.
@@ -201,3 +219,30 @@ To keep things simple, I'll ask for letter grades on each of several aspects of 
 * Overall Process Maturity:
   For what fraction of our activities do we consistently follow a defined process?
   Do we periodically assess and evolve, or do we shoot from the hip?
+* Stress Level / Vibe:
+  Do you arrive happy, work in a calm and professional environment, and leave relaxed;
+  or do you arrive anxious, fight fires in a culture of urgency and loud voices, and leave relieved?
+
+----
+
+Regardless of rank or pay bracket, on your project are you:
+
+* Team Lead
+* Senior Contributor
+* Junior Contributor
+* Other
+
+----
+
+If you are a Team Lead or Senior Contributor:
+
+1. What do your more junior colleagues most need to improve on? (Free-form)
+2. Why is this?
+
+----
+
+Is there anything else you'd like to share?
+
+----
+
+Thank you!
