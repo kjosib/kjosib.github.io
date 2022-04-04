@@ -115,14 +115,40 @@ while also facilitating a discussion of the interplay between software and engin
 the [ACM code of professional ethics](https://www.acm.org/code-of-ethics)
 or the development of engineering ethics as a phenomenon (which is historically recent).
 
-To that end, and possibly eventually as an appendix to this paper, I'll create a brief agenda, the survey,
-and maybe even a slide show that I can use to organize and orchestrate this first local information-gathering phase.
+To that end, I've created a survey which I hope to adminster (currently as an appendix to this paper)
+and I aim to get it into the corporate survey solution in the usual manner.
+I'll soon create a brief agenda introducing the topic, opening the floor, facilitating discussion,
+and then selling the idea that people please take the survey as a sanctioned contribution to the study I'm doing.
+
+A few unconventional characteristics of the survey deserve mention:
+
+* A more formally-designed survey might trace each question back to prior art or respected references.
+  I'm relying on breadth of experience. I began with a brain-dump of everything I could think of which
+  might influence the success and sustainability of a project. Then, I solicited feedback from a few
+  carefully-selected, highly-trusted and qualified people to help fill any gaps.
+
+* In the section where the respondent grades his/her project's performance,
+  many of the questions include a sort of miniature rubric for how to score the issue.
+  Contrary to what might be considered standard practice, I have intentionally phrased these to
+  convey and promote certain value judgements about good and bad software engineering practices.
+  
+  I do this for several reasons which I believe are ethical, given proper expert review.
+  One is to overcome apathy and stimulate action to improve matters.
+  One is to overcome ignorance and stimulate a desire for learning.
+  One is to overcome the assumption of agreement and stimulate focused debate on matters of substance to project success.
+  
+  The means and mechanism for expert review is built into the "advice and consent of the management"
+  mentioned on the first screen of the survey. If I have any fundamental disagreements with management
+  about what the ideal world looks like for a software engineering effort,
+  then this becomes a blocking dependency.
 
 **Other Fora:** I'm actually not sure yet. This part is under construction, seeking mentorship.
 
 ## Results / Data / Findings / Proof / Discussion
 
 ## Interpretation / Significance
+
+In retrospect, the survey reads like a curriculum. 
 
 ## Future Steps
 
@@ -162,6 +188,9 @@ To keep things simple, I'll ask for letter grades on each of several aspects of 
 
 ----
 * Mission and Vision: Does everyone know what makes this project special and worthwhile?
+* Systems Thinking:
+  How well do you understand the project's role within, and interface to, the larger mission and context beyond the project?
+  [Thank you Margaret Hamilton.](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))
 * Planning and Roadmap: Thinking up and evaluating possible future features or lines of development.
 * Release Cadence: Do meaningful increments of business value go live regularly, or do technical obstacles slow the pace?
 * Reliability: Does your product or service *just work,* or do you spend much time dealing with mistakes and breakdowns?
