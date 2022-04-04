@@ -158,16 +158,17 @@ To keep things simple, I'll ask for letter grades on each of several aspects of 
 * D: Needs improvement badly.
 * F: Fail.
 * K: I am not well-enough skilled in this topic to evaluate our performance.
-* N: I have no visibility into the team's approach to this.
+* N: I have no visibility into the team's performance on this topic.
 
 ----
-* Mission and Vision: What makes this project special and worthwhile?
+* Mission and Vision: Does everyone know what makes this project special and worthwhile?
 * Planning and Roadmap: Thinking up and evaluating possible future features or lines of development.
 * Release Cadence: Do meaningful increments of business value go live regularly, or do technical obstacles slow the pace?
 * Reliability: Does your product or service *just work,* or do you spend much time dealing with mistakes and breakdowns?
 * Feasibility analysis:
-  The economic sniff-test: Accounting for the costs and high-risk hurdles that might stymie project completion,
-  balancing these against viable mitigations, and roughly estimating the likely ROI on implementing a concept.
+  The economic sniff-test for each new concept, feature, or requirement.
+  Accounting for the costs and high-risk hurdles that might stymie project completion,
+  balancing these against viable mitigations, and roughly estimating the likely ROI on implementing.
 * Procurement: Obtaining physical and logical resources on which to develop, test, or deploy the solution, service, or product.
 * Deployment: Connecting, configuring, and installing the software on computing machines so that stuff physically works.
 * Configuration Management: Keeping track of what versions of which artifacts are meant to be part of which release. Also, version control.
@@ -218,9 +219,13 @@ To keep things simple, I'll ask for letter grades on each of several aspects of 
 * Quality Assurance:
   Code test coverage is not enough.
   How do you know that the system does exactly what it's supposed to, even in weird rare corner cases?
+* Team member professional development: Are you getting better at this job, fast enough?
 * Project Control:
   Track, report, and analyze the plan, forecast, budget, schedule, scope, progress, effort, process, and changes to the above.
-* Team member professional development: Are you getting better at this job, fast enough?
+* Estimating:
+  Business would like to know how much time, money, and effort things will take -- for business reasons.
+  Do we consistently make, report, and improve these estimates on an objectively data-driven basis, unmoved by desire?
+  And are they properly understood to be estimates (with a margin of uncertainty), not commmitments?
 * Project Management:
   Sets goals/priorities, manages changes to scope/schedule/budget, allocates resources, and facilitates success.
   Primary focus is mission accomplishment on time, under budget, and with a satisfied customer.
