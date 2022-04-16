@@ -40,31 +40,9 @@ doing the real aim of the game, which is to convey what knowledge and wisdom I c
 *And furthermore,* if I can forge a more institutionalized path for *everyone* to get more communicative
 about the good, bad, and ugly of CS and SE, then I will consider *that* some next-level success.
 
-## Prior Art / Prevailing Conception
+## The Obstacle Course: Feedback Loops of *Talent* and *Content*
 
-- There are three obvious places to start, just from a sheer self-motivation perspective.
-
-**The first** is the corporate speaking circuit.
-No shade; I just need to learn those ropes.
-I think Kevin can get me a kick in the right direction.
-I'll talk with him Monday.
-
-**The second** is the local horizontal knowledge-transfer sessions,
-which might be repurposed from time to time.
-Srilatha currently controls that schedule.
-I shall follow up with her on Monday.
-
-**The third** is to start telling everyone who will listen what my plan is,
-in hopes of developing a network of zealots (or at least believers) who can 
-help make the right connections on appeal to the law of large numbers.
-
-- There is at least one similar effort I'm aware of.
-
-Luc seems to have tried to stimulate organic knowledge-transfer among members of a certain group of teams.
-I'm not sure how far that got. He's in another regional time zone, so I may not get to him on Monday,
-but I'll definitely aim for early in the week.
-
-- The *next level* is about the company's feedback loops (and metaloops) involving technical-speaking *talent* and *content*.
+> If technical public-speaking were easy, everyone would be doing it.
 
 For the moment, let me invoke the [Copernican Principle](https://www.thoughtco.com/copernican-principle-2699117)
 and its extension to the corporate domain: any difference between my own experience and the average is most likely
@@ -88,9 +66,51 @@ What that means is that, despite the availability of resources by which someone 
 for most programming jobs the typical daily grind in no way stimulates such saw-sharpening,
 much less the development of public-speaking skills or relevant topics to share.
 
-Perhaps I just need to dig more into the corporate speaking circuit.
-It's entirely possible -- likely even -- that a cadre of devoted people make their living
-grooming and presenting speakers.
+This sets up a chicken-and-egg problem for aspiring speakers.
+There is no cheat-code or royal road,
+but existing technical speakers demonstrate conclusively that there *must* be a way in somehow.
+
+So much for problems. Let's see about solutions.
+
+## Prior Art / Prevailing Conception
+
+**The Corporate Speaking Circuit:**
+The company where I currently work periodically runs internal seminar programs consisting of
+many presentations in a brief timespan all related to a common theme.
+
+Although I know a few people who've spoken on this circuit,
+I've yet to get any solid data on how one might go about joining it.
+Anecdotes follow, though:
+
+**Kevin** spoke as part of a coordinated, themed technical seminar which my current employer periodically orchestrates.
+
+Roughly paraphrased, he said it fell into his lap in a *right-place right-time* serendipity:
+He was asked to speak on topic XYZ, and he spoke.
+
+Unfortunately, this contact provides very little direct usable guidance:
+opportunities do not simply land in your lap without considerable advance preparation,
+whether carefully planned or intuitively executed.
+
+**James** periodically explains new features in a certain internal development platform,
+along with other assorted speaking engagements.
+
+I need to follow up with him for data -- or for anecdote. (At this point, I'll take either.)
+
+**The Local Biweekly Forum:**
+There is a biweekly horizontal application-specific knowledge-transfer session in Houston.
+It usually consists of a rotation of technical topics.
+I've actually given a presentation on the topic of my team's product in this venue once before.
+My experience with venue in the past, both as audience and presenter,
+suggests that it's been treated like elementary-school book reports:
+Most of the audience lacks the context to make meaningful connections with what gets presented.
+
+**Vaguely Similar Efforts:**
+Luc tried to stimulate organic knowledge-transfer among members of a certain group of teams.
+His method seemed like crowd-sourcing ideas for how to do software engineering well.
+It lasted for a while, but seems to have either fizzled out or gone beneath my radar.
+If I had to guess, it probably succumbed to the aforementioned systemic incentives
+for people to keep their heads down and just produce code. Still, I should follow
+up to find out what really happened.
 
 ## Approach / Methods / Solution
 
@@ -106,14 +126,94 @@ Rather, I am presently focused on working out:
 - how to book space, generate buzz, and drive audiences; and
 - how to measure impact.
 
-**The Local Biweekly Forum:** There is a biweekly horizontal application-specific knowledge-transfer session in Houston.
+Nevertheless, preparation's technique is inseparable from its necessity under the circumstances,
+so I will not rule out discussion of that aspect of the experience or lessons thereby learned.
+
+### Starting Points
+
+On the specific topic of getting into the game of public speaking,
+there are four obvious places to start.
+These are drawn from observations made prior to any systemic attempt.
+
+I know of one person
+who's actually given one of these presentations. By personal communication, I asked him about
+how he got involved. 
+
+**The Local Biweekly Forum:**
+As mentioned under *prior art*, the local forum is not especially glamorous at the moment,
+but the people who control it are easy to work with.
 Recently, all the usual topics had been used up, and it came out that more general topics might be welcome from time to time.
 It sounds like I just have to propose a topic and I'll be given a 30-minute speaking engagement.
 
-I could probably parley that into some good data about needs and wants by driving traffic to a survey web site,
-while also facilitating a discussion of the interplay between software and engineering through such topics as
-the [ACM code of professional ethics](https://www.acm.org/code-of-ethics)
-or the development of engineering ethics as a phenomenon (which is historically recent).
+
+**Toastmasters International:**
+You can't say "public speaking" without someone *speaking up* and mentioning Toastmasters.
+I've had many good and enriching experiences with Toastmasters on previous occasions.
+Some companies sponsor chapters, and some even make it a standard part of management training.
+
+**Everyone Who Will Listen:**
+The unconventional option is to start bending every willing ear to the nature of my plan,
+in hopes of developing a network of zealots (or at least believers) who can 
+help make the right connections on appeal to the law of large numbers.
+
+### Early Progress
+
+After a quick and disappointing look into the *Toastmasters* angle,
+I quickly pivoted to *Everyone Who Will Listen.*
+That naturally includes *The Local Biweekly Forum,*
+and by extension Srilatha, who controls its schedule.
+
+Once I worked up the gumption to explain my mission and ask her directly for time on the schedule,
+she was quite receptive to the idea.
+It was only necessary to make some concession to her sense of what could and should be presented.
+She'd just recently done some informal polling herself: the intersection of supply and demand
+showed my best first topic to be an introductory overview of _________, one of the company's
+strategic platforms and one I'd accumulated over a year's direct experience with.
+
+Having identified a topic, it was then necessary to organize an agenda.
+The precise details are currently confidential, but in the abstract it
+has roughly the structure I learned from the DOD's androgogy course.
+
+As an early experiment with this agenda, I went over it with a new-hire.
+That showed that, although I had a decent overall scope, I would need to add serious meat to the bones.
+Thus, when I get back on Monday the plan is to expand in turn each major component of _________ to its own
+sub-agenda following a simple formulaic plan. It might go like:
+
+* Component
+  * What problem it solves
+  * Why this problem is worth solving
+  * Approach to solution
+  * Strength and weakness of the approach taken
+  * Direct comparison to alternatives, if known
+  * Surprises from experience with the component, if any
+  * Where to find more information
+
+This pattern can also be applied in advance to the overall system before delving into subsystems.
+So that's going to happen.
+
+One last thing: I intend to avoid death-by-powerpoint,
+so visual aids are views of the actual working _________ system.
+
+### Opening Performance
+
+## Results / Data / Findings / Proof / Discussion
+
+This section is necessarily experiential: N=1 by definition.
+As such, [no true statistician](https://en.wikipedia.org/wiki/No_true_Scotsman)
+should draw any definite conclusions about causality or even correlation.
+
+
+
+## Interpretation / Significance
+
+In retrospect, the survey reads like a curriculum. 
+
+## Future Steps
+
+**The Survey:**
+At some point, I intend to have a reputation for being willing and able to speak on a decent variety of general-interest
+software-development and comp-sci topics.
+That creates a platform from which to also gather good data about needs and wants by driving traffic to a survey.
 
 To that end, I've created a survey which I hope to adminster (currently as an appendix to this paper)
 and I aim to get it into the corporate survey solution in the usual manner.
@@ -142,15 +242,10 @@ A few unconventional characteristics of the survey deserve mention:
   about what the ideal world looks like for a software engineering effort,
   then this becomes a blocking dependency.
 
-**Other Fora:** I'm actually not sure yet. This part is under construction, seeking mentorship.
+**The Circuit:** Perhaps I need to dig more into the corporate speaking circuit.
+It's entirely possible -- likely even -- that a cadre of devoted people make their living
+grooming and presenting speakers.
 
-## Results / Data / Findings / Proof / Discussion
-
-## Interpretation / Significance
-
-In retrospect, the survey reads like a curriculum. 
-
-## Future Steps
 
 ## Conclusion
 
@@ -191,6 +286,9 @@ To keep things simple, I'll ask for letter grades on each of several aspects of 
 * Systems Thinking:
   How well do you understand the project's role within, and interface to, the larger mission and context beyond the project?
   [Thank you Margaret Hamilton.](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))
+* The interplay between software and engineering through such topics as
+  the [ACM code of professional ethics](https://www.acm.org/code-of-ethics)
+  or the development of engineering ethics as a phenomenon (which is historically recent).
 * Planning and Roadmap: Thinking up and evaluating possible future features or lines of development.
 * Release Cadence: Do meaningful increments of business value go live regularly, or do technical obstacles slow the pace?
 * Reliability: Does your product or service *just work,* or do you spend much time dealing with mistakes and breakdowns?
