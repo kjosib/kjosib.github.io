@@ -21,7 +21,15 @@ This section is pointers to articles on general good and bad practice.
 * [Single-letter names - a cautionary tale](https://hilton.org.uk/blog/single-letter-names-tale)
   hammers the gong on meaningful identifiers.
 * [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM), by Brian Will,
-  
+* [On the Role of Scientific Thought](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD447.html)
+  proposes a reason sound practice got off to a slow start, and debuts the phrase "separation of concerns".
+* Dijkstra's [My hopes of computing science](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD07xx/EWD709.html)
+  deals with elegance, simplicity, programming as such, and indirectly why debuggers are a symptom not a cure.
+
+[The Effective Arrangement of Logical Systems](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD05xx/EWD562.html)
+focuses on the value of and need for well-defined interfaces.
+One logical consequence is that it's generally worthwhile to factor out
+independently-meaningful sub-programs even when those sub-programs are only invoked once.
 
 ## Software as an Engineered Product
 
@@ -64,7 +72,10 @@ David L Parnas's seminal contribution on modularity:
 TL;DR: Separate *concerns*, not *jobs*, and you will do reasonably well.
 
 * The proper domain of a module is abstract data types and the operations among them.
-There's a paper I mean to track down which explains this.
+[On representational abstraction](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD393.html),
+just begins to hint at abstract data types, but doesn't fully develop them.
+[This set of course notes](https://www.cs.princeton.edu/courses/archive/fall14/cos217/lectures/10_ModularityHistory.pdf)
+attempts to trace some of the history behind this, but doesn't quite make that final leap.
 
 [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 will both *motivate* and familiarize you with the benefits of truly *functional* programming.
@@ -193,9 +204,9 @@ the author prays his colleagues might embrace from the excesses and vicissitudes
 
 ## The Industry
 
-Anyone who's thought about teaching the subject should read
-[On the cruelty of really teaching computing science (EWD 1036)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
-which pulls no punches but is absolutely on point.
+[Ctrl-Alt-Del: Learning to Love Legacy Code](https://youtu.be/wPjHuvulivM?t=627)
+(link skips parody cover-song and movie clips)
+turns an inevitable challenge in the computing industry into something we can actually appreciate.
 
 *The Mythical Man-Month*, by Fred P. Brooks Jr., is to software engineering what
 *[The Wealth of Nations](https://www.gutenberg.org/ebooks/3300)*
@@ -206,6 +217,10 @@ of large software projects and the coordinated efforts of groups to create them.
 [an early edition](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf)
 online if you poke around long enough, but do yourself a favor and
 [buy the book.](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
+
+Anyone who's thought about teaching the subject should read
+[On the cruelty of really teaching computing science (EWD 1036)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
+which pulls no punches but is absolutely on point.
 
 ## Updates
 
