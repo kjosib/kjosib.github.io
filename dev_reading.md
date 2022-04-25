@@ -31,6 +31,11 @@ focuses on the value of and need for well-defined interfaces.
 One logical consequence is that it's generally worthwhile to factor out
 independently-meaningful sub-programs even when those sub-programs are only invoked once.
 
+I was looking for something else and stumbled over
+[this document about learning](https://fortelabs.co/blog/progressive-summarization-v-the-faster-you-forget-the-faster-you-learn/)
+which proposes to elevate the importance of forgetting.
+It's a sideways take on the subject, but there are some useful truths buried therein.
+
 ## Software as an Engineered Product
 
 Starting in this section,
