@@ -105,12 +105,18 @@ suggests that it's been treated like elementary-school book reports:
 Most of the audience lacks the context to make meaningful connections with what gets presented.
 
 **Vaguely Similar Efforts:**
+
 Luc tried to stimulate organic knowledge-transfer among members of a certain group of teams.
 His method seemed like crowd-sourcing ideas for how to do software engineering well.
 It lasted for a while, but seems to have either fizzled out or gone beneath my radar.
 If I had to guess, it probably succumbed to the aforementioned systemic incentives
 for people to keep their heads down and just produce code. Still, I should follow
 up to find out what really happened.
+
+According to my own management, the London office is allegedly trying to reinstitute a
+discussion forum about general software engineering techniques.
+It's not 100% clear how well this is working,
+but it sounds like it's been a real challenge to make it work.
 
 ## Approach / Methods / Solution
 
@@ -144,7 +150,6 @@ As mentioned under *prior art*, the local forum is not especially glamorous at t
 but the people who control it are easy to work with.
 Recently, all the usual topics had been used up, and it came out that more general topics might be welcome from time to time.
 It sounds like I just have to propose a topic and I'll be given a 30-minute speaking engagement.
-
 
 **Toastmasters International:**
 You can't say "public speaking" without someone *speaking up* and mentioning Toastmasters.
@@ -188,13 +193,7 @@ sub-agenda following a simple formulaic plan. It might go like:
   * Surprises from experience with the component, if any
   * Where to find more information
 
-This pattern can also be applied in advance to the overall system before delving into subsystems.
-So that's going to happen.
-
-One last thing: I intend to avoid death-by-powerpoint,
-so visual aids are views of the actual working _________ system.
-
-### Opening Performance
+I also applied this pattern in advance to the overall system before delving into subsystems.
 
 ## Results / Data / Findings / Proof / Discussion
 
@@ -202,15 +201,93 @@ This section is necessarily experiential: N=1 by definition.
 As such, [no true statistician](https://en.wikipedia.org/wiki/No_true_Scotsman)
 should draw any definite conclusions about causality or even correlation.
 
+### Opening Performance
 
+On 4/20, I gave the presentation on the inaugural topic.
+Intending to avoid death-by-powerpoint, I basically spoke from my notes.
+Even moving quickly, I ran over time.
+Still, there were some questions at the end specifically asking for some views.
+So I did some screen-sharing in that moment.
+
+Despite an early and prominent request for feedback, so far it's been slow coming.
+
+On 4/22, I did a retrospective on that initial "opening performance" with my manager from a career-development perspective.
+That's how I learned about the present London-office effort to hold general software-engineering discussions.
 
 ## Interpretation / Significance
 
-In retrospect, the survey reads like a curriculum. 
+The first thing I learned is that visual aids are a much bigger deal than I initially estimated.
+Each subtopic should have at least some kind of graphical element -- NOT merely words on a screen --
+in order to amplify the nature of the problems and solutions I might be talking about.
+
+It quickly became clear my topic was too broad for the alloted time.
+As an introductory overview of a multifaceted platform with many major components,
+it would probably make sense to drop the per-component *comparisons to alternatives* and
+shrink the *approach to solution* sections, saving these for topical deep-dives.
+Time saved could go toward some sort of demonstration.
+
+Next, although I did put some audience participation early in the presentation,
+it would probably help to have more. Perhaps each section could start with a question.
+
+I may have fallen victim -- at least partially -- to an unfortunate pattern that currently
+aflicts the biweekly knowledge share: What usually happens when someone gives an overview
+of the system or technology they're working on is that people politely listen and then are
+unable to use what they learned on the job any time soon, because whatever other project
+has zero practical connection to their daily work. In my case I think I've upgraded
+from *politely* to *curiously*, at least according to the avowed general interest in _________,
+but it still remains beyond the reach of your average technologist to take this new knowledge
+and use it in their daily work. Honestly, the general population's interest in _________
+probably stems more from management excitement over what _________ offers,
+rather than an immediate need to know the platform.
+
+The retrospective highlighted a disconnect between content and purpose.
+See, it's not enough to talk about what people think they want to hear about.
+You make an impact with communication only when it changes the audience in a meaningful way,
+such as by getting them to invest in a new technique or skill or really take any particular action.
+(This goes back to the matter of catharsis I alluded to earlier.)
+From my time in Toastmasters, I recognize this disconnect as contributing to another deficiency:
+There is no particular *call to action* (to say nothing of *motivation to action*).
+What's more, I failed to really even consider what action I want the audience to take
+as a result of being my audience. Yes, there were pointers to more information,
+and yes, someone might choose to follow those links. But that's far too thin to make a real impact.
+The lesson may be that *agreeing to make a speech is agreeing to motivate people,*
+so it's critical to determine what motivation is intended before composing the speech.
+Mere brain-dumps are not very motivating.
+
 
 ## Future Steps
 
-**The Survey:**
+### Crossing Silos
+
+Something interesting came out of the management retrospective.
+We talked of trying to spread cross-cutting knowledge:
+how to be a better software developer, for example.
+And we mentioned a few possible approaches:
+
+* Discussions
+* Seminars
+* Q&A sessions with panels of experts
+* Periodically stirring the pot (transfering people around)
+
+But the most relevant idea to my own journey relates to how we structure the expectations around knowledge transfer sessions.
+As I mentioned, the status quo is that people give overviews and get a polite audience who then nods and goes back to work.
+This represents its own new problem to solve.
+
+To that end, I'd like to try to structure a talk around some useful principle or practice of software development.
+The goal would be to motivate the audience to adopt or at least attempt the same principle in their own work.
+There is a fundamental challenge here:
+The [Chinese Doctor Parable](https://www.dynamicpoints.com/blog/bian-ques-older-brothers-and-treating-illness-before-it-occurs) applies in full force.
+By the time the problems of ill practice are evident, it can take extraordinary efforts to recover.
+
+A conventional dramatic arc does not center on tribulations avoided.
+Rather, the motivation must be found some other way. Exactly *how* is my next question.
+
+* I could find something that *has* turned around on my team's project, and play up the benefits as resulting from some change in practice.
+* I could compare my experience on two projects with different practices; then play up the sounder one.
+* I could engage the audience to get testimony that the problem aflicts many; then play up how the proper solution is working on my project.
+
+
+### The Survey
 At some point, I intend to have a reputation for being willing and able to speak on a decent variety of general-interest
 software-development and comp-sci topics.
 That creates a platform from which to also gather good data about needs and wants by driving traffic to a survey.
@@ -222,7 +299,7 @@ and then selling the idea that people please take the survey as a sanctioned con
 
 A few unconventional characteristics of the survey deserve mention:
 
-* A more formally-designed survey might trace each question back to prior art or respected references.
+* A more formally-designed survey might trace each survey question back to prior art or respected references.
   I'm relying on breadth of experience. I began with a brain-dump of everything I could think of which
   might influence the success and sustainability of a project. Then, I solicited feedback from a few
   carefully-selected, highly-trusted and qualified people to help fill any gaps.
@@ -242,14 +319,26 @@ A few unconventional characteristics of the survey deserve mention:
   about what the ideal world looks like for a software engineering effort,
   then this becomes a blocking dependency.
 
-**The Circuit:** Perhaps I need to dig more into the corporate speaking circuit.
+In retrospect, the survey reads like a curriculum. 
+
+### The Circuit
+Perhaps I need to dig more into the corporate speaking circuit.
 It's entirely possible -- likely even -- that a cadre of devoted people make their living
 grooming and presenting speakers.
 
 
 ## Conclusion
 
+This first experience has been a good and useful one, despite the lack of overt feedback.
+It taught many lessons and opened new questions. It will take sustained hard work to break
+into the ranks of regular speakers, but there's opportunity for the making.
+The new questions demand answers, and to get them I'll have to perform more experiments
+in the form of carefully-designed speeches. Perhaps in the progress some modicum of fame
+may accrue; perhaps it does not. But I won't know until I try!
+
 ## References
+
+References are hyperlinked at their origin.
 
 ## Appendix: Survey Questions
 
