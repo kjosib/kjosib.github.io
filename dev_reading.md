@@ -11,6 +11,32 @@ If you don't know a programming language, you could do a lot worse than this edi
 In fact, read that anyway if you're new-ish to the field -- say, less than a few years experience.
 You'll also learn Python along the way, if you haven't already.
 
+## Think you know a few things?
+
+Twenty-five years ago, someone pointed me to Structure and Interpretation of Computer Programs,
+and said I should read it. This book is MIT's introductory computer-science text.
+
+* [full text - front page] https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
+* [full text - table of contents](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html)
+* [web site](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
+
+At the time, I was a cocky young hot-shot with two thirds of a degree and a bottle of PHP3 in my hand.
+I didn't know the value of what I'd been told, and anyway the web wasn't yet so mature as to
+let me read for free what I've linked above. So I didn't read it right away. Thankfully,
+I eventually got around to reading it.
+
+For context, the degree I had two thirds of would have been from the University of Texas at Austin,
+back when Pascal was still *God's Gift to Introductory Programming* by way of the prophet Niklaus Wirth.
+The point is I had a solid foundation -- or so I thought.
+
+By the time I finally got around to reading this book, it really opened my eyes to the rest of the story.
+Sure, it starts at the very *very* beginning ... but then picks up speed rapidly.
+Exploiting the [andragogical](https://en.wikipedia.org/wiki/Andragogy) advantages and spartan minimalism of the language *Scheme*,
+the authors take us on a deep and enlightening tour of the essence of software in a number of different paradigms
+while completely bypassing such tangential gobbledygook as `public static void main(String[] argv) {`,
+which really has no place usurping our attention from a theoretical overview.
+
+
 ## Stupid Human Tricks, Programming Edition
 
 This section is pointers to articles on general good and bad practice.
@@ -43,6 +69,9 @@ I'm assuming you are reasonably fluent in some general-purpose programming langu
 and you can make it do a decent variety of cute tricks.
 However, seventeen syllables do not a haiku make.
 
+Edsger Dijkstra infamously quipped that software engineering is *how to program when you cannot*.
+I do believe that software can be an engineered product, but often it is merely designed.
+
 Take a moment to think about what *engineering* means in any other context than software.
 What does a process engineer or a mechanical engineer do all day long?
 The answer is a number of things, but among them you will find:
@@ -65,12 +94,14 @@ but in over 40 years of their existence, they've netted a shockingly small quant
 (Although it may be hypthesized this is a consequence less of the development methodology
 and more of the fact that a *literal* God of Computer Science wrote it....)
 
-Edsger Dijkstra infamously quipped that software engineering is *how to program when you cannot*.
-I do believe that software can be an engineered product, but often it is merely designed.
 A good place to start, though, is with his treatise on programming:
-[EWD 249](https://www.cs.utexas.edu/users/EWD/ewd02xx/EWD249.PDF).
+(I'm afraid I've lost track of the link. I'll find it eventually.)
 Fair warning: It is at times tedious, dense, or guilty of the occasional outdated stereotype or
 cultural reference. On the plus side, it's broken into meaningful and mostly-independent chapters.
+
+If you're up for some heavy lifting, 
+[EWD 249: Notes on Structured Programming](https://www.cs.utexas.edu/users/EWD/ewd02xx/EWD249.PDF)
+
 
 David L Parnas's seminal contribution on modularity:
 [On the Criteria To Be Used in Decomposing Systems into Modules](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf).
@@ -118,7 +149,13 @@ And also read *The Applicant*, and every other scrap on that same web site.
 [WAT](https://destroyallsoftware.com/talks/wat) packs grand wisdom about design
 into less than five hilarious minutes of biting satire.
 
-[On the Maintenance of Classic Modula-2 Compilers](https://arxiv.org/pdf/1809.07080.pdf)
+[On the Maintenance of Classic Modula-2 Compilers](https://arxiv.org/pdf/1809.07080.pdf).
+This lays out the principles of design-for-maintainabillity.
+
+[On Understanding Data Abstraction, Revisited](https://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf),
+by William R. Cook, University of Texas at Austin.
+What is the relationship between *objects* and *abstract data types* (ADTs)?
+This paper explains the differences between these forms of data abstraction in ways your textbook never mentioned.
 
 ## A focus on testing
 
