@@ -51,7 +51,7 @@ is probably largely similar for most.
 
 > At this point, and because I haven't been living under a *complete* rock,
 > I know that some fraction of the audience now has intense thoughts of systemic bias at center-stage.
-> Here at _________, we do not tolerate workplace discrimination.
+> Here at *$COMPANY*, we do not tolerate workplace discrimination.
 > Your mileage may vary, but if membership in an *EEO protected-class* contributes to that variation,
 > then I am compelled to refer the matter to HR for resolution.
 > If there are any further questions about this policy, please ask HR.
@@ -172,7 +172,7 @@ Once I worked up the gumption to explain my mission and ask her directly for tim
 she was quite receptive to the idea.
 It was only necessary to make some concession to her sense of what could and should be presented.
 She'd just recently done some informal polling herself: the intersection of supply and demand
-showed my best first topic to be an introductory overview of _________, one of the company's
+showed my best first topic to be an introductory overview of *$PRODUCT*, one of the company's
 strategic platforms and one I'd accumulated over a year's direct experience with.
 
 Having identified a topic, it was then necessary to organize an agenda.
@@ -181,7 +181,7 @@ has roughly the structure I learned from the DOD's androgogy course.
 
 As an early experiment with this agenda, I went over it with a new-hire.
 That showed that, although I had a decent overall scope, I would need to add serious meat to the bones.
-Thus, when I get back on Monday the plan is to expand in turn each major component of _________ to its own
+Thus, when I get back on Monday the plan is to expand in turn each major component of *$PRODUCT* to its own
 sub-agenda following a simple formulaic plan. It might go like:
 
 * Component
@@ -209,7 +209,18 @@ Even moving quickly, I ran over time.
 Still, there were some questions at the end specifically asking for some views.
 So I did some screen-sharing in that moment.
 
-Despite an early and prominent request for feedback, so far it's been slow coming.
+Despite an early and prominent request for feedback, it has been slow coming.
+About two weeks later, I did finally hear back from a member of the audience.
+The respondent suggested:
+
+1. visual aids,
+2. demonstrations, and
+3. fewer topics at a higher level.
+   (I think he means more overview, less detail.)
+
+To point 3, He gave an example concerning one of the subsystems of *$PRODUCT*:
+He caught my explanation of *how it's used* but missed *how it's organized* and *why we have/use it.*
+(I had a section for what problem the subsystem solves, but it may not have been clear.)
 
 On 4/22, I did a retrospective on that initial "opening performance" with my manager from a career-development perspective.
 That's how I learned about the present London-office effort to hold general software-engineering discussions.
@@ -234,10 +245,10 @@ aflicts the biweekly knowledge share: What usually happens when someone gives an
 of the system or technology they're working on is that people politely listen and then are
 unable to use what they learned on the job any time soon, because whatever other project
 has zero practical connection to their daily work. In my case I think I've upgraded
-from *politely* to *curiously*, at least according to the avowed general interest in _________,
+from *politely* to *curiously*, at least according to the avowed general interest in *$PRODUCT*,
 but it still remains beyond the reach of your average technologist to take this new knowledge
-and use it in their daily work. Honestly, the general population's interest in _________
-probably stems more from management excitement over what _________ offers,
+and use it in their daily work. Honestly, the general population's interest in *$PRODUCT*
+probably stems more from management excitement over what *$PRODUCT* offers,
 rather than an immediate need to know the platform.
 
 The retrospective highlighted a disconnect between content and purpose.

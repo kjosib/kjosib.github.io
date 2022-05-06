@@ -245,6 +245,12 @@ the author prays his colleagues might embrace from the excesses and vicissitudes
 
 
 ## The Industry
+[Programming methodologies, their objectives and their nature](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD469.html)
+begins with a critical look at how things once were,
+then develops a case for a style of working amenable to formal treatment,
+and finally looks to a future which, even five decades later,
+may still have been a touch idealistic.
+*To be fair, things have moved quite far in the right direction, but the dream is still in the distance.*
 
 [Ctrl-Alt-Del: Learning to Love Legacy Code](https://youtu.be/wPjHuvulivM?t=627)
 (link skips parody cover-song and movie clips)
