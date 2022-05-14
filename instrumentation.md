@@ -38,22 +38,22 @@ Now, let's have a closer look at the *after* example:
 ```
 class ShoppingCart…
 
-	applyDiscountCode(discountCode){
-		this.instrumentation.applyingDiscountCode(discountCode);
+    applyDiscountCode(discountCode){
+        this.instrumentation.applyingDiscountCode(discountCode);
 
-		let discount; 
-		try {
-			discount = this.discountService.lookupDiscount(discountCode);
-		} catch (error) {
-			this.instrumentation.discountCodeLookupFailed(discountCode,error);
-			return 0;
-		}
-		this.instrumentation.discountCodeLookupSucceeded(discountCode);
+        let discount; 
+        try {
+            discount = this.discountService.lookupDiscount(discountCode);
+        } catch (error) {
+            this.instrumentation.discountCodeLookupFailed(discountCode,error);
+            return 0;
+        }
+        this.instrumentation.discountCodeLookupSucceeded(discountCode);
 
-		const amountDiscounted = discount.applyToCart(this);
-		this.instrumention.discountApplied(discount,amountDiscounted);
-		return amountDiscounted;
-	}
+        const amountDiscounted = discount.applyToCart(this);
+        this.instrumention.discountApplied(discount,amountDiscounted);
+        return amountDiscounted;
+    }
 ```
 
 Evidently, the *ShoppingCart* constructor requires an *instrumentation* object,
@@ -105,21 +105,21 @@ Suppose:
 
 ``` python
 class ShoppingCart:
-	...
-	...
-	@probe
-	def applyDiscountCode(self, discountCode):
-		try: discount = self.discountService.lookUp(discountCode)
-		except KeyError: return 0
-		else: return discount.applyDiscountCode(self)
-	
+    ...
+    ...
+    @probe
+    def applyDiscountCode(self, discountCode):
+        try: discount = self.discountService.lookUp(discountCode)
+        except KeyError: return 0
+        else: return discount.applyDiscountCode(self)
+    
 class DiscountService:
-	...
-	...
-	@probe
-	def applyDiscountCode(self, shoppingCart):
-		...
-		...
+    ...
+    ...
+    @probe
+    def applyDiscountCode(self, shoppingCart):
+        ...
+        ...
 ```
 
 Now we have regained almost the original fluency of domain-only code.
@@ -128,16 +128,16 @@ As a first (and very naive) cut, we could do something like:
 
 ``` python
 def probe(fn):
-	def wrapper(*args, **kwargs):
-		logger.debug("calling %s %s %s", fn.__name__, args, kwargs)
-		metrics.increment(fn.__name__)
-		try: result = fn(*args, **kwargs)
-		except:
-			logger.warn("Failed %s", fn.__name__)
-			raise
-		else:
-			return result
-	return wrapper
+    def wrapper(*args, **kwargs):
+        logger.debug("calling %s %s %s", fn.__name__, args, kwargs)
+        metrics.increment(fn.__name__)
+        try: result = fn(*args, **kwargs)
+        except:
+            logger.warn("Failed %s", fn.__name__)
+            raise
+        else:
+            return result
+    return wrapper
 ```
 
 This is very consistent, transparent, and easy to apply, but it does have one major draw-back:
@@ -149,34 +149,34 @@ Let's once again factor the mechanism out of the policy by interposing a *publis
 
 ``` python
 class Channel:
-	def __init__(self, name):
-		...
-	def subscribe(self, listener):
-		...
-	def publish(self, message):
-		...
+    def __init__(self, name):
+        ...
+    def subscribe(self, listener):
+        ...
+    def publish(self, message):
+        ...
 
 class Probe(Channel):
-	def __call__(self, fn):
-		def wrapper(*args, **kwargs):
-			self.publish(callMessage(fn.__name__, args, kwargs))
-			try: result = fn(*args, **kwargs)
-			except:
-				self.publish(failMessage(fn.__name__))
-				raise
-			else:
-				return result
-		return wrapper
+    def __call__(self, fn):
+        def wrapper(*args, **kwargs):
+            self.publish(callMessage(fn.__name__, args, kwargs))
+            try: result = fn(*args, **kwargs)
+            except:
+                self.publish(failMessage(fn.__name__))
+                raise
+            else:
+                return result
+        return wrapper
 
 # ... then later ...
 
 class ShoppingCart:
-	probe = Probe("ShoppingCart")
-	
-	@probe
-	def applyDiscountCode(self, discountCode):
-		...
-		pass
+    probe = Probe("ShoppingCart")
+    
+    @probe
+    def applyDiscountCode(self, discountCode):
+        ...
+        pass
 
 # ... and finally, the coup d'etat: ...
 
