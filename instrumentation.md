@@ -11,9 +11,11 @@ We have some method, and maybe it works, but now we want instrumentation.
 But that adds so much noise about logging and metrics that it's hard to find the original code in what's left over.
 (Some sources suggest this scenario is depressingly-common in industry.)
 
-Pete then treats us to a *before-and-after* view of a refactoring operation to isolate the concern of *instrumentation* into its own class,
+Pete then treats us to a *before-and-after* view of a refactoring operation to
+isolate the concern of *shopping-cart instrumentation* into its own class,
 injected as a dependency into the original.
-The resulting drastic improvement to the signal-to-noise is offered as a virtue of this approach, and it's given a name: *domain probe*.
+The resulting drastic improvement to the signal-to-noise ratio is offered as a virtue of this approach,
+and it's given a name: *domain probe*.
 Next, the article illustrates various corrolaries derived from the axiom that *separated concerns may be considered separately*:
 
 * You can test the instrumentation itself independently.
@@ -62,10 +64,13 @@ to which this method passes messages. So far, pretty normal dependency-injection
 But lo! The constructor must also require, for example, a *discountService* object.
 So I claim that we are yet to fully succeed in our proper goal.
 Recall that the *before*-before actually had no noise whatsoever:
-every character focused tightly on the singular concern to *fetch and apply discount if possible.*
-It was even well-modularized: For example, discounts are the product of sales-think,
-and thus we account for the consequent infinite-variability by delegating the detail-work
-to the *discount* object itself. Now, even with instrumentation's *how* factored out,
+every character focused tightly on the singular concern to *apply an (ostensible) discount code.*
+
+> It was even well-modularized: For example, discounts themselves are the product of sales-think,
+> and thus we account for the consequent infinite-variability by delegating the detail-work
+> to the *discount* object itself.
+
+Now, even with instrumentation's *how* factored out,
 still about 50% of lines of code are concerned with the *when and what* of instrumentation.
 Spend one line doing a thing, and another line saying so. **That is still noisy.**
 
