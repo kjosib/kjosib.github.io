@@ -37,6 +37,13 @@ while completely bypassing such tangential gobbledygook as `public static void m
 which really has no place usurping our attention from a theoretical overview.
 
 
+* [Lambda? You keep on using that letter...](https://youtu.be/Y7StjYhXvpE)
+
+## People First!
+
+https://youtu.be/kamyxB-yKrc is the work of a man who does a lot of videos on aircraft near-misses.
+This video is a little different, and highlights the importance of proper leadership.
+
 ## Stupid Human Tricks, Programming Edition
 
 This section is pointers to articles on general good and bad practice.

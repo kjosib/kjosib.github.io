@@ -25,6 +25,7 @@ I make no claim to perfection: evolution is still possible, and feedback is enco
 * [Reading List for Software Developers / "Engineers"](dev_reading.md)
 * [Thoughts on the Practice of Programming](code_practice.md)
 * [Project Kick-Off](kick_off.md)
+* [Decorative Instrumentation: A response to "Domain-Oriented Observability"](instrumentation.md)
 * *More to come, eventually.*
 
 # ✨ Let's blow up the universe! ✨
