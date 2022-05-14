@@ -74,6 +74,10 @@ Now, even with instrumentation's *how* factored out,
 still about 50% of lines of code are concerned with the *when and what* of instrumentation.
 Spend one line doing a thing, and another line saying so. **That is still noisy.**
 
+Mixing instrumentation statements (even at the lean ratio shown here) into business logic
+forces the programmer to make potentially-arbitrary decisions about statement boundaries where
+none might have been needed before. This may decrease flexibility or hinder refactoring in some way.
+
 Furthermore, even with the *domain probe* idea used as directed,
 an instrumentation call such as *discountCodeLookupSucceeded* is *functionally disconnected*
 from the actual *discountCode* look-up to which it refers.
@@ -87,7 +91,7 @@ Oh, and also I *would* like fries with that.
 
 On some level, you can't get completely back to zero-overhead and yet still have instrumentation.
 So let's have a think: We'd like to instrument individual meaningful units of functionality.
-Also, there's a standard way to talk about an individual meaningful units of functionality.
+Also, there's a standard way to talk about individual meaningful units of functionality.
 We call them *functions* (or methods, or procedures, or subroutines, or letrecs...) and we give them names.
 
 Suppose we set a rule that a function can emit at most one instrumentation message,
@@ -99,7 +103,7 @@ then it's taking on too many different responsibilities and must be factored int
 This influence toward smaller functions cannot fail to improve matters.
 Directly, you get individual functions that are easier to read, understand, test, diagnose, and prove correct.
 Indirectly, when you factor a larger special-purpose function into a composition of smaller parts,
-many of the resulting btis turn out to be quite generic and can thus be re-used as shared common components.
+many of the resulting btis turn out to be quite generic and thus can be re-used as shared common components.
 This effect is greatly magnified when you allow yourself the luxury of higher-order functions.
 
 ## Getting There
@@ -116,13 +120,13 @@ class ShoppingCart:
     def applyDiscountCode(self, discountCode):
         try: discount = self.discountService.lookUp(discountCode)
         except KeyError: return 0
-        else: return discount.applyDiscountCode(self)
+        else: return discount.applyToCart(self)
     
 class DiscountService:
     ...
     ...
     @probe
-    def applyDiscountCode(self, shoppingCart):
+    def lookUp(self, discountCode):
         ...
         ...
 ```
@@ -212,7 +216,7 @@ so shenanigans in the one domain do not impinge upon the purity or correctness o
 
 ## Application to Distributed Computing and/or Microservices
 
-One more thing yet to be considered is *travelling context*.
+Another thing yet to be considered is *travelling context*.
 This becomes interesting in a more event-driven system possibly with various and distributed streams of processing.
 In this case, it becomes necessary to connect the many sets of instrumentation events which ultimately stem from the same
 user-visible transaction -- perhaps even in some sort of network or hierarchy.
@@ -236,4 +240,33 @@ passes transaction-IDs around transparently. (The precise details are beyond the
 Now, if for some reason instrumentation-listener needs to know what transaction is active,
 that becomes a matter between the listener and the RPC layer's management interface.
 
+## Consideration for Subclass Polymorphism (a.k.a. Virtual Methods)
 
+I've implied that everything a `DiscountService` returns will handle an `applyToCart` method call sensibly.
+But adding instrumentation in the manner I've described now means that every `applyToCart` method everywhere
+becomes separately responsible for including that decorator. At first glance, that sounds like an advantage
+to Pete's method with traditional dependency injection: there's one place calling `applyToCart`,
+so that one place can handle the associated event announcement, once-and only once.
+
+But what if it's not?
+
+What if some other thing calls `applyToCart` without mentioning the fact, and then bizarre behavior ensues?
+
+**That would be bad.**
+
+Within the *Decorative Instrumentation* expanded universe, you can take several approaches.
+
+* You could simply rely on code review to ensure that every definition of an `applyToCart` method
+  is properly decorated. Then no *caller* can forget because there's nothing *to* forget.
+* You could design a meta-class (or parametric family of them) which automatically decorates
+  methods according to some rule, such as if a method by the same name is also decorated in a super-class.
+* You could invent that heinous aspect-oriented-programming system I mentioned earlier.
+* You could even, on rare occasions, *break the rules* and directly publish a message to a channel.
+
+## Consideration for Functional Style
+
+If you're up on the 
+
+## Conclusion
+
+There's no question that instrumentation adds code.
