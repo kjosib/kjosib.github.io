@@ -4,6 +4,20 @@ Background: A little bluebird recently forwarded me
 [this article](https://martinfowler.com/articles/domain-oriented-observability.html)
 by Pete Hodgson on Martin Fowler's excellent web site.
 
+## Abstract
+
+There's no question that instrumentation adds code.
+Neither is there any controversy around its being the quintessential exemplar of a *cross-cutting concern*.
+Ordinary dependency-injection is a common and well-understood solution for separating mechanism from policy,
+but the challenge with instrumentation is that the policy alone is an irrelevant mess from a business-logic
+perspective. We should like it *gone,* but would settle for *well-organized and out of the way.*
+
+There are features enough in Python to push instrumentation almost completely to the periphery:
+out of the way of business-logic for sure, but not *so* far as to be mysterious.
+I sketch out a decorator-based design, highlight many advantages, and note possible future work
+to address weaknesses.
+
+
 ## Point (Summary of Background Article)
 
 The article begins with a widely-understandable shopping-cart example.
@@ -267,4 +281,12 @@ Within the *Decorative Instrumentation* expanded universe, you can take several 
 
 ## Conclusion
 
-There's no question that instrumentation adds code.
+There's not a perfect one-size-fits-all solution.
+Still, the decorator-based subsystem sketched out in this article
+offers a flexible and nearly-transparent way to get instrumentation
+*well-organized and out of the way.* It has shown to be suitable
+in principle for a range of scenarios and use cases, although
+some assembly and customization is required.
+
+I would be interested to hear about uses you or your team has made of this concept.
+Thank you.
