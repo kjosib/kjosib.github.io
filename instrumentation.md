@@ -263,9 +263,7 @@ Within the *Decorative Instrumentation* expanded universe, you can take several 
 * You could invent that heinous aspect-oriented-programming system I mentioned earlier.
 * You could even, on rare occasions, *break the rules* and directly publish a message to a channel.
 
-## Consideration for Functional Style
 
-If you're up on the 
 
 ## Conclusion
 
