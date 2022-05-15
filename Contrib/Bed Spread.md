@@ -1,11 +1,11 @@
-# Bed Spread: an Expression-Oriented Code-in-Database Product
+# Bed Spread: an Expression-Oriented Code-in-Database System
 
 ## Abstract
 
 This project represents an attempt to do for general-purpose programming
 what Visicalc did for most common forms of data modelling and analysis.
 Drawing inspiration from many corners, we build a reasonable functional
-programming language with principle represention in terms of a ubiquitous,
+programming system with principle representation in terms of a ubiquitous,
 unencumbered, and semantically-empowered storage format: the SQLite
 relational database (structured as records for each declaration) rather
 than conventional text-files. Existing generic database editors thus
@@ -15,10 +15,13 @@ Results are in progress, and conclusions are to be determined.
 
 ## Introduction
 
-In 1979, Visicalc changed the world. Its interactive nature, consistent model,
-comfortable learning curve, and natural applicability represent a conceptual leap
-that computing may never see again. Spreadsheets are *the answer* to basic
-data modelling and simple analysis.
+In 1979, Visicalc (the first spreadsheet program) changed the world.
+Its interactive nature, consistent model, comfortable learning curve,
+and natural applicability represent a conceptual leap that computing
+may never see again. The grid-based interface and library of built-in
+mathematical functions made computers into something the masses could
+actually use for real work. For over 40 years, spreadsheets have
+been *the answer* for run-of-the-mill data modelling and analysis.
 
 **Software developers should be so lucky.**
 But mostly, we're not.
@@ -78,6 +81,7 @@ It was a *focusing* editor.
 
 ## Approach / Methods / Solution
 
+### Start with an Acheivable Goal
 For proof of concept, let's keep it simple and begin with the REPL in mind.
 And by "simple" I'm referring for now to a simplistic lisp:
 you get strings, numbers, cons cells, and lambdas.
@@ -111,12 +115,43 @@ By this point, constant use of a database management console would probably get 
 So maybe we create a proper freestanding application that has as its core function to edit applications.
 This could be applied to the grand unified database, but suddenly there's a motivation for things like shared libraries.
 
+### Bootstrapping
+
+The initial design step identifies four principle concerns:
+
+* Textual: consisting for now of a simple parser for functional expressions.
+* Database: a schema for stored functions, organized for the moment into a tree corresponding to a concept of lexical scope.
+* Runtime: establishes and implements the semantics of the language.
+* Workbench: The interface a programmer uses for both development and ad-hoc interactive queries.
+
+There are a number of side questions. The two most obvious are:
+
+**How do I share code with others?** For example, could I host an open-source project on this ... thing?
+
+* I am deliberately choosing to postpone this decision.
+* At some point, I want to layer in a nice collaboration system and library concept.
+
+**How does one build a workbench without already having a workbench?**
+
+* The same way a woodworker does:
+  Sequence the project according to functional dependencies and adapt each step to the resources thus far avaialble.
+
+To that end, I start with the parser. My first goal is a read-parse-print loop: evaluation can come later.
+
 
 ## Results / Data / Findings / Proof / Discussion
 
 ## Interpretation / Significance
 
 ## Future Steps
+
+Having all the user-defined code in a proper database opens up vistas to explore:
+
+* Improvements to the Workbench
+* Real-Time Collaboration
+* Version Management
+* Static Analysis Tooling
+* Code-Librarian / Packaging Facility
 
 ## Conclusion
 
