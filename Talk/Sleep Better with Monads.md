@@ -44,6 +44,7 @@ Let's approach this in baby steps.
 * I'll meet you where you are.
   * No weird vocabulary.
   * Terms common to Java and Python.
+  * Syntax will be clear from context.
 * Let's talk about types.
   * Data Type.
   * Function Type.
@@ -68,6 +69,7 @@ Canonical Examples of Monads:
 
 * maybe: *nothing -> nothing* and *something -> maybe something.*
 * either/or: like *maybe,* but with a *reason* in place of the nothing.
+* list: *bind* operation can be spelled *map*, but see also *reduce* and *filter*.
 * I/O: stands in for the state of the world; treated like part of a function's signature.
 
 Compare the Map/Reduce concept: How does *reduce* relate to *bind?* Where is *return?*
