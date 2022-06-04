@@ -4,7 +4,36 @@ These vehement words come in no particular order. Yet.
 
 Please also know there are whole books, and good ones, on this subject. Maybe these words will tempt you to find and read one.
 
+## The Highest and Best Qualities of Tests
 
+Tests are one element in the software component of an engineered system.
+
+> That's three or four things to unpack as it stands.
+> With luck, we get to them all in turn.
+
+### Tests should be technically suitable.
+
+* Clerical error have not been introduced into the translation from concept to code: Code coverage is sufficient.
+* The concept is sound, and means what I think it does: Concept coverage is sufficient.
+* Errors that might bring down production are caught with sufficient probability: The tests are powerful.
+* Things that do not actually matter, are free to vary: The tests are robust.
+
+I concede there are bits of code in the world where a simple smoke-test is fit-for-purpose.
+The code running medical, aerospace, and infrastructure systems *is not that code*.
+You'll need to choose wisely on the basis of your own project.
+
+### Tests must inspire comfort and confidence.
+
+In other words, tests are meant to cure anxiety and improve quality-of-life.
+
+* The tests run quickly enough that people do not shrink from running them frequently during a coding session.
+* The tests are reliable enough that people take the results seriously every time. (i.e. no "random" failures).
+* Failure results are clear enough that people can understand what exactly went wrong and what they need to fix.
+* The test code is clear and meaningful enough about what's ad-hoc, what's asserted, and why.
+
+Passing tests are fundamentally an argument from lack-of-evidence.
+Good tests exhibit a wisely-guided and diligent search for such evidence.
+Bad tests can pass or fail, but are no real help either way.
 
 ## Tests Are Not Documentation.
 
