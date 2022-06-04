@@ -73,6 +73,7 @@ Canonical Examples of Monads:
 * I/O: stands in for the state of the world; treated like part of a function's signature.
 
 Compare the Map/Reduce concept: How does *reduce* relate to *bind?* Where is *return?*
+How does *filter* fit in with these?
 
 # What can the composable/monadic style do for you?
 
