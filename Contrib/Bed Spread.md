@@ -136,8 +136,54 @@ There are a number of side questions. The two most obvious are:
 * The same way a woodworker does:
   Sequence the project according to functional dependencies and adapt each step to the resources thus far avaialble.
 
-To that end, I start with the parser. My first goal is a read-parse-print loop: evaluation can come later.
+To that end, I started with the parser. My first goal was a read-parse-print loop: evaluation can come later.
 
+### Early Progress
+
+Before long I'd built for myself a simple REPL which initialized by reading function definitions from a database.
+Then, I enhanced it by adding support for documents, templates, and records, all stuffed into the same `symbol` table.
+It works well enough to demo the concept, but it's not enough to express solutions to interesting problems.
+
+By this point, the apparent major deficiencies were:
+
+* No support for a process concept, and thus no I/O.
+* No sum-types, and correspondingly no type-case dispatch, meaning high-order functions basically don't exist.
+* No lazy-evaluation, which is pretty useless without some of the above.
+* No syntax for literal collections, and indeed no proper collection types.
+* No analogue to static nested scope: all declarations are effectively global.
+* No type judgments, so that run-time type is all there is.
+* No convenient interface: although SQLiteStudio does work, it's far from elegant.
+* No clear sense of priorities for the next steps.
+
+On the other hand, there's a PyPI entry called *bedspread* and a perfectly cromulent set of documentation.
+
+### Some Design Ideas
+
+Laziness is super nice to have, but can be postponed until strictly necessary. Pun intended.
+
+Sum-types, type-case dispatch, and a message-passing process abstraction all seem to need a similar concept of
+distinct clauses subordinate to a main clause which provides for more general characteristics.
+
+In the particular case of sum-types, the sub-clauses presumably define constructors whereas the main-clause (the symbol)
+becomes a generic name for a related group of constructors. Name clashes become possible:
+They may be resolved by designs to be determined later.
+
+Function clauses would presumably require a type-case, a guard, and a body (possibly along with a comment).
+The same table could be used for sum types and processes, assuming a suitable syntax for type-case and maybe destructuring bind.
+
+For a process concept, I will take inspiration from various sources.
+To create a process evidently there are some parameters, and among these are channels.
+Let channels be broadcast to all connected listeners, IRC-style.
+Delivery is best-effort, non-deterministic, async, and one message at a time.
+(i.e. every individual process is effectively single-threaded.)
+Let messages on channels be sent with a particular data type.
+Listeners are expected to have *receive* clauses to match, or they expire.
+(Process lifecycle management can come later, probably in terms of channels.)
+
+The content of a *receive* clause is presumably a tiny procedural element.
+To keep things from getting out of hand, I imagine a restricted procedural grammar
+catering for *conditional*, *output*, and *become* operations.
+Incidentally, the non-*clause* body of a process can be seen as an initiialization procedure.
 
 ## Results / Data / Findings / Proof / Discussion
 
