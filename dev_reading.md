@@ -277,6 +277,11 @@ Anyone who's thought about teaching the subject should read
 [On the cruelty of really teaching computing science (EWD 1036)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
 which pulls no punches but is absolutely on point.
 
+## Fun Stuff
+
+* [A Brief, Incomplete, and Mostly Wrong History of Programming Languages](https://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
+
+
 ## Updates
 
 I will add to this list as things occur to me.

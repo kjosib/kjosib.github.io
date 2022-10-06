@@ -26,6 +26,13 @@ about *how* to display the error. Thus, a good error reporting
 framework ought not define or raise any exceptions directly,
 but rather leave all such policy to the application.
 
+> Represent an error (or warning) as a structured message or record including relevant diagnostic details.
+> There are three responses. Your algorithm must:
+> * First, shift goals! No longer seek to succeed, but to fail gracefully.
+>   (This often means more work. Exceptions are not your friend here.)
+> * Second, agree with the caller on what to return in case of failure.
+> * Third, agree on an API for reporting issues. Will you call an error-reporter object or return structured data?
+
 Blame is a transitive relationship subject to lenses of perception
 and perspective. Thus, the subsystem that detects an error condition
 knows which of its own inputs are incompatible with success, but
