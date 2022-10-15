@@ -317,7 +317,8 @@ a.buttons:hover {
 
 section {
   width:auto;
-  padding: 5px;
+  padding:20px;
+  margin:0 0 20px;
 }
 
 
@@ -351,24 +352,11 @@ footer {
 		padding:0;
 	}
 
-  header {
-    padding-left:320px;
-  }
-
-  section {
-    padding:20px 84px 20px 50px;
-    margin:0 0 20px;
-  }
 
   header a small {
     display:inline;
   }
 
-  header ul {
-    position:absolute;
-    right:130px;
-    top:84px;
-  }
 }
 
 @media print, screen and (max-width: 720px) {
@@ -377,13 +365,12 @@ footer {
   }
 
   header {
-    padding:10px 20px 0;
+		padding:10px 20px 0;
 		margin-right: 0;
   }
 
-	section {
-    padding:10px 0 10px 20px;
-    margin:0 0 30px;
+  section {
+    padding:10px 0;
   }
 
 	footer {
