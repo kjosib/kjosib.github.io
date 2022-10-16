@@ -8,7 +8,7 @@ The *brute-force and ignorance* method is of course to simply do something like:
 
 ```
 primes(max) = filter(is_prime, 2..max) where
-	is_prime x = not any [ y mod x == 0 for y in 2..(floor(sqrt x)) ];
+	is_prime x = not any [ y mod x == 0 for y in 2..floor(sqrt(x)) ];
 end primes;
 ```
 
