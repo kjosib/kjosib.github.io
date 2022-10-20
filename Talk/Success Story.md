@@ -90,9 +90,10 @@ It was fully a year before the big project I mentioned in the introduction.
 
 Have you ever wondered what makes some code easier to work on, and other code harder?
 Luminaries in the field of software engineering wondered those same things around 1960.
-If the point was to sell consulting hours, then it worked masterfully.
 They did research; they found answers; they published their answers in books;
 and we promptly ignored the research.
+
+* Visual Aid: Mythical Man-Month.
 
 It's magical thinking to suppose that angry gods are to blame for your software difficulties.
 And while we don't explicitly say the words "angry gods" in conjunction with software very often,
