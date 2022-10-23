@@ -16,4 +16,6 @@ but this leaves several questions open:
 3. Among all conceivable solutions, which is *simplest*?
 4. What does "*simplest*" even mean?
 
-Of course real ducks were not designed: they are the product of countless generations of sexual reproduction and millions of years of environmental selection pressures. I don't have quite so much time, so instead I read, think, and write.
+Of course real ducks were not designed:
+they are the product of countless generations of sexual reproduction and millions of years of environmental selection pressures.
+I don't have quite so much time, so instead I read, think, and write.

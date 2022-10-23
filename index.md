@@ -17,26 +17,34 @@ I make no claim to perfection: evolution is still possible, and feedback is enco
 
 * [How to Make a Duck](make_duck.md) (Slightly allegorical.)
 * [Error-Reporting for Humans](error_reporting.md)
-* [Writing Documentation](documenting.md)
-* [Interviewing: From a new-ish hiring manager's perspective](interviewing.md)
-* [Thoughts on Code Quality](code_quality.md)
-* [Vehement Words on Testing](code_test.md)
 * [Agile, the Great and Terrible](agile_the_terrible.md)
-* [Reading List for Software Developers / "Engineers"](dev_reading.md)
-* [Thoughts on the Practice of Programming](code_practice.md)
-* [Project Kick-Off](kick_off.md)
-* [Decorative Instrumentation: A response to "Domain-Oriented Observability"](instrumentation.md)
 * *More to come, eventually.*
+
+# 🦆 Contributions 🦆
+
+* [Survey Questions: Organizational Self-Assessment](Contrib/Survey.md) which also might a source of topics for future essays.
+* [Decorative Instrumentation: A response to "Domain-Oriented Observability"](Contrib/instrumentation.md)
+
+# 🦆 The Way 🦆
+
+* [Writing Documentation](ThisIsTheWay/documenting.md)
+* [Interviewing: From a new-ish hiring manager's perspective](ThisIsTheWay/interviewing.md)
+* [Thoughts on Code Quality](ThisIsTheWay/code_quality.md)
+* [Vehement Words on Testing](ThisIsTheWay/code_test.md)
+* [Reading List for Software Developers / "Engineers"](ThisIsTheWay/dev_reading.md)
+* [Video List for Software Developers / "Engineers"](ThisIsTheWay/dev_video.md)
+* [Thoughts on the Practice of Programming](ThisIsTheWay/code_practice.md)
+* [Project Kick-Off](ThisIsTheWay/kick_off.md)
 
 # ✨ Let's blow up the universe! ✨
 
 Some ideas at the far reaches of deep design-space in computing may, if brought too close to our familiar reality, pose the speculative risk of igniting a false-vacuum transition to bring the entire industry to a lower energy state with completely different empirical characteristics. They may also be just plain bonkers.
 
-* [Computer Programs as Databases, not Plain Text](code_db.md)
-* [Tabs and Spaces are Both Broken: It's time for Encapsulated Text.](tab_space.md)
-* [The Groupware of the Future](groupware.md)
-* [Requirements Capture and Tracking for Humans](requirements.md)
+* [Computer Programs as Databases, not Plain Text](Universe/code_db.md)
+* [Tabs and Spaces are Both Broken: It's time for Encapsulated Text.](Universe/tab_space.md)
+* [The Groupware of the Future](Universe/groupware.md)
+* [Requirements Capture and Tracking for Humans](Universe/requirements.md)
 * Automated reasoning assistance for evidence and belief in uncertain propositions
 * We're (probably) doing self-driving cars completely wrong.
-
+* [Down With Text](Universe/down_with_text.md)
 

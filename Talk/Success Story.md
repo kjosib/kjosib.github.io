@@ -232,11 +232,9 @@ The only thing that could stop our stepping is when the debugger shows something
 
 Now, here it where it gets horribly dangerous.
 
-You see that surprising turn of events; how you have a new puzzle. This starts to get fun.
+You see that surprising turn of events; now you have a new puzzle. This starts to get fun.
 You're on hunt; sleuthing and solving a puzzle. You get a hit of neurotransmitters and
-begin to associate the debugger with pleasure.
-
-But here's what makes that mind-altering drug so dangerous:
+begin to associate the debugger with pleasure. It's a dangerous, mind-altering drug.
 
 By the time you've fired up the debugger, you've given up on logic and abstraction;
 you are reduced to the least-efficient form of reasoning: enumeration of cases.
@@ -280,7 +278,8 @@ The important part is the conclusion. Here's an excerpt:
 
 We can run with this conclusion, as follows:
 
-Ian's Aphorism:
+**Ian's Aphorism:**
+
 	The art of software design is to delay decisions as long as possible.
 	When we can make no further progress but to finally make some decision,
 	we choose that decision which least forces our hand on the subject of others.
@@ -417,7 +416,7 @@ simultaneous, *duplicative, redundant* development experiments. This makes the s
 into mostly an observational science, similar to astronomy.
 
 What we have here is, strictly speaking, anecdote. By itself, N=1 and there are many confounding variables.
-The most pedantic statisticion would insist that no meaningful conclusion could be drawn.
+The most pedantic statistician would insist that no meaningful conclusion could be drawn.
 But I can infer that my peers and my chain-of-command have seen enough to know something exceptional when they see it.
 I don't think our success was an accident. Proving it more conclusively would be the subject of further research.
 
