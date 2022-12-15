@@ -36,6 +36,10 @@ I make no claim to perfection: evolution is still possible, and feedback is enco
 * [Thoughts on the Practice of Programming](ThisIsTheWay/code_practice.md)
 * [Project Kick-Off](ThisIsTheWay/kick_off.md)
 
+# 🎭 Counterpoint 🧦
+
+* [Early days of id Software](Counterpoint/id Software.md)
+
 # ✨ Let's blow up the universe! ✨
 
 Some ideas at the far reaches of deep design-space in computing may, if brought too close to our familiar reality, pose the speculative risk of igniting a false-vacuum transition to bring the entire industry to a lower energy state with completely different empirical characteristics. They may also be just plain bonkers.
