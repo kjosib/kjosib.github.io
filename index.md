@@ -27,6 +27,7 @@ I make no claim to perfection: evolution is still possible, and feedback is enco
 
 # 🦆 The Way 🦆
 
+* [Monsters, Magic, and Politics: Re-Shaping a Dev Team](ThisIsTheWay/mmp.md)
 * [Writing Documentation](ThisIsTheWay/documenting.md)
 * [Interviewing: From a new-ish hiring manager's perspective](ThisIsTheWay/interviewing.md)
 * [Thoughts on Code Quality](ThisIsTheWay/code_quality.md)
