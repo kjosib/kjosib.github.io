@@ -24,6 +24,7 @@ I make no claim to perfection: evolution is still possible, and feedback is enco
 
 * [Survey Questions: Organizational Self-Assessment](Contrib/Survey.md) which also might a source of topics for future essays.
 * [Decorative Instrumentation: A response to "Domain-Oriented Observability"](Contrib/instrumentation.md)
+* [Computing primes efficiently in a pure lazy functional language](Contrib/Primes)
 
 # 🦆 The Way 🦆
 
