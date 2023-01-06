@@ -137,3 +137,12 @@ Although it's not too far from there to objects.
 
 I think the general idea is sound and merits experimentation.
 
+-------
+
+## Coda: The Sophie Language
+
+Stemming from this exercise in thought, I decided to formalize a grammar and semantics for a programming language
+resembling the "lazy pseudo-code" I used in this article. And then I built an interpreter for it.
+And then I started adding features like turtle-graphics and a module system.
+You can read all about that project at https://sophie.readthedocs.io
+
