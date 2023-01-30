@@ -49,6 +49,9 @@ This video is a little different, and highlights the importance of proper leader
 This section is pointers to articles on general good and bad practice.
 (At the moment, very few.)
 
+* This short Reddit post proposing
+  a [definition of "Locality"](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD05xx/EWD562.html)
+  nails the common theme of several different important *don't-do-that* lessons the industry has learned.
 * This [Java-specific style guide](https://openjdk.java.net/projects/amber/guides/lvti-style-guide)
   on a specific feature nevertheless includes a lot of generally-good ideas regardless of language.
 * [Single-letter names - a cautionary tale](https://hilton.org.uk/blog/single-letter-names-tale)
