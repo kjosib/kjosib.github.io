@@ -8,16 +8,6 @@ Effect systems are all the rage these days.
 Naturally, I had a look around to see what I could see about the topic.
 Honestly, I think the Ivory Tower is making a big fat mistake.
 
-Industry codebases grow to gargantuan propotions and last for a very long time. 50-year-old code still runs in banks today.
-Maintainers come and go, passing the torch -- *but not their accumulated deep knowledge* -- to their successors at odd intervals.
-
-Effect systems deliberately elide the interprocedural relationships between cause and effect.
-This obscures some of the most important information a maintainer needs
-in order to be able to reason effectively *and locally* about a given bit of code.
-I may be so lucky as to know *that* something happens, but not *when, where, or why* it happens.
-But sensible OO architecture represents all of those essential elements of information directly in the code.
-(In fact, you could encapsulate the meaning of "sensible OO architecture" by this dictum.)
-
 ## Quick digression to explain what all the hype is about
 
 Think of exceptions. You know: try/catch/finally like in Java, C++, Python, Ruby, or your other favorite conventional language.
@@ -35,8 +25,7 @@ So the designers of effect systems say "Don't worry about that; the computer wil
 
 Oh, and you have to handle everything at *some* level or else the compiler gets cross.
 
-
-## Now back to the program
+## Who am I to talk?
 
 I'm not a programming language researcher by trade.
 Rather, I'm one of those dirty nasty so-called "software engineers" with more grey whiskers than I'd care to admit.
@@ -56,25 +45,44 @@ Some of them want to maintain you. Some of them want to be maintained.
 
 -----
 
+## Now back to the program
+
 Where was I? Oh yes. *Effect types.* Right.
 
-So it *appears* that, as a user of an effect language, I can yield control (and maybe arguments) to an ambient handler and maybe get an answer back at some point, depending on the semantics of the handler in question.
+
+So it *appears* that, as a user of an effect language, I can yield control (and data) to an ambient handler and maybe get an answer back at some point, depending on the semantics of the handler in question.
 This is sort of like the `yield` keyword in Python, except there's a *whole dynamically-scoped forest* of things that might step in to snatch control from halfway across the call stack (or the codebase).
 
-Hold that thought.
+-----
+
+Industry codebases grow to gargantuan propotions and last for a very long time. 50-year-old code still runs in banks today.
+Maintainers come and go, passing the torch -- *but not their accumulated deep knowledge* -- to their successors at odd intervals.
+
+Effect systems deliberately elide the interprocedural relationships between cause and effect.
+This obscures some of the most important information a maintainer needs
+in order to be able to reason effectively *and locally* about a given bit of code.
+I may be so lucky as to know *that* something happens, but not *when, where, or why* it happens.
+But sensible OO architecture represents all of those essential elements of information directly in the code.
+(In fact, you could encapsulate the meaning of "sensible OO architecture" by this dictum.)
 
 > Decades ago, the CLU language had resumable exceptions.
 > The people behind Exception Handling in CLU (Barbary Liskov and Alan Snyder) determined not to let exceptions from deep in an implementation leak through the boundaries of a procedural-abstraction:
 > Callers at every level must either *handle* or *explicitly re-raise* every exception the callee might raise, perhaps translating or decorating it along the way.
 > It's a bit more ceremony in the source code, but it means you can always understand and predict the system's control-behavior through local reasoning alone.
-> It seems modern languages haven't got a CLU.
+> It seems modern languages with multi-level throw/catch *haven't got a CLU.*
+
+-----
 
 Conventional languages in industry all have this pattern where, if I want to open a file and write, I just open a file and write.
-Or whatever. It's all there for the taking, in the global scope, any time, any place.
+Or whatever. Files, Clocks. Databases. Network connections. It's all there for the taking, in the global scope, any time, any place.
+Nothing in the language definition *forwards reponsibility* to the caller, or makes the caller *accountable*, for what happens this way.
 
 Now, the fact is we in industry have learned that dialing out to the operating system (from deep in the statically-scoped bowels of some unrelated module) is a terrible idea.
 We've been burned too many times, and so we've rejected the *ability* to make this particular kind of mess. Foresworn it even.
-Provide the proper tools to the objects which work for you; Do not expect those objects to make their own tools.
+There's a very clear pattern: The main function of an application acquires resources and passes them to a cluster of worker objects.
+Tests create mock resources and pass them to worker objects in exactly the same way.
+
+More generally: Provide the proper tools to the objects which work for you; Do not expect those objects to make their own tools.
 This approach yields small composable units that are easy to test in isolation from the dirty, dangerous, and difficult parts of the system.
 Some call it by the elevated name of "dependency injection". I call it "passing parameters".
 
