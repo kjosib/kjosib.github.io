@@ -41,6 +41,7 @@ I make no claim to perfection: evolution is still possible, and feedback is enco
 # 🎭 Counterpoint 🧦
 
 * [Early days of id Software](Counterpoint/id Software.md)
+* [Algebraic Effects: Another mistake carried through to perfection](Counterpoint/effects.md)
 
 # ✨ Let's blow up the universe! ✨
 
