@@ -132,12 +132,10 @@ I'd argue that some Zen-of-Python rules apply here:
 * **13: There should be one-- and preferably only one --obvious way to do it.** Parameters work.
 * **17: If the implementation is hard to explain, it's a bad idea.** Enough said.
 
-
------
-
-
 -----
 
 # Conclusion:
 
 This has been a smattering of vaguely connected notions. 
+
+Perhaps it's had an effect?
