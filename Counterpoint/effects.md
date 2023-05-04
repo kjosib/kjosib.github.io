@@ -1,4 +1,6 @@
-**Abstract:** Effect systems are a hot area of current research. Outside of toys, I don't see the benefits.
+**TL;DR:** Effect systems are a hot area of current research. After a quick study of the current big ideas,
+I fail to see them yielding major practical benefits to the *profession* of software development.
+On the contrary, I have concerns.
 
 -----
 
@@ -144,6 +146,9 @@ I'd argue that some Zen-of-Python rules apply here:
 
 # Conclusion:
 
-This has been a smattering of vaguely connected notions. 
+This has been a smattering of vaguely connected notions.
+It may not always be clear how a point made in one section connects to an idea expressed in the next.
+I am delegating that matter to your cognitive inference algorithms.
+Please give me a read-out of any oversights I've made.
 
-Perhaps it's had an effect?
+Perhaps this essay has had the intended effect?
