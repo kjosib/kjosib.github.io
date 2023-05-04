@@ -99,7 +99,7 @@ and layer these tweak-sets one atop the next, or package them up like used booge
 God help you to reason about the text of that code.
 You have to understand *everything at once* to understand *anything at all*.
 
-But lo, we *only* had eight gigabytes of source code. *Compressed.* So what's the problem?
+But lo, this particular platform only hosted eight gigabytes of source code. *Compressed.* So what's the problem?
 
 -----
 
