@@ -36,7 +36,7 @@ But you play the cards you're dealt. I'm pleased to work with some very smart pe
 Many of them are more academically advanced than myself.
 But also, about half of them have a non-CS background.
 We have physicists, economists, and geochemical engineers.
-We have a short bus that fetches old ladies from *the home* to teach our young whipper-snappers to maintain the COBOL systems those same ladies wrote before the Hula Hoop was cool.
+We have a short-bus that fetches old ladies from *the home* to teach our young whipper-snappers to maintain the COBOL systems those same ladies wrote before the Hula Hoop was cool.
 
 *The Company* considers all of this a good thing.
 After all, sweet careers are made of this, so who am I to disagree?
