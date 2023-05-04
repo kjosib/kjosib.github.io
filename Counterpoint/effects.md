@@ -69,12 +69,6 @@ I may be so lucky as to know *that* something happens, but not *when, where, or 
 But sensible OO architecture represents all of those essential elements of information directly in the code.
 (In fact, you could encapsulate the meaning of "sensible OO architecture" by this dictum.)
 
-> Decades ago, the CLU language had resumable exceptions.
-> The people behind Exception Handling in CLU (Barbary Liskov and Alan Snyder) determined not to let exceptions from deep in an implementation leak through the boundaries of a procedural-abstraction:
-> Callers at every level must either *handle* or *explicitly re-raise* every exception the callee might raise, perhaps translating or decorating it along the way.
-> It's a bit more ceremony in the source code, but it means you can always understand and predict the system's control-behavior through local reasoning alone.
-> It seems modern languages with multi-level throw/catch *haven't got a CLU.*
-
 -----
 
 Conventional languages in industry all have this pattern where, if I want to open a file and write, I just open a file and write.
