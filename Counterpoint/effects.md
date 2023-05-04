@@ -17,10 +17,9 @@ That sin is the application of dynamic scope.
 In these languages, resumable effects are effectively *parameters-of-procedure-type* which may be implicit or explicit depending.
 So, for those languages the *dynamic-scope* objection fails.
 
-We have long known how to do statically-scoped procedure-parameters.
+*On the other hand:* We have long known how to do statically-scoped procedure-parameters.
 To pass around a related cluster of procedure-parameters with some mutually-shared context,
-it begins to seem quite a lot like ordinary object-oriented programming.
-
+it begins to seem quite a lot like ordinary object-oriented dependency injection.
 
 ## Brief digression to explain what all the hype is about
 
