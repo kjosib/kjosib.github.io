@@ -1,10 +1,10 @@
 **TL;DR:** Effect systems are a hot area of current research. After a quick study of the current big ideas,
 I fail to see them yielding major practical benefits to the *profession* of software development.
-On the contrary, I have concerns.
+On the contrary, I have concerns. (Further discussion suggests good solutions are in development.)
 
 -----
 
-# Algebraic Effects: *Another* mistake carried through to perfection.
+# Algebraic Effects: *Another* mistake carried through to perfection?
 
 Effect systems are all the rage these days.
 Naturally, I had a look around to see what I could see about the topic.
@@ -12,6 +12,15 @@ Honestly, I think the Ivory Tower is making a big fat mistake.
 
 I intend to show that effects share a common *original sin* with exceptions.
 That sin is the application of dynamic scope.
+
+**Update:** Several commentators say there are now effectful languages where the effects are done with lexical / static scope.
+In these languages, resumable effects are effectively *parameters-of-procedure-type* which may be implicit or explicit depending.
+So, for those languages the *dynamic-scope* objection fails.
+
+We have long known how to do statically-scoped procedure-parameters.
+To pass around a related cluster of procedure-parameters with some mutually-shared context,
+it begins to seem quite a lot like ordinary object-oriented programming.
+
 
 ## Brief digression to explain what all the hype is about
 
