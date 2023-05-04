@@ -10,7 +10,10 @@ Effect systems are all the rage these days.
 Naturally, I had a look around to see what I could see about the topic.
 Honestly, I think the Ivory Tower is making a big fat mistake.
 
-## Quick digression to explain what all the hype is about
+I intend to show that effects share a common *original sin* with exceptions.
+That sin is the application of dynamic scope.
+
+## Brief digression to explain what all the hype is about
 
 Think of exceptions. You know: try/catch/finally like in Java, C++, Python, Ruby, or your other favorite conventional language.
 
@@ -19,7 +22,6 @@ and possibly with an argument. Perhaps the handler got a record from a database,
 Matters not. Subprogram resumes, happy with its answer.
 
 How's it work? You install handlers in the call stack, dynamic-scoped, with purpose-built syntax.
-
 
 Now, do you remember *checked* exceptions from Java? Yeah, everybody loved to hate on checked exceptions.
 The creator's heart was in the right place, but the execution didn't work out. Checked exceptions are contagious.
@@ -152,3 +154,41 @@ I am delegating that matter to your cognitive inference algorithms.
 Please give me a read-out of any oversights I've made.
 
 Perhaps this essay has had the intended effect?
+
+-----
+
+# Clarifications thanks to comments:
+
+The industrial dysfunction surrounding checked exceptions probably comes from the fact that they don't play well with injected behavior.
+The inject-ee suddenly can throw everything that the inject-ed can throw.
+The inject-or is perfectly capable to handle whatever the inject-ed might throw,
+but the inject-ee should not need to think about these things.
+With checked-exceptions *as in Java,* the inject-ee appears to need static annotations about things which are not its proper concern.
+
+I might do away with conventional exceptions too. Just turn your `catch`-clause into a method on a object that you pass in as a parameter.
+This proposal gets rid of an inheritance hierarchy of exceptions.
+I think that's a good thing, but if you don't, then I'd be equally happy with treating *the ability to catch exceptions* as a first-class object you can pass around.
+
+> Java supports method-overloading based on the type of parameters.
+> It resolves based on the rule of most-specific.
+> You could declare a standard method name "handle" with one parameter: the exception.
+> That would buy back the idea of a type-hierarchy of exceptions.
+> You could even explicitly chain exception handlers... but I digress.
+
+-----
+
+Procedures are total functions from <input, environment> to <behavior>. They cannot be otherwise.
+Many in the biz like to think otherwise: A function may raise an exception. (Or an effect.)
+And now they think the procedure's job is done. But it hasn't done.
+The net consequence of calling that procedure is parameterized over the question of which exception handler happens to be in dynamic scope at the time.
+This is probably more clearly true in the context of resumable exceptions.
+
+We've learned that dynamic scope is almost never what you want. It's fine in small toy examples, but it gets out of hand quickly.
+
+I actually do want the *checked* -ness of checked exceptions.
+I just believe Java gets it wrong by enforcing the checking in the wrong place.
+If I call a public method on some object that I did not create, then I should not be the one responsible if it breaks!
+The checks should apply not to who calls the method, but rather to who creates the object that might throw.
+(That's where the knowledge of how to solve the problem lies -- or had better.)
+
+
