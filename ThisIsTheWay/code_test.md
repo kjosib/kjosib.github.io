@@ -163,7 +163,7 @@ possibly even before the function-under-test is quite complete.
   I'll get to organizing your test cases some other time.
 
 * **Digression:** I find this section to be a compelling argument for a certain approach
-  to the practice of programming, but that's [an entirely different rant.](./code_practice.md)
+  to the practice of programming, but that's [an entirely different rant.](./code_practice)
 
 ## Testing for Coverage
 
@@ -423,7 +423,7 @@ One size does not fit all.
 We are called to make (and sometimes defend) technical choices and trade-offs in support of strategy goals.
 There will always be encouragement to shift things this way or that.
 
-The whole point of testing is [quality](code_quality.md), which is subjectively defined by
+The whole point of testing is [quality](./code_quality), which is subjectively defined by
 whoever is paying for the product to be built and supported.
 Those quality requirements should determine how much time, energy, and creativity will be
 devoted to testing, and how deeply/thoroughly that testing will be done.
