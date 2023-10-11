@@ -150,21 +150,24 @@ even if you have your own perfectly-good proprietary solutions.
 ## Tails: Stick
 
 As such, if you do not want your turnover numbers to be the laughingstock of glassdoor.com,
-then I submit to you the cautionary tale at https://thedailywtf.com/articles/a_case_of_the_mumps
-wherein our hero -- a young developer -- stumbles into a job with a garbage language and skills that don't transfer.
-When he finally came to after two solid years, he got the heck out of dodge and never looked back.
+then I submit to you the cautionary tale at [A Case of the MUMPS](https://thedailywtf.com/articles/a_case_of_the_mumps)
+wherein our hero -- a young developer -- stumbles into a job with an obscure cryptic language and skills that don't transfer.
+When he finally took stock of his situation after two solid years, he got the heck out of dodge and never looked back.
 
 I can hire a Python developer with SQL skills and experience with Pandas.
 I cannot hire someone with experience on a proprietary in-house system.
 And nobody will hire *me* on the strength of experience with said proprietary in-house system.
-Faced with too many of them and not enough corresponding benefits,
-your best programmers will be tempted to take my talents elsewhere.
-Therefore, proprietary in-house systems are a competitive *disadvantage* 
+Faced with too much historical baggage and not enough corresponding benefits,
+your best programmers will be easily tempted to take their talents elsewhere.
+Therefore, proprietary in-house systems are a competitive *disadvantage* if you
+believe a high-talent work-force is worth the trouble of keeping around.
 
-> That has not stopped recruiters from trying.
+> The impossibility of a skill-set has not totally stopped recruiters from trying to hire for it.
 > Once upon a time, I had a recruiter tell me he was looking for people with five years experience on Itanium assembly language for a confidential client.
-> But at the time, Itanium systems were still vaporware and, if you haven't noticed, they never did make it to the consumer market where some learning could be had.
-> My best guess in retrospect is that Intel was expanding their compiler team so `icc` would be ready in time for launch and the recruiter was confused.
+> But at the time, Itanium systems were still vaporware and, in case you hadn't noticed,
+> Itanium never did make it to the consumer market where some learning could be had.
+> My best guess in retrospect is that Intel was expanding their compiler team so `icc` would be ready in time for Itanium's launch,
+> and that the recruiter was the confused victim of repeated re-tellings of the job requisition.
 
 ## A Way Out Of This Mess
 
