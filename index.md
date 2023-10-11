@@ -38,6 +38,7 @@ I make no claim to perfection: evolution is still possible, and feedback is enco
 * [Video List for Software Developers / "Engineers"](ThisIsTheWay/dev_video)
 * [Thoughts on the Practice of Programming](ThisIsTheWay/code_practice)
 * [Project Kick-Off](ThisIsTheWay/kick_off)
+* [Not Invented Here?](ThisIsTheWay/not_invented_here)
 
 # 🎭 Counterpoint 🧦
 
