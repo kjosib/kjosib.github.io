@@ -1,13 +1,13 @@
 # Not Invented Here
 
-** A tale of long-lived software**
+**A tale of long-lived software**
 
 Banks are (in)famous for keeping bleeping-old software running.
 Mine has kept COBOL running on mainframes and minicomputers continuously from the 1960s through the present day,
 with no end in sight. And nobody is writing any new systems from scratch in COBOL. *And that is OK.*
 
 You see, those old COBOL systems work. Every so often someone asks for some or another minor adjustment,
-and of course there was the Y2K kerfuffle a few years back (was it 20 already? My how the time flies!)
+and of course there was the Y2K kerfuffle a few years back (was it 20 already? My how the time does fly!)
 but for the most part those bits don't rot.
 
 As it happens, COBOL programmers come in two flavors.
@@ -105,7 +105,7 @@ because *they* have the wisdom to buy-not-build and *they* came along after Pand
 
 You'll recall how Python took root in your organization? Yeah. Pandas just did the same thing.
 
-## And then there were two. Again.
+## And then there were two. Twice.
 
 First it was the new shiny language. Then it was the new shiny library. Tomorrow it will be something else.
 
@@ -215,6 +215,8 @@ If you are a software professional, do not tell the management things they can u
 ## On the Other Hand...
 
 Don't go overboard. You still need to deliver.
+
+**Implications are left as an exercise for the reader.**
 
 ## And in Conclusion...
 
