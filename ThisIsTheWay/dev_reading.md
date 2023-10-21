@@ -167,6 +167,9 @@ by William R. Cook, University of Texas at Austin.
 What is the relationship between *objects* and *abstract data types* (ADTs)?
 This paper explains the differences between these forms of data abstraction in ways your textbook never mentioned.
 
+[A Rubric for Evaluating Team Members’ Contributions to a Maintainable Code Base](https://chelseatroy.com/2021/10/29/a-rubric-for-evaluating-team-members-contributions-to-a-maintainable-code-base/),
+by Chelsea Troy, is a nice run-down of *evaluatable* concrete practices that ... well ... contribute.
+
 ## A focus on testing
 
 **Let's begin at the beginning:**
