@@ -39,6 +39,7 @@ I make no claim to perfection: evolution is still possible, and feedback is enco
 * [Thoughts on the Practice of Programming](ThisIsTheWay/code_practice)
 * [Project Kick-Off](ThisIsTheWay/kick_off)
 * [Not Invented Here?](ThisIsTheWay/not_invented_here)
+* [Note to self: Teaching](ThisIsTheWay/teach)
 
 # 🎭 Counterpoint 🧦
 
