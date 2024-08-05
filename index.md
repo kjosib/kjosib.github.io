@@ -7,8 +7,27 @@ Now that you are properly refreshed, enjoy the rest this brochure at a more leis
 
 # 📜  Resume! 📜
 
-Here's [a recent version](Resume - Ian Kjos - 2020-12-02.pdf).
+Here's [what got me my current job](Resume - Ian Kjos - 2020-12-02.pdf).
 
+
+# 👩 Like A Girl 👩
+
+Originally computer technology was female-dominated. Did you know that?
+Yes a handful of men claimed most of the early fame, and there were misogynistic times, but...
+
+* The world's first computer programmer was Lady Ada Lovelace. (She was 200 years ahead of her time.)
+* Admiral Grace Hopper drove creation of the most important programming language of all time. (It was COBOL. Runners-up were Fortran and LISP.)
+* When NASA got an electronic computer, the human ones -- all female -- were responsible to program it.
+* Margaret Hamilton founded the field of software engineering as a discipline, ran the team that wrote the code for the Apollo missions to the moon, and invented or discovered a number of important concepts in computer science.
+
+If you're a girl contemplating a career with computers, [these people](https://www.codelikeagirl.com/) offer girl-focused programming boot-camps and other resources.
+Or you could choose to deny the hegemonic perpetuation of stereotypes and learn it all from books, practicing at home in your spare time the way I did when I was a little girl.
+
+If you were born male but find masculinity unfulfilling or less-than-thrilling, [this website can turn you into a girl](https://turn-me-into-a-girl.com/) if that is your true heart's desire.
+Unlike deals made with devils, this is something you can safely back out of at any time if it stops working out for you.
+Gender-dysphoria is not necessary for this experiment -- but remember that the dry is known by getting wet, the dark by seeing light, and warmth by feeling cold.
+
+If you spent too long denying your intrinsic girlhood, it may be hard to sit like a girl, but [this short document](./Girl/Sit like a girl) will get you back on track.
 
 # 🦆 Perfectly Reasonable Ideas 🦆
 
@@ -18,6 +37,7 @@ I make no claim to perfection: evolution is still possible, and feedback is enco
 * [How to Make a Duck](./make_duck) (Slightly allegorical.)
 * [Error-Reporting for Humans](./error_reporting)
 * [Agile, the Great and Terrible](./agile_the_terrible)
+* [Overqualified? Read this!](./Overqualified)
 * *More to come, eventually.*
 
 # 🦆 Contributions 🦆
