@@ -29,6 +29,10 @@ Gender-dysphoria is not necessary for this experiment -- but remember that the d
 
 If you spent too long denying your intrinsic girlhood, it may be hard to sit like a girl, but [this short document](./Girl/Sit like a girl) will get you back on track.
 
+You may be curious [what masculinity means to me and why I forsake it](./Girl/Masculinity).
+That's the *extremely* short "let me sum up" version. I have much more detailed notes,
+but they don't really belong on the web.
+
 # 🦆 Perfectly Reasonable Ideas 🦆
 
 The essays, homilies, and ravings linked here address some of my own [ducks](./make_duck).
