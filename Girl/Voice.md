@@ -4,7 +4,7 @@
 
 Nothing was working. I was stuck in a rut, able to get *farther from,* but not *closer to* anything remotely feminine.
 
-Everyone focused on *sound qualities and mimicry,* but nobody said a word on *how to physically do the thing.* Also, some of the guidance I tried to follow was just flat backwards, especially regarding the audio spectra of fem/masc voices. Well, that changed over the last few days: I said "fuck it, I'm going to explore the proprioception angle" and also finally unmasked the disinformation about spectrograms I'd accidentally swallowed. Also, someone showed me [how to make Windows 10 play the microphone back into the headphones](https://www.cyberacoustics.com/how-to-get-microphone-playback-windows-10). (Fair warning: Every time you reconnect your headphones, you'll have to uncheck, apply, check, apply. Also, there is a 1/4-second delay over USB.)
+Everyone focused on *sound qualities and mimicry,* but nobody said a word about *how to physically do the thing.* Also, some of the guidance I tried to follow was just flat backwards, especially regarding the audio spectra of fem/masc voices. Well, that changed over the last few days: I said "fuck it, I'm going to explore the proprioception angle" and also finally unmasked the disinformation about spectrograms I'd accidentally swallowed. Also, someone showed me [how to make Windows 10 play the microphone back into the headphones](https://www.cyberacoustics.com/how-to-get-microphone-playback-windows-10). (Fair warning: Every time you reconnect your headphones, you'll have to uncheck, apply, check, apply. Also, there is a 1/4-second delay over USB.)
 
 Ten minutes later I had the neural pathways built to complete a feedback loop between intention, execution, result, and adjustment. Initially that was with the aid of the spectrogram (search "Friture") because the initial stages of exploration sound so unnatural that they give no intuition for what to change next, but I got to the point of hearing the effects of the different adjustments. In the next 30 minutes, I got to the point of being able to reach a reasonably-fem configuration. The following evening I had a voice that *passed to myself* which admittedly still takes work to find and doesn't last forever, but I'm getting better at finding and maintaining the voice and *feel a sense of progress*. (I've yet to try it on the phone, but got a tremendous hit of gender euphoria, which is the real point.)
 
@@ -26,5 +26,3 @@ More tips:
    2. \[Censored.\]
    3. Reinforcement learning will happen at a deep level.
 
-
-I originally posted this in a Reddit comment.
