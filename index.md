@@ -7,7 +7,7 @@ Now that you are properly refreshed, enjoy the rest this brochure at a more leis
 
 # 📜  Resume! 📜
 
-Here's [what got me my current job](Resume/Resume - Ian Kjos - 2021-04-23.pdf).
+This [resume](Resume/Resume - Beth Kjos - 2026-02-27.pdf) is up to date because I am looking.
 
 
 # 👩 Like A Girl 👩

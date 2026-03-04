@@ -29,15 +29,22 @@ watch these in order -- and you'll get a good sense of the physicality.
 1. Spend a little money on a well-qualified coach who understands and respects the science while keeping a good bedside-manner.
 
 * Problem: They aren't all qualified to the same degree, and it's hard for a lay-person to tell the difference.
+* Other problem: SLPs (Speech & Language Pathologists) may work from flawed sources.
+
+The best trans-voice teachers will focus on resonance and vocal weight in that order
+before getting into intonation and pronunciation. Pitch adjustment generally comes easy,
+and for that reason is largely irrelevant to gendering a voice: Mickey Mouse is high
+and squeaky, but obviously male because the resonance is masculine.
 
 ## Plan B: The DIY approach
 
 Everyone starts out with a different constellation of skills, sub-skills, and sub-sub-skills on different levels.
 Understand what you have so far, then build towards your goal in achievable increments.
-Eventually, forget the lower-levels because they become automatic and no longer require conscious control.
+Eventually, the lower-levels become automatic and no longer require conscious control.
 
 Learning a motor skill means reshaping the segment of your brain responsible for converting intention into muscle-control signals.
-(Brains are constantly reshaping themselves according to the demands placed upon them. It gets more difficult in adulthood, but not impossible by any stretch.)
+(Brains are constantly reshaping themselves according to the demands placed upon them.
+It gets more difficult in adulthood, but not impossible by any stretch.)
 
 
 For each motor-skill to be learned, build a control system (a.k.a. feedback cycle):
@@ -76,6 +83,7 @@ If you just want to cut to the chase:
 * Stereotypical near-whispering easy-listening radio DJ: Low (fem) weight, large (masc++) size, masculine articulation, lilting intonation.
 * Stereotypical "gay man on television": High (masc) weight, large (masc++) size, fem-leaning pronunciation.
 * Bart Simpson: Low (fem) weight, Small (fem) size, boyish pronunciation.
+* Ultimate Twang: [Fran Meets Fran Drescher! The Nanny](https://www.youtube.com/watch?v=v0IEAGi2K1M)
 
 If you can do these voices convincingly, then you have all the sub-skills to craft a *passing* fem voice.
 The main problem will be coordinating specific combinations of sub-skill behaviors.
@@ -169,6 +177,8 @@ It's a good idea to keep some sample recordings around of how you sounded at dif
 
 
 ## Size/Resonance tips:
+
+* People tend to think they need to get smaller than actually necessary. Sharpness (a pronunciation feature) might be the problem.
 
 * Most people talk of raising the larynx. This is only part of the resonance picture, and maybe a false-start for feminizing. For shrinking the resonant cavity in the throat, it's much more important to gain control of the OPC muscles in the back of the throat. After that, the larynx will generally do the right thing reflexively, but you can adjust it a *little bit* to fine-tune a resonance that's basically in the right ballpark. Under voluntary control, one can easily raise the larynx too hard and cause harm over time.
 * Get some control over weight first. I got there with mimicry of the Patrick-Star / Yogi-Bear voice, but a better example might be the stereotypical smooth-jazz radio annoucer. It doesn't need to be great; just middling so you don't end up sounding like a Sponge-Bob when you achieve fem resonance.

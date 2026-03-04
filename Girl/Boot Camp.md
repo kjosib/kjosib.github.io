@@ -1,0 +1,8 @@
+# Military Boot Camp
+
+I joined the US Navy voluntarily in '04. I imagine training varies depending on country, but I can share a few things.
+
+The thing is, they know they're starting from scratch with everyone. Some people have more or less physical fitness, more or less discipline, etc. They need to get everyone up to a certain level. In the beginning, it's all about the simple stuff like following orders, marching, organized work-outs. But the real training is to work as an organized team: People know each other's roles and act with the trust that all the right other things are happening around them. So in the beginning even simple things feel hard. Closer to the end, you're doing miracles on a daily basis. It FEELS easier even as the absolute level of difficulty continues to increase, but that's because you get VASTLY better at the simple things. And it does take time to reach the point where that effect starts to take over. It happens at a different moment for each Sailor, but it does happen for virtually everyone. Well, maybe a tiny percentage wash out for failure to adapt, but basically that's what being trained is.
+
+I should mention that it's possible to quit boot-camp. All you have to do is raise your right hand and say "I quit". Nobody does. I mean NOBODY. They've gotten that far; they're committed. Of course there's no encouragement to quit on the enlisted level. But officers? They need to be EXTRA committed. They need to be INTERNALLY motivated. They need to run a gamut of emotional and physical and intellectual obstacles that qualify them to much higher level of authority and responsibility.
+

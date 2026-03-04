@@ -1,0 +1,13 @@
+H.R. 238: To amend the Federal Food, Drug, and Cosmetic Act to clarify that artificial intelligence and machine learning technologies can qualify as a practitioner eligible to prescribe drugs...
+
+I've never heard of a riskier plan.
+
+I'm a software engineer of over 30 years experience. I'm up to date with state of the art. Make no mistake: The field of AI has made great strides in recent years, but on the inside it's still just a clever party trick at best, and a parasitic cancer at worst.
+
+Before going any further, familiarize yourself with the Therac-25 story. A software design flaw in a radiation machine killed or maimed a bunch of people, and that was when someone actually knew how the machine worked. Artificial intelligence by definition is controlled by parameters where people have given up all power to understand how the machine does its thing; only that it *seems* to work when presented with a known set of examples.
+
+The stated goal of Artificial Intelligence technology is to fool humans into being unable to tell the bot from the person. In other words, deception is at its core. In contrast, a live-human doctor generally has a real concern for their patients' well-being. So the bot survives a few rounds of testing, gets deployed, goes rogue, and ... well, it's not Age-of-Ultron but it's certainly not pretty either.
+
+This says nothing of the insidious long-term effects on the state of medicine in this country. Doctoring as a profession is constantly learning and growing; adapting to new diseases and new treatments. If you let AI take over, that might offer a short-term gain somewhere, but at what cost? The AI has neither the motivation nor the real ability to learn, grow, or be compassionate. One could imagine some big tech company periodically releasing DoctorGPT version N+1, but then what if TechnoBabble Incorporated decides to exploit their monopoly on doctoring to the detriment of a society bereft of a strong class of medical professionals?
+
+No on 238 -- if it even escapes committee.
