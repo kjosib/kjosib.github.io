@@ -31,6 +31,8 @@ If you spent too long denying your intrinsic girlhood, it may be hard to sit lik
 
 <!-- You may be curious [what masculinity means to me and why I forsake it](./Girl/Masculinity). That's the *extremely* short "let me sum up" version. I have much more detailed notes, but they don't really belong on the web. -->
 
+Here's [a note on courage](./Girl/Courage) addressed to all girls, boys, and everyone in between.
+
 # 🦆 Perfectly Reasonable Ideas 🦆
 
 The essays, homilies, and ravings linked here address some of my own [ducks](./make_duck).
