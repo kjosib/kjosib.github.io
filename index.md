@@ -26,7 +26,7 @@ Yes a handful of men claimed most of the early fame, and there were misogynistic
 If you're a girl contemplating a career with computers, [these people](https://www.codelikeagirl.com/) offer girl-focused programming boot-camps and other resources.
 Or you could choose to deny the hegemonic perpetuation of stereotypes and learn it all from books, practicing at home in your spare time the way I did when I was a little girl.
 
-If you were born male but find masculinity unfulfilling or less-than-thrilling, [this website can turn you into a girl](https://turn-me-into-a-girl.com/) if that is your true heart's desire.
+If you were socially-pressured into masculinity but find it unfulfilling or less-than-thrilling, [this website can turn you into a girl](https://turn-me-into-a-girl.com/) if that is your true heart's desire.
 Unlike deals made with devils, this is something you can safely back out of at any time if it stops working out for you.
 Gender-dysphoria is not necessary for this experiment -- but remember that the dry is known by getting wet, the dark by seeing light, and warmth by feeling cold.
 
