@@ -9,7 +9,7 @@ Now that you are properly refreshed, enjoy the rest this brochure at a more leis
 
 This [resume](Resume/Resume - Beth Kjos - 2026-03-04.pdf) is up to date because I am looking.
 
-In late 2022 I got an [unsolicited testimonial](Resume/Feedback from Johan) from a colleague.
+In late 2022 I got an [unsolicited testimonial](Testimonials/fromJohan) from a colleague.
 We went on to finish the project and impress the desk despite a six-month lapse in funding,
 which I attribute to the readme-driven approach I championed to the developement team.
 
