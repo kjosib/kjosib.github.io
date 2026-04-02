@@ -7,7 +7,7 @@ Now that you are properly refreshed, enjoy the rest this brochure at a more leis
 
 # 📜  Resume! 📜
 
-This [resume](Resume/Resume - Beth Kjos - 2026-03-04.pdf) is up to date because I am looking.
+This [resume](Resume/Resume - Beth Kjos - 2026-04-02.pdf) is up to date because I am looking.
 
 Here's my [Linked-In profile](https://www.linkedin.com/in/beth-kjos).
 
