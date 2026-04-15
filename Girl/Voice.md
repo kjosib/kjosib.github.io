@@ -83,7 +83,10 @@ If you just want to cut to the chase:
 * Stereotypical near-whispering easy-listening radio DJ: Low (fem) weight, large (masc++) size, masculine articulation, lilting intonation.
 * Stereotypical "gay man on television": High (masc) weight, large (masc++) size, fem-leaning pronunciation.
 * Bart Simpson: Low (fem) weight, Small (fem) size, boyish pronunciation.
-* Ultimate Twang: [Fran Meets Fran Drescher! The Nanny](https://www.youtube.com/watch?v=v0IEAGi2K1M)
+* Sharpness isolated: [Tim Gunn](https://www.youtube.com/watch?v=x6K_b7sJXN0)
+* Glottal Stops: https://www.youtube.com/watch?v=_4MJUi03GHM
+* The master of dialect: https://www.youtube.com/@DrGeoffLindsey/videos
+
 
 If you can do these voices convincingly, then you have all the sub-skills to craft a *passing* fem voice.
 The main problem will be coordinating specific combinations of sub-skill behaviors.
