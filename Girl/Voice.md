@@ -83,10 +83,6 @@ If you just want to cut to the chase:
 * Stereotypical near-whispering easy-listening radio DJ: Low (fem) weight, large (masc++) size, masculine articulation, lilting intonation.
 * Stereotypical "gay man on television": High (masc) weight, large (masc++) size, fem-leaning pronunciation.
 * Bart Simpson: Low (fem) weight, Small (fem) size, boyish pronunciation.
-* Sharpness isolated: [Tim Gunn](https://www.youtube.com/watch?v=x6K_b7sJXN0)
-* Glottal Stops: https://www.youtube.com/watch?v=_4MJUi03GHM
-* The master of dialect: https://www.youtube.com/@DrGeoffLindsey/videos
-
 
 If you can do these voices convincingly, then you have all the sub-skills to craft a *passing* fem voice.
 The main problem will be coordinating specific combinations of sub-skill behaviors.
@@ -97,6 +93,20 @@ It can help to play contrasting recordings very slowly (say, 1/5th speed) in [Au
 in order to pay careful attention to the differences between gendered pronunciation.
 Then imitate at a similar slow speed until it's naturalized.
 Slowly get faster, but check your progress with recordings.
+
+**Technical Studies:**
+
+* Ear training --> https://selenearchive.github.io/
+* Sharpness isolated: [Tim Gunn](https://www.youtube.com/watch?v=x6K_b7sJXN0)
+* Glottal Stops: https://www.youtube.com/watch?v=_4MJUi03GHM
+* The master of dialect: https://www.youtube.com/@DrGeoffLindsey/videos - Great for learning to isolate and analyze specific speech sounds that distinguish accents.
+* Dialect Analysis Text: https://www.dialectsarchive.com/comma-gets-a-cure  - Also Poke around the site for recordings of masculine and feminine speakers from your region.
+* [Why Princesses and Villains Talk Like That: Voice Actor Explains](https://www.youtube.com/watch?v=Q83W339TOMg) - Great analysis of contrasting fem-voices, notwithstanding some operatic terms.
+* Online pitch reader: https://pitchreader.com/
+* Tight throat? Try this laryngeal massage: https://www.youtube.com/watch?v=QUDNXLSrOXk
+* https://www.themarklandstudio.com/monologues/female - Female Monologues
+* https://www.youtube.com/watch?v=v0IEAGi2K1M - Fran Drescher type twang
+* https://www.youtube.com/watch?v=qZ8UrMa1HeM - ARYEPIGLOTTIC SPHINCTER twang - for efficient volume (stage projection)
 
 ### Intervening with the motor cortex:
 
