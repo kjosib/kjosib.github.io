@@ -162,8 +162,20 @@ Broadly speaking, how shall we proceed?
 
 ## Some related cultural issues
 
+How, when, and how often do we communicate?
+
+* Telephone? Text message? E-mail? Slack? Discord?
+* Is everyone plugged into all the right communication tools and endpoints?
+* Are all contacts properly shared? Both amongst ourselves and with external stakeholders?
+* Have introductions been made?
+* What levels of formality are expected with whom?
+* What is the typical ETA for a response by each method?
+* What is the escalation path if a response is not forthcoming?
+* What kinds of information are typically shared by each method?
+
 How do we keep this large project on track?
 
+* How do we share - or change - the forecast, schedule, and progress?
 * A growing team requires an evolving management style.
 * Bigger projects require more careful planning and technical documentation.
 * What's the GICOT (good-idea cut-off time) for different kinds of changes?
@@ -197,11 +209,6 @@ How shall we refine the scope successively until the bites are chewable?
   sunk-cost deletium increases exponentially.
 * If you've done all you can and a goal is genuinely wedged,
   make a loud clamor to the sponsor or whoever else has influence.
-
-How shall we communicate the forecast, schedule, and progress?
-
-* The medium, and the nature of the message?
-* Amongst ourselves or with external stakeholders?
 
 What information composes the forecast?
 
