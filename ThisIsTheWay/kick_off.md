@@ -173,6 +173,16 @@ How, when, and how often do we communicate?
 * What is the escalation path if a response is not forthcoming?
 * What kinds of information are typically shared by each method?
 
+Project data anchor points:
+
+* Where is, and how shall stakeholders access, the kick-off baseline?
+* How are status updates distributed, and how are they codified for reference?
+* Who is in charge of document control, and how does that work?
+* What's the information architecture for organizing pertinent information?
+  * How are things indexed? (Does that make sense?)
+  * How do you find what's relevant to a given task?
+  * Do we use a specific set of technical vocabulary? Is there a glossary?
+
 How do we keep this large project on track?
 
 * How do we share - or change - the forecast, schedule, and progress?
