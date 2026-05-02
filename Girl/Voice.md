@@ -103,7 +103,7 @@ Slowly get faster, but check your progress with recordings.
 * Dialect Analysis Text: https://www.dialectsarchive.com/comma-gets-a-cure  - Also Poke around the site for recordings of masculine and feminine speakers from your region.
 * [Why Princesses and Villains Talk Like That: Voice Actor Explains](https://www.youtube.com/watch?v=Q83W339TOMg) - Great analysis of contrasting fem-voices, notwithstanding some operatic terms.
 * Online pitch reader: https://pitchreader.com/
-* Tight throat? Try this laryngeal massage: https://www.youtube.com/watch?v=QUDNXLSrOXk
+* Tight throat? Try this laryngeal massage: https://www.youtube.com/watch?v=QUDNXLSrOXk or https://www.youtube.com/watch?v=HbQOCB9bO6g
 * https://www.themarklandstudio.com/monologues/female - Female Monologues
 * https://www.youtube.com/watch?v=v0IEAGi2K1M - Fran Drescher type twang
 * https://www.youtube.com/watch?v=qZ8UrMa1HeM - ARYEPIGLOTTIC SPHINCTER twang - for efficient volume (stage projection)
