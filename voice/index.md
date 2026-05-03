@@ -1,5 +1,8 @@
 # Voice with Beth
 
+* [Book time with me here.](https://calendar.app.google/SsZoELgDMtQjx4Yc7)
+
+
 I learned how to teach:
 
 * Adults, from the United States Department of Defense.
