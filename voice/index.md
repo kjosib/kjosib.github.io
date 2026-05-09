@@ -45,7 +45,7 @@ I'll do my best to lead you in healthy ways, but ultimately you need to be respo
 To make everyone's life easier, please read the following before beginning practical work:
 
 * [Environmental and Technical Preparation](./prep)
-* [Vocal Health and Wellness - Pre-Reading](./wellness)
+* [Vocal Health and Wellness - Pre-Reading](./health)
 
 ## Curriculum
 
