@@ -5,9 +5,9 @@
 
 I learned how to teach:
 
-* Adults, from the United States Department of Defense.
+* Adults, from the United States Department of Defense. (It's very different from teaching children.)
 * Unfamiliar and/or high-level kinematic skills, from Texana Children's Center for Autism.
-* Trans-Voice, from a variety of active practitioners.
+* Trans-Voice, from paying close attention to a variety of active coaches, picking their brains, stealing their best pedagogical techniques, and a decent amount of self-study.
 
 ## General Approach and Philosophy
 
@@ -25,125 +25,54 @@ We build one new behavioral component at a time up to mastery, first in isolatio
 
 **Homework** serves to turn conscious practice into habit. 
 
-## Environmental and Technical Preparation
+## IMPORTANT DISCLAIMER
 
-* Physical and Psychological safety: Are you in a place and time where it's safe for you to present with an altered voice?
-* Quiet and private room: We need to be able to hear nuances of your vocal performance, and you need to be able to hear ours.
-* Permission (including from yourself) to make weird mouth-noises: They're part of the process.
-* Respectable-quality headset with microphone (The best you can justify), ideally with side-tone in hardware.
-* Be well-hydrated and have a good supply of drinking water close at hand.
+**I am not a medical professional.**
+Take your medical advice from a properly licensed and certified practitioner.
 
-Also, there are some useful software programs to have installed and functional on your computer:
+If you have:
+* pain in or around the vocal tract - even in the slightest
+* trouble swallowing food
+* difficulty speaking *at all*
+* any other vocal-health concern
+then please solve those problems first!
 
-* [Audacity](https://www.audacityteam.org/download/): You'll need to make and manipulate recordings of your own voice.
-* [Friture](https://friture.org/download.html): At certain points, we'll use this to analyze your voice in real time.
-* Discord is technically optional but highly recommended.
+I'll do my best to lead you in healthy ways, but ultimately you need to be responsible for your own vocal health.
 
-In a pinch, we can work over a cell phone in a parked car, but it's far better to be in a quality space with quality equipment.
+
+## Pre-Reading
+
+To make everyone's life easier, please read the following before beginning practical work:
+
+* [Environmental and Technical Preparation](./prep)
+* [Vocal Health and Wellness - Pre-Reading](./wellness)
 
 ## Curriculum
 
-### Overall Breakdown:
-
-* Vocal Health and Wellness
+* Session Zero: Introduction, Goals, Expectations, Objectives, Hopes, and Fears
 * Body-Implying Features: Size, Weight, Pitch
+* Cognitive Loading; Self-monitoring
 * Social Background Features
     * Onsets, offsets, and consonant / vowel profiles
     * Articulation: Sharpness, Brightness, and Glide
     * Intonation / Pitch contours: syllables, words, and sentences
 * Expressive Features
+* Contextual adjustments
+* Getting to a voice you're in love with
 
-### Session Zero: Vocal Health and Wellness
-
-#### Introduction, Goals, Expectations, Objectives, Hopes and Fears
+### Session Zero:
 
 This section is largely student-driven.
 The goals are mutual understanding, proper rapport, and student engagement / willingness to learn.
 Be prepared to explain your (street-)cred(entials), preview the lesson plan, and make adaptations.
 Also check environmental and technical preparation, and make sure the student has water.
 
-#### Rule Zero
-
-**Voice training should never hurt!**
-
-If something is ever *physically* uncomfortable, stop! Raise your hand and call a ***TRAINING TIME-OUT!***
-
-Let's practice that now!
-
-* Student calls for training time-out.
-* Instructor stops; asks the problem; confusedly determines this is just an exercise.
-* Training proceeds again only when the student declares readiness.
-
------
-* Student recall: What's rule zero? What do you do if something physically hurts?
-
-#### Effortless Performance
-
-* You already have all the *strength* you need.
-* Habit, coordination, and endurance are another question.
-
-A well-trained voice requires no effort, imposes neither difficulty nor strain, neither physical nor mental nor emotional.
-
-During the process of exploring and refining the voice, you'll be developing new coordination and habits with muscles you already use daily.
-Along the way, you might accidentally entrain some extra muscular behavior which can manifest in tiredness, soreness, tightness, inflamation, or the like.
-If you notice something of this nature, please tell your coach.
-
-If you typically speak less than 30 minutes in a day, or only very softly, you may need to work up some general vocal endurance to avoid overuse injuries.
-(Divide time spent conversing by the number of people contributing to the conversation.)
-SOFTEs are good for this.
-
------
-
-* Student interaction: Are you a vocal under-doer? What causes that?
-
-#### Medical Concerns
-
-**I am not a doctor.**
-But I might suggest one, if I notice something of concern.
-I also might suggest a therapist, depending on what comes up during the program.
-
-**On the matter of surgery:**
-Training really does work just fine for the overwhelming majority.
-In any case, surgery can *at most* affect the body-implying features.
-Nobody can surgically implant a feminine accent.
-
-**Hormones:**
-Testosterone changes the vocal equipment, but slowly. Estrogen does not reverse these changes.
-Regardless, you can train your voice to sound typical of either masculine or feminine presentation,
-or indeed any mishmash of the two if that's your bag.
-
-#### Hydration Break!
-
-#### Student Life Habits
-
-**Things to avoid completely:**
-
-* Smoking
-* Alcohol
-* Recreational drugs
-
-**Things to minimize, especially before training:**
-
-* Caffeine - dries you out
-* Intensely spicy foods - can lead to irritation
-* Milk and its products - tends to promote phlegm
-
-**Things to make sure you get enough of:**
-
-* Sleep!
-* Water!
-* Practice!
-* Head-pats! (j/k)
-
-#### Hydration Break!
-
-#### Introducing SOVTEs
-
-**Semi-Occluded Vocal Tract Exercises** help with recovery and building vocal endurance.
-
-* Student Practice - MMMM, VVV, lip or tongue trill, and if possible, bubble phonation
-
------
+Background?
+Any self-teaching?
+How are you measuring your own performance? What does success look like, in detail?
+Do you have a muse / target voice?
+Any data specifically on your current challenges?
+Establish shared vocabulary for all vocal features.
 
 ### Stage One: Body-Implying Features
 
@@ -157,10 +86,12 @@ This phase is all about the basic sound underlying your speech.
 * Weight vs. Breathiness
 * Constriction: Causes and consequences
 
+**Ear Training**
+
 **Pitch Practicum:**
 
-https://www.szynalski.com/tone-generator/
-https://friture.org/download.html
+[https://pitchreader.com/](https://pitchreader.com/) - can also generate tones if you click the note names
+
 
 Make sure student can at least reach a decent amount of feminine pitch range:
 Begin with a scale up from around 110 Hz (A2) to at least 262 Hz (C4).
@@ -169,9 +100,10 @@ Homework if student cannot reach 330 Hz (E4). A good longer-term goal is 440 Hz 
 **Size Practicum:**
 
 Elicitation techniques for primary size reduction:
-* Nerd-maxing.
+* Nerd-maxing. "Porky Pig" sound.
 * Ngya-Ngya-Ngya, with maximal annoying quality.
 * The dogs, optionally with tongue pulled or hanging forward.
+* Unvoiced slide-whistle a-k-a whisper siren, with phonation test at the end.
 * Working loose a bit of stuck food in the back of the throat.
 * Pull back of tongue back and down.
 * Worst case scenario: Finger on the larynx.

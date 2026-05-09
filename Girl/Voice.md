@@ -100,13 +100,16 @@ Slowly get faster, but check your progress with recordings.
 * Sharpness isolated: [Tim Gunn](https://www.youtube.com/watch?v=x6K_b7sJXN0)
 * Glottal Stops: https://www.youtube.com/watch?v=_4MJUi03GHM
 * The master of dialect: https://www.youtube.com/@DrGeoffLindsey/videos - Great for learning to isolate and analyze specific speech sounds that distinguish accents.
-* Dialect Analysis Text: https://www.dialectsarchive.com/comma-gets-a-cure  - Also Poke around the site for recordings of masculine and feminine speakers from your region.
+* Accent Analysis Text: https://www.dialectsarchive.com/comma-gets-a-cure  - Also Poke around the site for recordings of masculine and feminine speakers from your region.
 * [Why Princesses and Villains Talk Like That: Voice Actor Explains](https://www.youtube.com/watch?v=Q83W339TOMg) - Great analysis of contrasting fem-voices, notwithstanding some operatic terms.
 * Online pitch reader: https://pitchreader.com/
 * Tight throat? Try this laryngeal massage: https://www.youtube.com/watch?v=QUDNXLSrOXk or https://www.youtube.com/watch?v=HbQOCB9bO6g
 * https://www.themarklandstudio.com/monologues/female - Female Monologues
 * https://www.youtube.com/watch?v=v0IEAGi2K1M - Fran Drescher type twang
 * https://www.youtube.com/watch?v=qZ8UrMa1HeM - ARYEPIGLOTTIC SPHINCTER twang - for efficient volume (stage projection)
+* https://www.youtube.com/watch?v=0tOsucpdD7Y - Groan Tube sound effect
+* https://www.youtube.com/watch?v=FCaTFLdtsco - Gay Voice
+* https://www.youtube.com/watch?v=RrZjMxTY9QM and https://www.youtube.com/watch?v=HuWK0fCLpkY have some very nice low-fem example work by Kate Mulgrew voicing two different characters - one younger and one older.
 
 ### Intervening with the motor cortex:
 

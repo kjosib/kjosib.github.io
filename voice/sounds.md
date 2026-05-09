@@ -19,6 +19,8 @@ They stirred their preferred curd !
 Sorry, I misheard the third word!
 They concurred on absurd words.
 
+See also [the reading advice hub](https://thereadingadvicehub.com/wp-content/uploads/2020/10/Schwa-Sound-List-of-Words.pdf).
+
 /ɛ/ (as in bed)
 
 Sweat is wet.
@@ -124,3 +126,8 @@ Thankfully thimbles protect these thumbs!
 
 thief, thin, therapy, thatch, thanos, thought(ɔ as in short), through(u as in boot), third(ɜ in burr), thunder(ʌ in bus)
 ```
+
+## More word lists:
+
+[Targeted Word Lists for Speech Therapy Practice](https://www.home-speech-home.com/speech-therapy-word-lists.html)
+
