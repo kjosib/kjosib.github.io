@@ -31,10 +31,12 @@ We build one new behavioral component at a time up to mastery, first in isolatio
 Take your medical advice from a properly licensed and certified practitioner.
 
 If you have:
+
 * pain in or around the vocal tract - even in the slightest
 * trouble swallowing food
 * difficulty speaking *at all*
 * any other vocal-health concern
+
 then please solve those problems first!
 
 I'll do my best to lead you in healthy ways, but ultimately you need to be responsible for your own vocal health.
@@ -61,6 +63,10 @@ To make everyone's life easier, please read the following before beginning pract
 * Getting to a voice you're in love with
 
 ### Session Zero:
+
+Start with ***why***.
+
+Before beginning, ask the student answer the question "What's in it for me?" i.e. why do you want to learn the feminine voice?
 
 This section is largely student-driven.
 The goals are mutual understanding, proper rapport, and student engagement / willingness to learn.
@@ -102,7 +108,7 @@ Homework if student cannot reach 330 Hz (E4). A good longer-term goal is 440 Hz 
 Elicitation techniques for primary size reduction:
 * Nerd-maxing. "Porky Pig" sound.
 * Ngya-Ngya-Ngya, with maximal annoying quality.
-* The dogs, optionally with tongue pulled or hanging forward.
+* Big-Dog-Small-Dog, optionally with tongue pulled or hanging forward. Make sure the difference between big and little dog pant is entirely in the back part of the tongue.
 * Unvoiced slide-whistle a-k-a whisper siren, with phonation test at the end.
 * Working loose a bit of stuck food in the back of the throat.
 * Pull back of tongue back and down.
@@ -166,8 +172,9 @@ At this point, you can easily sound prepubescent but need to learn the accent.
 ## Resources
 
 
-
+* https://www.youtube.com/watch?v=wYnPA7IXFIU - Stroboscopic view of vocal cords doing their thing. (TW: Medical imagery).
 
 
 that mad brat sat on that flat mat
 
+https://dood.al/pinktrombone/

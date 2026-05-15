@@ -96,11 +96,11 @@ Slowly get faster, but check your progress with recordings.
 
 **Technical Studies:**
 
+* Comma Gets a Cure - Accent Analysis Text: https://www.dialectsarchive.com/comma-gets-a-cure  - Also poke around the site for recordings of masculine and feminine speakers from your region.
 * Ear training --> https://selenearchive.github.io/
 * Sharpness isolated: [Tim Gunn](https://www.youtube.com/watch?v=x6K_b7sJXN0)
 * Glottal Stops: https://www.youtube.com/watch?v=_4MJUi03GHM
 * The master of dialect: https://www.youtube.com/@DrGeoffLindsey/videos - Great for learning to isolate and analyze specific speech sounds that distinguish accents.
-* Accent Analysis Text: https://www.dialectsarchive.com/comma-gets-a-cure  - Also Poke around the site for recordings of masculine and feminine speakers from your region.
 * [Why Princesses and Villains Talk Like That: Voice Actor Explains](https://www.youtube.com/watch?v=Q83W339TOMg) - Great analysis of contrasting fem-voices, notwithstanding some operatic terms.
 * Online pitch reader: https://pitchreader.com/
 * Tight throat? Try this laryngeal massage: https://www.youtube.com/watch?v=QUDNXLSrOXk or https://www.youtube.com/watch?v=HbQOCB9bO6g
@@ -109,7 +109,13 @@ Slowly get faster, but check your progress with recordings.
 * https://www.youtube.com/watch?v=qZ8UrMa1HeM - ARYEPIGLOTTIC SPHINCTER twang - for efficient volume (stage projection)
 * https://www.youtube.com/watch?v=0tOsucpdD7Y - Groan Tube sound effect
 * https://www.youtube.com/watch?v=FCaTFLdtsco - Gay Voice
+* https://www.youtube.com/watch?v=OoUy3SO6REE - Janeway and Coffee: A Star Trek Love Story - Illustrating the variabillity of a natural voice
+
+Low Fem stuff:
+
 * https://www.youtube.com/watch?v=RrZjMxTY9QM and https://www.youtube.com/watch?v=HuWK0fCLpkY have some very nice low-fem example work by Kate Mulgrew voicing two different characters - one younger and one older.
+* https://www.youtube.com/watch?v=ynzlZVlxLzk - Sultry Kathleen Turner sizzles in Body Heat (1981)
+* https://www.youtube.com/watch?v=6S9UeKnewxE - Kathleen Turner later in life sounding manly on Good Morning America
 
 ### Intervening with the motor cortex:
 
