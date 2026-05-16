@@ -3,6 +3,7 @@
 How to come out as trans? Here's my list of tips and suggestions:
 
 * Personal safety comes first.
+* Do it sober.
 * Tell one person at a time.
 * Begin with those you trust most, and who are important to you.
 * Stay in control of your own coming-out by asking people not to tell others before you've told them you're ready (later).
