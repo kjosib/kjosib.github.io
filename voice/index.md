@@ -87,10 +87,25 @@ This phase is all about the basic sound underlying your speech.
 **Ground School:**
 
 * Vocal tract along the *Power, Source, Filter* model.
+* Check breath health
 * Perceptual gender and the *Size, Weight, Pitch* model.
 * Size components: tongue root, larynx height, PAN
 * Weight vs. Breathiness
 * Constriction: Causes and consequences
+
+**Breath**
+
+* belly breathing
+* shhh exercise
+* fog up a mirror vs blow out a candle
+* sip sip sip blooooowwwwwww
+
+onsets
+* breathy / open - hhhhhhelllo
+* sigh into phonation
+* flow phonation (on vowels, then morph into text)
+
+blow on finger to test continuous airflow. (e.g. it feels cold?)
 
 **Ear Training**
 
@@ -98,12 +113,23 @@ This phase is all about the basic sound underlying your speech.
 
 [https://pitchreader.com/](https://pitchreader.com/) - can also generate tones if you click the note names
 
+* The "Princess sigh"
+* Sirens/glides/glissandos (move through/around passagio)
+* SOVTEs during
+* Pitch-matching
+* Exploration - slide around, be gelatinous, rev the engine....
+* Breath is at the center - check it
+* Visual aids such as hand moving with pitch
 
 Make sure student can at least reach a decent amount of feminine pitch range:
 Begin with a scale up from around 110 Hz (A2) to at least 262 Hz (C4).
 Homework if student cannot reach 330 Hz (E4). A good longer-term goal is 440 Hz (A4).
 
 **Size Practicum:**
+
+Watch out for tension in the head, neck, face, cheeks, tongue, etc.
+
+Relaxation: Stretching, massage, 
 
 Elicitation techniques for primary size reduction:
 * Nerd-maxing. "Porky Pig" sound.
@@ -165,8 +191,57 @@ At this point, you can easily sound prepubescent but need to learn the accent.
 
 ### Social Background Features
 
+Accent - default: Location, vocation, social group/class
+
+Consonant Sharpness/Flatness and vowel brightness/dullness
+
+"The tip of the tongue; the lips and the teeth..." vs. alveolar ridge
+
+Prosody elements:
+* Bouncy vs. step-function/monotone (glissando vs. staccato)
+* Tempo variation - often fem will begin with slower speech at first, then speeding up as she figures out what to say, rather than staying fast and getting cut off after three words.
+* Vowel elongation - I doooont wanna do thaaaat! My Gooooood!
+* diction and articulation and enunciation
+* syllable separation
+
+Get client to find examples in media, in dialects archive, etc.
+
+fiction and children's books are good. (Bedtime stories?)
+
+Build small-talk - improvise around 
 
 ### Expressive Features
+
+
+Context, age, mood, etc.
+
+(Note also code-switching.)
+
+Don't automatically assume a client wants to mask neurodivergence.
+
+## Using it IRL
+
+Don't be a perfectionist.
+
+* **low-stakes:** Go all out. Use all available strategies.
+* **medium-stakes:** Focus on one or two concepts / axes. Use a recovery fix.
+* **high-stakes:** Practice some single small thing that won't cause a problem.
+
+Adaptability:
+
+* Recovery techniques - phrases, motions, etc.
+* Identify different set-points for different environments. (e.g. work, friends, pets/plants/babies)
+* Develop personality over time in the community
+
+
+## "Graduation"
+
+* One size does not fit all.
+* Required: Healthy, flexible, sustainable, affirming
+* Intellectual mastery (a.k.a. self-coaching): Review; co-create references; practice knowledge; listen and eval self and others; self-direction and self-coaching.
+* Physical mastery: Demo concepts physically, fluidly. Apply with ease in many contexts. Self-direct and self-coach.
+
+Occasional check-in / fine-tuning.
 
 
 ## Resources
@@ -178,3 +253,6 @@ At this point, you can easily sound prepubescent but need to learn the accent.
 that mad brat sat on that flat mat
 
 https://dood.al/pinktrombone/
+
+https://www.speechtherapypd.com/courses/metatherapy-how-conversation-shapes-therapeutic-response
+

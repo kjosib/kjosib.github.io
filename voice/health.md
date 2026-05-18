@@ -48,13 +48,17 @@ I also might suggest a therapist, depending on what comes up during the program.
 * Training really does work just fine for the vast majority who can dedicate the time and effort, although not every coach is a good fit for every learner.
 * Training has certain practical benefits: There's neither a convalescent period nor the risk of surgical complications. With training, you can easily adjust your sound at will, even to the point of deliberately "turning off" your feminine voice - a power some people might need.
 * There are situations where surgery is the better option. That's a personal decision for those who choose to undergo it. We should not disrespect that choice in others or try to browbeat them out of it, but it's OK to share the story of our own vocal journeys.
-* In any case, surgery can *at most* affect the body-implying features. Nobody can surgically implant a feminine accent. (Yet.)
+* In any case, vocal surgery can *at most* affect the body-implying features. Nobody can surgically implant a feminine accent. (Yet.)
 
 
 **Hormones:**
 Testosterone changes the vocal equipment, but slowly. Estrogen does not reverse these changes.
 Regardless, you can train your voice to sound typical of either masculine or feminine presentation,
 or indeed any mishmash of the two if that's your bag.
+
+If you are using testosterone (for example, as a trans man) then you can 
+then during the transformation 
+you can expect some variation over time in your vocal abilities 
 
 #### Hydration Break!
 
