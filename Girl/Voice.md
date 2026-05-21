@@ -79,7 +79,7 @@ If you just want to cut to the chase:
 
 * The paragon of vocal masculinity, [Walter Cronkite](https://www.youtube.com/watch?v=G5tdqojA26E): High (masc) weight, large (masc++) size.
 * Sponge-Bob Square-Pants: High (masc) weight, Small (fem) size, middle pitch, masc-leaning pronunciation.
-* Patrick Star: Low (fem) weight, Extra-large (masc++) size.
+* Patrick Star: Low (fem) weight, Extra-large (masc++) size. https://www.youtube.com/watch?v=uwyRxK0htpI
 * Stereotypical near-whispering easy-listening radio DJ: Low (fem) weight, large (masc++) size, masculine articulation, lilting intonation.
 * Stereotypical "gay man on television": High (masc) weight, large (masc++) size, fem-leaning pronunciation.
 * Bart Simpson: Low (fem) weight, Small (fem) size, boyish pronunciation.
