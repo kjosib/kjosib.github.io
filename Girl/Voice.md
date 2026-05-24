@@ -114,7 +114,7 @@ Slowly get faster, but check your progress with recordings.
 Low Fem stuff:
 
 * https://www.youtube.com/watch?v=RrZjMxTY9QM and https://www.youtube.com/watch?v=HuWK0fCLpkY have some very nice low-fem example work by Kate Mulgrew voicing two different characters - one younger and one older.
-* https://www.youtube.com/watch?v=ynzlZVlxLzk - Sultry Kathleen Turner sizzles in Body Heat (1981)
+* https://www.youtube.com/watch?v=ynzlZVlxLzk - Sultry Kathleen Turner sizzles in Body Heat (1981) (Skip to 28 seconds.)
 * https://www.youtube.com/watch?v=6S9UeKnewxE - Kathleen Turner later in life sounding manly on Good Morning America
 * https://www.youtube.com/watch?v=DGcUB55muSw - Conversation With Actor Shohreh Aghdashloo - contrast to Walter Cronkite for prosody and size
 
