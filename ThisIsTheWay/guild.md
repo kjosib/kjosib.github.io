@@ -36,7 +36,7 @@ I'd ask that members of the guild would subscribe (perhaps with an oath) to what
 and also that there be a working group composed of interested members who periodically update the thing to address
 recent complications and quandries as they arise.
 
-## Quality Developer Certification Program
+## Developer Quality Certification Program
 
 Suppose we can track members' experience, skills, and aptitudes.
 We can direct continuing education, topical training, and the like.
