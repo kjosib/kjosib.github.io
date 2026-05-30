@@ -16,12 +16,16 @@ We build one new behavioral component at a time up to mastery, first in isolatio
 
 **Ground school** has two main thrusts:
 * Develop enough common language around the voice, how it sounds, and how it works, so that we can communicate effectively during pratical training.
+* Ear Training
 * Make you into your own best tutor by giving you the knowledge to train at your best and also turn mistakes into your own customized training materials.
+* How do I teach myself?
 
 **Practical application** follows a process:
 * Elicit a behavior one way or another,
 * Refine down to a matter of pure focused voluntary control.
 * Once control is voluntary, then we can work coordination and habit.
+
+For masculinizing in particular, injury is not impossible from overstretching, so a gentle appraoch is indicated.
 
 **Homework** serves to turn conscious practice into habit. 
 
@@ -46,8 +50,8 @@ I'll do my best to lead you in healthy ways, but ultimately you need to be respo
 
 To make everyone's life easier, please read the following before beginning practical work:
 
-* [Environmental and Technical Preparation](./prep)
-* [Vocal Health and Wellness - Pre-Reading](./health)
+* [Environmental and Technical Preparation](https://kjosib.github.io/voice/prep)
+* [Vocal Health and Wellness - Pre-Reading](https://kjosib.github.io/voice/health)
 
 ## Curriculum
 
@@ -248,7 +252,9 @@ Occasional check-in / fine-tuning.
 
 
 * https://www.youtube.com/watch?v=wYnPA7IXFIU - Stroboscopic view of vocal cords doing their thing. (TW: Medical imagery).
-
+* Online pitch reader: https://pitchreader.com/
+* Tone Deafness Test: https://www.themusiclab.org/quizzes/td
+* Weird so-called trans-voice trainer (?) : https://natdorshimer.github.io/trans-voice-trainer/
 
 that mad brat sat on that flat mat
 
@@ -256,4 +262,3 @@ https://dood.al/pinktrombone/
 
 https://www.speechtherapypd.com/courses/metatherapy-how-conversation-shapes-therapeutic-response
 
-https://www.themusiclab.org/quizzes/td

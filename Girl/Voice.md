@@ -99,6 +99,7 @@ Slowly get faster, but check your progress with recordings.
 * Comma Gets a Cure - Accent Analysis Text: https://www.dialectsarchive.com/comma-gets-a-cure  - Also poke around the site for recordings of masculine and feminine speakers from your region.
 * Ear training --> https://selenearchive.github.io/
 * Sharpness isolated: [Tim Gunn](https://www.youtube.com/watch?v=x6K_b7sJXN0)
+* Nasality vs. other features: https://vocaroo.com/1jprC3w7IMho
 * Glottal Stops: https://www.youtube.com/watch?v=_4MJUi03GHM
 * The master of dialect: https://www.youtube.com/@DrGeoffLindsey/videos - Great for learning to isolate and analyze specific speech sounds that distinguish accents.
 * [Why Princesses and Villains Talk Like That: Voice Actor Explains](https://www.youtube.com/watch?v=Q83W339TOMg) - Great analysis of contrasting fem-voices, notwithstanding some operatic terms.
@@ -111,12 +112,18 @@ Slowly get faster, but check your progress with recordings.
 * https://www.youtube.com/watch?v=FCaTFLdtsco - Gay Voice
 * https://www.youtube.com/watch?v=OoUy3SO6REE - Janeway and Coffee: A Star Trek Love Story - Illustrating the variabillity of a natural voice
 
+**Silly stuff:**
+
+* https://www.youtube.com/watch?v=KvtT3UyhibQ - Ancient Sweedish Herding Call (loud light fem)
+* https://www.youtube.com/watch?v=9HgUU16PjKI - when you end the sentence you go "mmmmpphh"
+
 Low Fem stuff:
 
 * https://www.youtube.com/watch?v=RrZjMxTY9QM and https://www.youtube.com/watch?v=HuWK0fCLpkY have some very nice low-fem example work by Kate Mulgrew voicing two different characters - one younger and one older.
 * https://www.youtube.com/watch?v=ynzlZVlxLzk - Sultry Kathleen Turner sizzles in Body Heat (1981) (Skip to 28 seconds.)
 * https://www.youtube.com/watch?v=6S9UeKnewxE - Kathleen Turner later in life sounding manly on Good Morning America
 * https://www.youtube.com/watch?v=DGcUB55muSw - Conversation With Actor Shohreh Aghdashloo - contrast to Walter Cronkite for prosody and size
+* https://www.youtube.com/watch?v=cmRQXpbeA-0 - Most Savage Moments of Avasarala - The Expanse - Also contrast with Walter Cronkite.
 
 ### Intervening with the motor cortex:
 

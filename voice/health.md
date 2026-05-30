@@ -107,5 +107,5 @@ For an especially potent SOVTE, you can even hum a tune while blowing bubbles th
 If that straw fits through a lid, so much the better: No splashing!
 
 
-* Student Practice - MMMM, VVV, lip or tongue trill, and if possible, bubble phonation
+* Student Practice - MMMM, VVV, lip or tongue trill, inflated-cheek VVV, and if possible, bubble phonation
 
