@@ -110,7 +110,8 @@ Slowly get faster, but check your progress with recordings.
 * https://www.youtube.com/watch?v=qZ8UrMa1HeM - ARYEPIGLOTTIC SPHINCTER twang - for efficient volume (stage projection)
 * https://www.youtube.com/watch?v=0tOsucpdD7Y - Groan Tube sound effect
 * https://www.youtube.com/watch?v=FCaTFLdtsco - Gay Voice
-* https://www.youtube.com/watch?v=OoUy3SO6REE - Janeway and Coffee: A Star Trek Love Story - Illustrating the variabillity of a natural voice
+* https://www.youtube.com/watch?v=OoUy3SO6REE - Janeway and Coffee: A Star Trek Love Story - Illustrating the variability of a natural voice
+* https://www.youtube.com/watch?v=P_iUiafgk1o - cis woman with overfull (small, heavy) voice sounding masculine to my ears.
 
 **Silly stuff:**
 
@@ -119,7 +120,8 @@ Slowly get faster, but check your progress with recordings.
 
 Low Fem stuff:
 
-* https://www.youtube.com/watch?v=RrZjMxTY9QM and https://www.youtube.com/watch?v=HuWK0fCLpkY have some very nice low-fem example work by Kate Mulgrew voicing two different characters - one younger and one older.
+* https://www.youtube.com/watch?v=RrZjMxTY9QM - Kate Mulgrew voicing The Morrigan: She's adopting an accent with a bit more mouth space, but pharynx remains small, pitch remains high, and size is balanced.
+* https://www.youtube.com/watch?v=HuWK0fCLpkY - Kate Mulgrew voicing Flemeth - lower-pitched, but still plenty small, and a bit over-full (higher weight than would be typical in that size). She also occasionally attains some compression (not constriction).
 * https://www.youtube.com/watch?v=ynzlZVlxLzk - Sultry Kathleen Turner sizzles in Body Heat (1981) (Skip to 28 seconds.)
 * https://www.youtube.com/watch?v=6S9UeKnewxE - Kathleen Turner later in life sounding manly on Good Morning America
 * https://www.youtube.com/watch?v=DGcUB55muSw - Conversation With Actor Shohreh Aghdashloo - contrast to Walter Cronkite for prosody and size
