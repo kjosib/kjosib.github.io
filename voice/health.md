@@ -18,16 +18,21 @@ Let's practice that now!
 
 #### Effortless Performance
 
-* You already have all the *strength* you need.
-* Habit, coordination, and endurance are another question.
-
 A well-trained voice requires no effort, imposes neither difficulty nor strain, neither physical nor mental nor emotional.
+
+* You do not need to strap weights to your vocal muscles.
+* Flexibility, habit, coordination, and endurance each are another question.
+
+Under ordinary circumstances, people tend to have sufficient musculature through normal use.
+There are special cases. Don't feel bad if you are one, but it's uncommon.
+
+If you typically speak less than 30 minutes in a day, or only very softly, you may need to work up some general vocal endurance to avoid overuse injuries.
+
 
 During the process of exploring and refining the voice, you'll be developing new coordination and habits with muscles you already use daily.
 Along the way, you might accidentally entrain some extra muscular behavior which can manifest in tiredness, soreness, tightness, inflamation, or the like.
 If you notice something of this nature, please tell your coach.
 
-If you typically speak less than 30 minutes in a day, or only very softly, you may need to work up some general vocal endurance to avoid overuse injuries.
 (Divide time spent conversing by the number of people contributing to the conversation.)
 SOFTEs are good for this.
 
