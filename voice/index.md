@@ -7,7 +7,7 @@ I learned how to teach:
 
 * Adults, from the United States Department of Defense. (It's very different from teaching children.)
 * Unfamiliar and/or high-level kinematic skills, from Texana Children's Center for Autism.
-* Trans-Voice, from paying close attention to a variety of active coaches, picking their brains, stealing their best pedagogical techniques, and a decent amount of self-study.
+* Trans-Voice, from paying close attention to a variety of active coaches, picking their brains, stealing their best pedagogical techniques, and a decent amount of self-study. I'm also now proud to call myself part of a community of coaches who share ideas and methods.
 
 ## General Approach and Philosophy
 
@@ -15,7 +15,7 @@ I aim to combine ground-school with practical application and overcome obstacles
 We build one new behavioral component at a time up to mastery, first in isolation and then in combination with other skills.
 
 **Ground school** has two main thrusts:
-* Develop enough common language around the voice, how it sounds, and how it works, so that we can communicate effectively during pratical training.
+* Develop enough common language around the voice, how it sounds, and how it works, so that we can communicate effectively during practical training.
 * Ear Training
 * Make you into your own best tutor by giving you the knowledge to train at your best and also turn mistakes into your own customized training materials.
 * How do I teach myself?
@@ -23,7 +23,7 @@ We build one new behavioral component at a time up to mastery, first in isolatio
 **Practical application** follows a process:
 * Elicit a behavior one way or another,
 * Refine down to a matter of pure focused voluntary control.
-* Once control is voluntary, then we can work coordination and habit.
+* Once control is voluntary, then we can work on coordination and habit.
 
 For masculinizing in particular, injury is not impossible from overstretching, so a gentle appraoch is indicated.
 
@@ -214,8 +214,11 @@ fiction and children's books are good. (Bedtime stories?)
 
 Build small-talk - improvise around 
 
+* https://www.youtube.com/watch?v=su2IeakC7tc - Language Jones on how accent features really spread (and, indirectly, why we sound like valley girls)
+
 ### Expressive Features
 
+She stood upon the balcony, mimicking him hiccoughing, while amicably welcoming him in.
 
 Context, age, mood, etc.
 
@@ -258,7 +261,7 @@ Occasional check-in / fine-tuning.
 
 that mad brat sat on that flat mat
 
-https://dood.al/pinktrombone/
-
-https://www.speechtherapypd.com/courses/metatherapy-how-conversation-shapes-therapeutic-response
-
+* https://dood.al/pinktrombone/
+* https://www.speechtherapypd.com/courses/metatherapy-how-conversation-shapes-therapeutic-response
+* https://www.phys.unsw.edu.au/music/note/ - Frequency to Musical Note converter
+* https://www.szynalski.com/tone-generator/
