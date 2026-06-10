@@ -97,6 +97,8 @@ Slowly get faster, but check your progress with recordings.
 **Technical Studies:**
 
 * Comma Gets a Cure - Accent Analysis Text: https://www.dialectsarchive.com/comma-gets-a-cure  - Also poke around the site for recordings of masculine and feminine speakers from your region.
+* https://www.poetryfoundation.org/poems/48860/the-raven - The Raven - Loaded with pronunciation hazards for gender modification.
+
 * Ear training --> https://selenearchive.github.io/
 * Sharpness isolated: [Tim Gunn](https://www.youtube.com/watch?v=x6K_b7sJXN0)
 * Nasality vs. other features: https://vocaroo.com/1jprC3w7IMho
@@ -117,6 +119,7 @@ Slowly get faster, but check your progress with recordings.
 
 * https://www.youtube.com/watch?v=KvtT3UyhibQ - Ancient Sweedish Herding Call (loud light fem)
 * https://www.youtube.com/watch?v=9HgUU16PjKI - when you end the sentence you go "mmmmpphh"
+* https://www.youtube.com/watch?v=iZjRXwWck74 - Doing SPOOKY Halloween Voices!
 
 Low Fem stuff:
 
