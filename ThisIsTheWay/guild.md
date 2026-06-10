@@ -6,6 +6,29 @@ get organized into an industry-wide guild.
 I envision a hiring hall, a continuing education and training program, a professional code of conduct,
 an apprenticeship program, and pipelines for both journeyman and senior developers.
 
+## Summary Up Front
+
+Let's reframe software development (and tech work generally) as a true professional discipline rather
+than a loosely regulated labor market driven primarily by corporate hiring needs.
+Tech workers lack the structural safeguards, ethical standards, apprenticeship pathways,
+and collective institutions that exist in other engineering professions,
+leaving workers vulnerable to exploitative hiring practices, unethical corporate directives,
+unstable employment cycles, and fragmented career development.
+
+The Guild concept combines elements of medieval guilds, labor organizing, workforce development,
+and certification systems into a worker-centered ecosystem built around shared ethical standards,
+mentorship, peer accountability, and collective advancement through
+
+* a code of professional conduct,
+* community-recognized certifications tied to demonstrated skill and experience,
+* mentorship and apprenticeship structures connecting senior and junior workers,
+* and eventually a hiring-network model that prioritizes worker development and long-term professional sustainability over purely profit-driven incentives.
+
+The broader theory is that by creating institutions capable of coordinating workers across the industry,
+rather than leaving individuals to negotiate alone within asymmetrical labor markets,
+the profession could gradually establish stronger bargaining power, improve hiring quality and trust,
+reduce exploitative dynamics, and create more stable pathways for technical workers across industries.
+
 ## Code of Professional Conduct
 
 A code of conduct can become a foundation for respect for an organization.
