@@ -120,6 +120,7 @@ Slowly get faster, but check your progress with recordings.
 * https://www.youtube.com/watch?v=KvtT3UyhibQ - Ancient Sweedish Herding Call (loud light fem)
 * https://www.youtube.com/watch?v=9HgUU16PjKI - when you end the sentence you go "mmmmpphh"
 * https://www.youtube.com/watch?v=iZjRXwWck74 - Doing SPOOKY Halloween Voices!
+* https://www.youtube.com/watch?v=uKxd30lQ1f0 - How to learn English pronunciation with My Fair Lady (1964)
 
 Low Fem stuff:
 

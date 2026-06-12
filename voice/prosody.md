@@ -12,7 +12,7 @@ Tempo Variance
  - Slow can emphasize
  - Fast can show excitement
  - Elongate the vowels to change the tempo (so syllables stick together)
-Crisp diction / articulation
+Crisp enunciation / articulation
  - Use front of mouth to articulate and encrispen consonant
  - Contributes to syllable separation
 Syllable Separation

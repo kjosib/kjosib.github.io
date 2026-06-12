@@ -265,3 +265,4 @@ that mad brat sat on that flat mat
 * https://www.speechtherapypd.com/courses/metatherapy-how-conversation-shapes-therapeutic-response
 * https://www.phys.unsw.edu.au/music/note/ - Frequency to Musical Note converter
 * https://www.szynalski.com/tone-generator/
+* https://mynoise.net/NoiseMachines/cafeRestaurantNoiseGenerator.php
