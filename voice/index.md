@@ -14,11 +14,11 @@ I learned how to teach:
 I aim to combine ground-school with practical application and overcome obstacles as they come up.
 We build one new behavioral component at a time up to mastery, first in isolation and then in combination with other skills.
 
-**Ground school** has two main thrusts:
+**Ground school** has these main thrusts:
 * Develop enough common language around the voice, how it sounds, and how it works, so that we can communicate effectively during practical training.
 * Ear Training
 * Make you into your own best tutor by giving you the knowledge to train at your best and also turn mistakes into your own customized training materials.
-* How do I teach myself?
+* Help you figure out how best to teach yourself.
 
 **Practical application** follows a process:
 * Elicit a behavior one way or another,
@@ -117,7 +117,6 @@ blow on finger to test continuous airflow. (e.g. it feels cold?)
 
 [https://pitchreader.com/](https://pitchreader.com/) - can also generate tones if you click the note names
 
-* The "Princess sigh"
 * Sirens/glides/glissandos (move through/around passagio)
 * SOVTEs during
 * Pitch-matching
@@ -141,6 +140,7 @@ Elicitation techniques for primary size reduction:
 * Big-Dog-Small-Dog, optionally with tongue pulled or hanging forward. Make sure the difference between big and little dog pant is entirely in the back part of the tongue.
 * Unvoiced slide-whistle a-k-a whisper siren, with phonation test at the end.
 * Working loose a bit of stuck food in the back of the throat.
+* "Puppy-whimper" - may trick the person into getting a bunch of things at once.
 * Pull back of tongue back and down.
 * Worst case scenario: Finger on the larynx.
 * Cartoon Gangster - might relax into Nerd-maxing.
@@ -161,6 +161,7 @@ https://youtu.be/1PNnBRBfOVY - TVL's list of weight exercises.
 Elicitation techniques:
 * Audio mimicry (Yogi / Patrick / Giant(ess) / Julia Child / The mouse).
 * Behavioral / psych triggers: Yawn-speech. Cuddling a baby (prone to spit-up). Speaking through a sob/cry/whimper.
+* The "Princess sigh"
 * Pitch hills.
 * Yodel / Tarzan call
 * Chicken Neck: Forward and up for thin, down and back for thick; then bring the sound back to a normal posture
@@ -200,6 +201,18 @@ Accent - default: Location, vocation, social group/class
 Consonant Sharpness/Flatness and vowel brightness/dullness
 
 "The tip of the tongue; the lips and the teeth..." vs. alveolar ridge
+
+At this point, there are probably things that might not sound like your local fem speech community.
+As you continue to participate and identify with them, you'll likely pick up on microbehaviors naturally over time.
+But if you want to accelerate that process, consider:
+
+* Intonation / pitch contours
+* Vowel elongation
+* Tempo Variance
+* Crispness of enunciation and articulation
+* Syllable separation
+
+I'm not telling you how to dial these in; just they are some things you can listen for to enhappify your voice.
 
 Prosody elements:
 * Bouncy vs. step-function/monotone (glissando vs. staccato)
