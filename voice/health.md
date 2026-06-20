@@ -5,6 +5,15 @@
 
 **Voice training should never hurt!**
 
+Early warning signs of a problem include:
+
+* Pain
+* Hoarseness
+* Frequent Cough
+* Scratchy voice
+* lump in throat
+
+
 If something is ever *physically* uncomfortable, stop! Raise your hand and call a ***TRAINING TIME-OUT!***
 
 Let's practice that now!
