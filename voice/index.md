@@ -37,7 +37,7 @@ Take your medical advice from a properly licensed and certified practitioner.
 If you have:
 
 * pain in or around the vocal tract - even in the slightest
-* trouble swallowing food
+* trouble swallowing food or drink
 * difficulty speaking *at all*
 * any other vocal-health concern
 
@@ -50,8 +50,7 @@ I'll do my best to lead you in healthy ways, but ultimately you need to be respo
 
 To make everyone's life easier, please read the following before beginning practical work:
 
-* [Environmental and Technical Preparation](https://kjosib.github.io/voice/prep)
-* [Vocal Health and Wellness - Pre-Reading](https://kjosib.github.io/voice/health)
+* [Pre-Reading](https://kjosib.github.io/voice/read)
 
 ## Curriculum
 
