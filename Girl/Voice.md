@@ -9,8 +9,8 @@ Everyone in the trans community focused on *sound qualities and mimicry,* but no
 Ten minutes later I had the neural pathways built to complete a feedback loop between intention, execution, result, and adjustment. Initially that was with the aid of the spectrogram (search "Friture") because the initial stages of exploration sound so unnatural that they give no intuition for what to change next, but I got to the point of hearing the effects of the different adjustments. In the next 30 minutes, I got to the point of being able to reach a reasonably-fem configuration. The following evening I had a voice that *passed to myself* which admittedly still takes work to find and doesn't last forever, but I'm getting better at finding and maintaining the voice and *feel a sense of progress*. (I've yet to try it on the phone, but got a tremendous hit of gender euphoria, which is the real point.)
 
 I should mention that I've since discovered that TransVoiceLessons posted some inside-the-mouth
-videos [here](https://www.youtube.com/watch?v=fcetsAEBSrc)
-and [here](https://www.youtube.com/watch?v=jixU7d0FwZw) --
+videos [here](https://youtu.be/fcetsAEBSrc)
+and [here](https://youtu.be/jixU7d0FwZw) --
 watch these in order -- and you'll get a good sense of the physicality.
 
 ## Mental tips:
@@ -77,9 +77,9 @@ and they have some approachable videos on a number of technical aspects too. The
 
 If you just want to cut to the chase:
 
-* The paragon of vocal masculinity, [Walter Cronkite](https://www.youtube.com/watch?v=G5tdqojA26E): High (masc) weight, large (masc++) size.
+* The paragon of vocal masculinity, [Walter Cronkite](https://youtu.be/G5tdqojA26E): High (masc) weight, large (masc++) size.
 * Sponge-Bob Square-Pants: High (masc) weight, Small (fem) size, middle pitch, masc-leaning pronunciation.
-* Patrick Star: Low (fem) weight, Extra-large (masc++) size. https://www.youtube.com/watch?v=uwyRxK0htpI
+* Patrick Star: Low (fem) weight, Extra-large (masc++) size. https://youtu.be/uwyRxK0htpI
 * Stereotypical near-whispering easy-listening radio DJ: Low (fem) weight, large (masc++) size, masculine articulation, lilting intonation.
 * Stereotypical "gay man on television": High (masc) weight, large (masc++) size, fem-leaning pronunciation.
 * Bart Simpson: Low (fem) weight, Small (fem) size, boyish pronunciation.
@@ -94,42 +94,6 @@ in order to pay careful attention to the differences between gendered pronunciat
 Then imitate at a similar slow speed until it's naturalized.
 Slowly get faster, but check your progress with recordings.
 
-**Technical Studies:**
-
-* Comma Gets a Cure - Accent Analysis Text: https://www.dialectsarchive.com/comma-gets-a-cure  - Also poke around the site for recordings of masculine and feminine speakers from your region.
-* https://www.poetryfoundation.org/poems/48860/the-raven - The Raven - Loaded with pronunciation hazards for gender modification.
-
-* Ear training --> https://selenearchive.github.io/
-* Sharpness isolated: [Tim Gunn](https://www.youtube.com/watch?v=x6K_b7sJXN0)
-* Nasality vs. other features: https://vocaroo.com/1jprC3w7IMho
-* Glottal Stops: https://www.youtube.com/watch?v=_4MJUi03GHM
-* The master of dialect: https://www.youtube.com/@DrGeoffLindsey/videos - Great for learning to isolate and analyze specific speech sounds that distinguish accents.
-* [Why Princesses and Villains Talk Like That: Voice Actor Explains](https://www.youtube.com/watch?v=Q83W339TOMg) - Great analysis of contrasting fem-voices, notwithstanding some operatic terms.
-* Online pitch reader: https://pitchreader.com/
-* Tight throat? Try this laryngeal massage: https://www.youtube.com/watch?v=QUDNXLSrOXk or https://www.youtube.com/watch?v=HbQOCB9bO6g
-* https://www.themarklandstudio.com/monologues/female - Female Monologues
-* https://www.youtube.com/watch?v=v0IEAGi2K1M - Fran Drescher type twang
-* https://www.youtube.com/watch?v=qZ8UrMa1HeM - ARYEPIGLOTTIC SPHINCTER twang - for efficient volume (stage projection)
-* https://www.youtube.com/watch?v=0tOsucpdD7Y - Groan Tube sound effect
-* https://www.youtube.com/watch?v=FCaTFLdtsco - Gay Voice
-* https://www.youtube.com/watch?v=OoUy3SO6REE - Janeway and Coffee: A Star Trek Love Story - Illustrating the variability of a natural voice
-* https://www.youtube.com/watch?v=P_iUiafgk1o - cis woman with overfull (small, heavy) voice sounding masculine to my ears.
-
-**Silly stuff:**
-
-* https://www.youtube.com/watch?v=KvtT3UyhibQ - Ancient Sweedish Herding Call (loud light fem)
-* https://www.youtube.com/watch?v=9HgUU16PjKI - when you end the sentence you go "mmmmpphh"
-* https://www.youtube.com/watch?v=iZjRXwWck74 - Doing SPOOKY Halloween Voices!
-* https://www.youtube.com/watch?v=uKxd30lQ1f0 - How to learn English pronunciation with My Fair Lady (1964)
-
-Low Fem stuff:
-
-* https://www.youtube.com/watch?v=RrZjMxTY9QM - Kate Mulgrew voicing The Morrigan: She's adopting an accent with a bit more mouth space, but pharynx remains small, pitch remains high, and size is balanced.
-* https://www.youtube.com/watch?v=HuWK0fCLpkY - Kate Mulgrew voicing Flemeth - lower-pitched, but still plenty small, and a bit over-full (higher weight than would be typical in that size). She also occasionally attains some compression (not constriction).
-* https://www.youtube.com/watch?v=ynzlZVlxLzk - Sultry Kathleen Turner sizzles in Body Heat (1981) (Skip to 28 seconds.)
-* https://www.youtube.com/watch?v=6S9UeKnewxE - Kathleen Turner later in life sounding manly on Good Morning America
-* https://www.youtube.com/watch?v=DGcUB55muSw - Conversation With Actor Shohreh Aghdashloo - contrast to Walter Cronkite for prosody and size
-* https://www.youtube.com/watch?v=cmRQXpbeA-0 - Most Savage Moments of Avasarala - The Expanse - Also contrast with Walter Cronkite.
 
 ### Intervening with the motor cortex:
 
