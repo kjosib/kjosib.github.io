@@ -12,4 +12,4 @@ If you have any questions, feel free to ask for clarification via discord or e-m
 * [Medical Considerations](./medical)
 * [Hydrate!](./water)
 * [SOVTEs](./sovte)
-* [Environmental and Technical Preparation](.prep)
+* [Environmental and Technical Preparation](./prep)
