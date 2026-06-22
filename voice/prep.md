@@ -8,10 +8,10 @@
 * Be well-hydrated and have a good supply of drinking water close at hand.
 
 **Quality hardware also helps:**
-
 I recommend a respectable-quality headset with built-in microphone, ideally with side-tone in hardware.
 The average gamer's headset is plenty, but I would be skeptical of anything that doesn't fully cover your ears.
-
+I'd actually suggest *not* to bother with a fancy separate microphone like what podcasters are often seen with.
+They tend to pick up more background noise due to their greater distance from your mouth.
 
 Also, there are some **useful software programs** to have installed and functional on your computer:
 
