@@ -45,3 +45,20 @@ Low Fem stuff:
 * https://youtu.be/DGcUB55muSw - Conversation With Actor Shohreh Aghdashloo - contrast to Walter Cronkite for prosody and size
 * https://youtu.be/cmRQXpbeA-0 - Most Savage Moments of Avasarala - The Expanse - Also contrast with Walter Cronkite.
 
+## Useful Tools
+
+* Online pitch reader: https://pitchreader.com/
+* Tone Deafness Test: https://www.themusiclab.org/quizzes/td
+* Weird so-called trans-voice trainer (?) : https://natdorshimer.github.io/trans-voice-trainer/
+* https://dood.al/pinktrombone/
+* https://www.phys.unsw.edu.au/music/note/ - Frequency to Musical Note converter
+* https://www.szynalski.com/tone-generator/
+* https://mynoise.net/NoiseMachines/cafeRestaurantNoiseGenerator.php
+
+## Anatomy Videos
+
+* https://www.youtube.com/watch?v=wYnPA7IXFIU - Stroboscopic view of vocal cords doing their thing. (TW: Medical imagery).
+
+## Articles
+
+* https://www.speechtherapypd.com/courses/metatherapy-how-conversation-shapes-therapeutic-response
