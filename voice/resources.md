@@ -6,6 +6,11 @@
 * Comma Gets a Cure - Accent Analysis Text: https://www.dialectsarchive.com/comma-gets-a-cure  - Also poke around the site for recordings of masculine and feminine speakers from your region.
 * https://www.poetryfoundation.org/poems/48860/the-raven - The Raven - Loaded with pronunciation hazards for gender modification.
 
+## Phonemically Balanced Sentence Corpora
+
+* Harvard Sentences: https://harvardsentences.com
+
+* Spanish: https://www.tandfonline.com/action/downloadSupplement?doi=10.3109%2F14992027.2014.907507&file=iija_a_907507_sm0001.pdf
 
 ## Technical Studies
 
@@ -28,6 +33,8 @@
 * https://youtu.be/FCaTFLdtsco - Gay Voice
 * https://youtu.be/OoUy3SO6REE - Janeway and Coffee: A Star Trek Love Story - Illustrating the variability of a natural voice
 * https://youtu.be/P_iUiafgk1o - cis woman with overfull (small, heavy) voice sounding masculine to my ears.
+* https://youtu.be/D7C1SUHIFOE - Girl shouting (among other things) - good for the sound of loud.
+* https://www.youtube.com/watch?v=w3KswMaEBiI - Otherwords - Relatively full, unquestionably fem.
 
 **Silly stuff:**
 

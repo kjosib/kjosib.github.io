@@ -7,6 +7,7 @@ Elicitation techniques:
 * Audio mimicry (Yogi / Patrick / Giant(ess) / Julia Child / The mouse).
 * Behavioral / psych triggers: Yawn-speech. Cuddling a baby (prone to spit-up). Speaking through a sob/cry/whimper.
 * The "Princess sigh"
+* Flow phonation - blow air on finger, add sound
 * Pitch hills.
 * Yodel / Tarzan call
 * Chicken Neck: Forward and up for thin, down and back for thick; then bring the sound back to a normal posture
