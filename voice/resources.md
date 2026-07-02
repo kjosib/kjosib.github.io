@@ -24,7 +24,7 @@
 * Glottal Stops: https://youtu.be/_4MJUi03GHM
 * The master of dialect: https://www.youtube.com/@DrGeoffLindsey/videos - Great for learning to isolate and analyze specific speech sounds that distinguish accents.
 * [Why Princesses and Villains Talk Like That: Voice Actor Explains](https://youtu.be/Q83W339TOMg) - Great analysis of contrasting fem-voices, notwithstanding some operatic terms.
-* Online pitch reader: https://pitchreader.com/
+
 * Tight throat? Try this laryngeal massage: https://youtu.be/QUDNXLSrOXk or https://youtu.be/HbQOCB9bO6g
 * https://www.themarklandstudio.com/monologues/female - Female Monologues
 * https://youtu.be/v0IEAGi2K1M - Fran Drescher type twang
@@ -69,3 +69,6 @@ Low Fem stuff:
 ## Articles
 
 * https://www.speechtherapypd.com/courses/metatherapy-how-conversation-shapes-therapeutic-response
+* https://www.masteringbox.com/learn/what-are-harmonics-in-audio What Are Harmonics in Audio? Fundamental and Harmonic Frequencies Explained
+
+
