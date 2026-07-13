@@ -42,6 +42,7 @@
 * https://youtu.be/9HgUU16PjKI - when you end the sentence you go "mmmmpphh"
 * https://youtu.be/iZjRXwWck74 - Doing SPOOKY Halloween Voices!
 * https://youtu.be/uKxd30lQ1f0 - How to learn English pronunciation with My Fair Lady (1964)
+* https://www.youtube.com/watch?v=iaAT6-dY1QI - Tea, Earl Grey, Hot.
 
 Low Fem stuff:
 
@@ -72,3 +73,6 @@ Low Fem stuff:
 * https://www.masteringbox.com/learn/what-are-harmonics-in-audio What Are Harmonics in Audio? Fundamental and Harmonic Frequencies Explained
 
 
+## Things to talk about
+
+* https://alphatoastmasters.au/members/table-topics-guidelines/table-topics-questions/
