@@ -7,12 +7,23 @@ Elicitation techniques:
 * Audio mimicry (Yogi / Patrick / Giant(ess) / Julia Child / The mouse).
 * Behavioral / psych triggers: Yawn-speech. Cuddling a baby (prone to spit-up). Speaking through a sob/cry/whimper.
 * The "Princess sigh"
+* Sense of open throat after a puff of air - either "H" sound or "PHOO" puff.
 * Flow phonation - blow air on finger, add sound
 * Pitch hills.
 * Yodel / Tarzan call
 * Chicken Neck: Forward and up for thin, down and back for thick; then bring the sound back to a normal posture
 * Gentle onsets - may or may not have an impact
 * SOVTE exploration. You may be able to find the sound with occlusion, and then remove the occlusion.
+
+**IF STILL A PROBLEM:**
+
+Try a vocal warmup routine that encourages a focus on comfort and consistency/stability first and foremost - basically a 100% focused warmup  that we use to double up as coordination practice, starting first with slightly heavier configurations and then moving lighter- not obsessing over maximal lightness but just the lightest reachable without sacrificing consistency or vocal efficiency. 
+
+Reducing weight to some extent makes raising pitch easier, and raising pitch tends to encourage losing weight further, so pingponging a bit can often help.
+
+Anecdotally, people whose daily-driver is super-high-weight tend to have more trouble reaching the lightest voices. Have them avoid the weightiest voices for a couple weeks and then see if it's easier.
+
+### Next Steps
 
 Goals: Explore and gain fine moderation over the transition from light to heavy, heavy to light. Try to avoid picking up hiss in the process.
 Develop a mastery over adjusting weight *and weight only,* in isolation from all other characteristics.

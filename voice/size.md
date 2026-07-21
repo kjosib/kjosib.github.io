@@ -7,10 +7,11 @@ Relaxation: Stretching, massage,
 Elicitation techniques for primary size reduction:
 * Nerd-maxing. Buggs-Bunny's signature "Ehhh -- What's up, doc?" sound.
 * Ngya-Ngya-Ngya, with maximal annoying quality.
+* "Puppy-whimper" - may trick the person into getting a bunch of things at once.
+* "Meow" / "Yaung" - cat noises might elicit some shrink.
 * Big-Dog-Small-Dog, optionally with tongue pulled or hanging forward. Make sure the difference between big and little dog pant is entirely in the back part of the tongue.
 * Unvoiced slide-whistle a-k-a whisper siren, with phonation test at the end.
 * Working loose a bit of stuck food in the back of the throat.
-* "Puppy-whimper" - may trick the person into getting a bunch of things at once.
 * Pull back of tongue back and down.
 * Worst case scenario: Finger on the larynx.
 * Cartoon Gangster - might relax into Nerd-maxing.

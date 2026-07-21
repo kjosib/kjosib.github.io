@@ -5,6 +5,7 @@
 
 * Comma Gets a Cure - Accent Analysis Text: https://www.dialectsarchive.com/comma-gets-a-cure  - Also poke around the site for recordings of masculine and feminine speakers from your region.
 * https://www.poetryfoundation.org/poems/48860/the-raven - The Raven - Loaded with pronunciation hazards for gender modification.
+* https://www.themarklandstudio.com/monologues/female - Female Monologues
 
 ## Phonemically Balanced Sentence Corpora
 
@@ -18,6 +19,7 @@
 
 * The paragon of vocal masculinity, [Walter Cronkite](https://youtu.be/G5tdqojA26E): High (masc) weight, large (masc++) size.
 * Patrick Star: Low (fem) weight, Extra-large (masc++) size. https://youtu.be/uwyRxK0htpI
+* https://www.youtube.com/watch?v=O-Fy9758mxg&t=12 - Heimerdinger - Super-Small
 
 * Sharpness isolated: [Tim Gunn](https://youtu.be/x6K_b7sJXN0)
 * Nasality vs. other features: https://vocaroo.com/1jprC3w7IMho
@@ -26,7 +28,6 @@
 * [Why Princesses and Villains Talk Like That: Voice Actor Explains](https://youtu.be/Q83W339TOMg) - Great analysis of contrasting fem-voices, notwithstanding some operatic terms.
 
 * Tight throat? Try this laryngeal massage: https://youtu.be/QUDNXLSrOXk or https://youtu.be/HbQOCB9bO6g
-* https://www.themarklandstudio.com/monologues/female - Female Monologues
 * https://youtu.be/v0IEAGi2K1M - Fran Drescher type twang
 * https://youtu.be/qZ8UrMa1HeM - ARYEPIGLOTTIC SPHINCTER twang - for efficient volume (stage projection)
 * https://youtu.be/0tOsucpdD7Y - Groan Tube sound effect
@@ -34,7 +35,12 @@
 * https://youtu.be/OoUy3SO6REE - Janeway and Coffee: A Star Trek Love Story - Illustrating the variability of a natural voice
 * https://youtu.be/P_iUiafgk1o - cis woman with overfull (small, heavy) voice sounding masculine to my ears.
 * https://youtu.be/D7C1SUHIFOE - Girl shouting (among other things) - good for the sound of loud.
-* https://www.youtube.com/watch?v=w3KswMaEBiI - Otherwords - Relatively full, unquestionably fem.
+* https://youtu.be/w3KswMaEBiI - Otherwords - Relatively full, unquestionably fem.
+* https://youtu.be/cpZma0JjwIo - Sounds like a cis woman, but apparently the singer is a cis dude named Chris Colfer.
+* [Sabine Hossenfelder's first video about natural units](https://youtu.be/PP5G20ImveU) - (presumably cis) fem, but 
+prosody like Cronkite. She's German, which has a *very different* prosodic dimorphism from General American.
+
+* https://youtu.be/3wYQOF2ltig - Messa Di Voce
 
 **Silly stuff:**
 
@@ -43,6 +49,7 @@
 * https://youtu.be/iZjRXwWck74 - Doing SPOOKY Halloween Voices!
 * https://youtu.be/uKxd30lQ1f0 - How to learn English pronunciation with My Fair Lady (1964)
 * https://www.youtube.com/watch?v=iaAT6-dY1QI - Tea, Earl Grey, Hot.
+* https://www.youtube.com/watch?v=KaiJto13PHc - Jim Henson as (not) known to Miss Piggy and Kermit
 
 Low Fem stuff:
 
@@ -76,3 +83,12 @@ Low Fem stuff:
 ## Things to talk about
 
 * https://alphatoastmasters.au/members/table-topics-guidelines/table-topics-questions/
+
+**Extemporaneous speaking:**
+
+1. Introduce yourself.
+2. Tell us about your interests and hobbies.
+3. Take a position for or against free will and explain your reasoning.
+4. Audition for a play.
+5. Defend a masters' thesis.
+

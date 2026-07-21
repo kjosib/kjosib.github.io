@@ -1,3 +1,11 @@
+# Non-Nasal Sentences
+
+Pick up the crate, be careful of the glass.
+Would you please take these three glasses to be washed below the tap.
+That black cat attacked the plastic bag.
+The elevator stopped for us at the third floor.
+This is the best soup I've had for a while.
+
 # The Restless Night - a non-nasal text
 
 Look at the sky.

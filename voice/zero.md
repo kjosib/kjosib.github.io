@@ -10,6 +10,7 @@ Early warning signs of a problem include:
 * Frequent Cough
 * Scratchy voice
 * Persistent lump in throat
+* Persistent tension in face, jaws, or neck
 
 If something you do with your voice is ever *physically* painful, **STOP** what you are doing immediately.
 ***IT WAS WRONG!***
