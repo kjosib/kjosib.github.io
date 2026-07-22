@@ -19,7 +19,7 @@
 
 * The paragon of vocal masculinity, [Walter Cronkite](https://youtu.be/G5tdqojA26E): High (masc) weight, large (masc++) size.
 * Patrick Star: Low (fem) weight, Extra-large (masc++) size. https://youtu.be/uwyRxK0htpI
-* https://www.youtube.com/watch?v=O-Fy9758mxg&t=12 - Heimerdinger - Super-Small
+* https://youtu.be/O-Fy9758mxg?t=12 - Heimerdinger - Super-Small
 
 * Sharpness isolated: [Tim Gunn](https://youtu.be/x6K_b7sJXN0)
 * Nasality vs. other features: https://vocaroo.com/1jprC3w7IMho
@@ -28,10 +28,14 @@
 * [Why Princesses and Villains Talk Like That: Voice Actor Explains](https://youtu.be/Q83W339TOMg) - Great analysis of contrasting fem-voices, notwithstanding some operatic terms.
 
 * Tight throat? Try this laryngeal massage: https://youtu.be/QUDNXLSrOXk or https://youtu.be/HbQOCB9bO6g
-* https://youtu.be/v0IEAGi2K1M - Fran Drescher type twang
 * https://youtu.be/qZ8UrMa1HeM - ARYEPIGLOTTIC SPHINCTER twang - for efficient volume (stage projection)
 * https://youtu.be/0tOsucpdD7Y - Groan Tube sound effect
 * https://youtu.be/FCaTFLdtsco - Gay Voice
+* https://youtu.be/3wYQOF2ltig - Messa Di Voce
+* [Language Jones on Peppa Pig](https://youtu.be/su2IeakC7tc): The sociolinguistics video every coach (and learner!) should watch.
+
+
+* https://youtu.be/v0IEAGi2K1M - Fran Drescher type twang
 * https://youtu.be/OoUy3SO6REE - Janeway and Coffee: A Star Trek Love Story - Illustrating the variability of a natural voice
 * https://youtu.be/P_iUiafgk1o - cis woman with overfull (small, heavy) voice sounding masculine to my ears.
 * https://youtu.be/D7C1SUHIFOE - Girl shouting (among other things) - good for the sound of loud.
@@ -39,8 +43,8 @@
 * https://youtu.be/cpZma0JjwIo - Sounds like a cis woman, but apparently the singer is a cis dude named Chris Colfer.
 * [Sabine Hossenfelder's first video about natural units](https://youtu.be/PP5G20ImveU) - (presumably cis) fem, but 
 prosody like Cronkite. She's German, which has a *very different* prosodic dimorphism from General American.
+* [Smoking Kills Voices.](https://www.youtube.com/watch?v=7U6tTJ29Abg) - George Burns at Johnny Carson.
 
-* https://youtu.be/3wYQOF2ltig - Messa Di Voce
 
 **Silly stuff:**
 
@@ -50,6 +54,7 @@ prosody like Cronkite. She's German, which has a *very different* prosodic dimor
 * https://youtu.be/uKxd30lQ1f0 - How to learn English pronunciation with My Fair Lady (1964)
 * https://www.youtube.com/watch?v=iaAT6-dY1QI - Tea, Earl Grey, Hot.
 * https://www.youtube.com/watch?v=KaiJto13PHc - Jim Henson as (not) known to Miss Piggy and Kermit
+* www.youtube.com/watch?v=1X5uSpcjf38&t=52s - Kathleen Turner flipping voices
 
 Low Fem stuff:
 
@@ -76,6 +81,7 @@ Low Fem stuff:
 
 ## Articles
 
+* [Constructing a Useful Voice Help Request](https://www.reddit.com/r/transvoice/comments/1v2kksm/psa_constructing_a_useful_voice_help_request_and/)
 * https://www.speechtherapypd.com/courses/metatherapy-how-conversation-shapes-therapeutic-response
 * https://www.masteringbox.com/learn/what-are-harmonics-in-audio What Are Harmonics in Audio? Fundamental and Harmonic Frequencies Explained
 
@@ -83,12 +89,4 @@ Low Fem stuff:
 ## Things to talk about
 
 * https://alphatoastmasters.au/members/table-topics-guidelines/table-topics-questions/
-
-**Extemporaneous speaking:**
-
-1. Introduce yourself.
-2. Tell us about your interests and hobbies.
-3. Take a position for or against free will and explain your reasoning.
-4. Audition for a play.
-5. Defend a masters' thesis.
 
