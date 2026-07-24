@@ -1,33 +1,35 @@
-# Adjusting your Vocal Cruise Control
+# Adjusting your Default Voice (a.k.a. cognitive load training)
 
-Does your voice
-* sound better when you focus on it, but falter otherwise?
-* stay consistent in practice sessions, but go haywire at other times?
+What happens to your voice when you're paying more attention to *what* you're saying than *how* you're saying it?
+If your practice sessions sound fine but your voice falters in conversation, then this guide is for you.
 
-Your brain has a cruise-control module for your voice.
-When you let go of the controls, cruise control takes over.
+**Default is Habit:**
+
+As your focus drifts from 
+
+Let's adjust your brain's vocal "cruise control" - the mechanism that takes over when your focus drifts from the vocal performance itself.
+You can do this for the voice overall or for any specific feature.
+Given time, this strategy will tune up your "resting" speech behaviors according to the standards you practice.
 
 **How to adjust your vocal cruise control:**
 
-The cruise control is just an automatic cycle of performance, listening, comparison, and adjustment.
-To change the set-point is to re-train that cycle with new vocal parameters or goals.
+*TLDR:* Challenging performance, self-monitoring, evaluation, and adjustment.
 
-Throughout this process, you will:
+In detail:
+
 * Perform verbal tasks *slightly beyond* your comfort zone *with your trained voice.* A list of task-ideas is below.
 * Be passively mindful of your voice while using it. Every few sentences (or words, if you're very new) take notice of your performance, but try not to lose track of your task.
 * Is your voice within bounds? If not, will a gentle nudge fix it, or do you need to reset?
 * Apply your chosen correction without blame, and then keep practicing! *Correcting your own performance is where the magic happens.*
 * When a task gets too easy, move on to a harder task. *One must make mistakes if one is to learn from them.*
 
-Given time, this strategy will tune up your "resting" speech behaviors according to the standards you practice.
-You can use at all times and places, but it may help to join or organize events specifically designed around this process.
-Some of the trans-voice servers on Discord either host or allow such events, but for propriety I'll just say "ask around".
+Voice is a team sport, so join or organize events designed around this process to accelerate your progress.
 
 **Verbal Task Ideas:**
 
 In rougly increasing order of difficulty:
 
-*Complete Beginner, just figured out the sound:*
+*Beginner:*
 
 * Word Recital: Say the days of the week, the seasons and months of the year, the colors of the rainbow, or the alphabet.
 * Simple sentences: Go thou unto https://harvardsentences.com whereupon many simple sentences await your perusal. Each block of ten contains every sound of English.

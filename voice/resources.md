@@ -34,6 +34,7 @@
 * https://youtu.be/3wYQOF2ltig - Messa Di Voce
 * [Language Jones on Peppa Pig](https://youtu.be/su2IeakC7tc): The sociolinguistics video every coach (and learner!) should watch.
 
+## Interesting Voice Clips
 
 * https://youtu.be/v0IEAGi2K1M - Fran Drescher type twang
 * https://youtu.be/OoUy3SO6REE - Janeway and Coffee: A Star Trek Love Story - Illustrating the variability of a natural voice
@@ -55,6 +56,7 @@ prosody like Cronkite. She's German, which has a *very different* prosodic dimor
 * https://www.youtube.com/watch?v=iaAT6-dY1QI - Tea, Earl Grey, Hot.
 * https://www.youtube.com/watch?v=KaiJto13PHc - Jim Henson as (not) known to Miss Piggy and Kermit
 * www.youtube.com/watch?v=1X5uSpcjf38&t=52s - Kathleen Turner flipping voices
+* [The B-52's - Love Shack (Official Music Video)](https://www.youtube.com/watch?v=9SOryJvTAGs)
 
 Low Fem stuff:
 
@@ -64,6 +66,11 @@ Low Fem stuff:
 * https://youtu.be/6S9UeKnewxE - Kathleen Turner later in life sounding manly on Good Morning America
 * https://youtu.be/DGcUB55muSw - Conversation With Actor Shohreh Aghdashloo - contrast to Walter Cronkite for prosody and size
 * https://youtu.be/cmRQXpbeA-0 - Most Savage Moments of Avasarala - The Expanse - Also contrast with Walter Cronkite.
+
+## Female Authority Figures
+
+* [Captain Janeway's Bully Speech](https://www.youtube.com/watch?v=Yx5mAd8wiNU)
+* [Classic Clips: Sigourney Weaver (1984)](https://www.youtube.com/watch?v=UvjABlIwQlE)
 
 ## Useful Tools
 
@@ -81,7 +88,7 @@ Low Fem stuff:
 
 ## Articles
 
-* [Constructing a Useful Voice Help Request](https://www.reddit.com/r/transvoice/comments/1v2kksm/psa_constructing_a_useful_voice_help_request_and/)
+* [Constructing a Useful Voice Help Request](https://www.reddit.com/r/transvoice/comments/1v2kksm/)
 * https://www.speechtherapypd.com/courses/metatherapy-how-conversation-shapes-therapeutic-response
 * https://www.masteringbox.com/learn/what-are-harmonics-in-audio What Are Harmonics in Audio? Fundamental and Harmonic Frequencies Explained
 
@@ -89,4 +96,5 @@ Low Fem stuff:
 ## Things to talk about
 
 * https://alphatoastmasters.au/members/table-topics-guidelines/table-topics-questions/
+* https://www.weareteachers.com/philosophical-questions/
 
