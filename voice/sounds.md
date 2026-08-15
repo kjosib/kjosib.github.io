@@ -8,7 +8,7 @@ Thanks be unto Savvy, from Scientifically Augmented Voice.
 * Dipthongs
 * Approximants
 * Sibilant Consonants
-
+* Nasal Sounds
 
 ## Single Vowels
 
@@ -125,6 +125,21 @@ Breathe thin air through thick teeth.
 Thankfully thimbles protect these thumbs!
 
 thief, thin, therapy, thatch, thanos, thought(ɔ as in short), through(u as in boot), third(ɜ in burr), thunder(ʌ in bus)
+```
+
+## Nasal Sounds
+
+```
+I am intimating imitating intimate intestinal insight.
+Finger Singer
+```
+
+# Non-nasal passages:
+```
+Pick up the crate, be careful of the glass.
+Would you please take these three glasses to be washed below the tap.
+That black cat attacked the plastic bag.
+The elevator stopped for us at the third floor.
 ```
 
 ## More word lists:

@@ -1,12 +1,15 @@
 # Syllabus
 
 * Session Zero: Introduction, Goals, Expectations, Objectives, Hopes, and Fears
+* How to properly give (and request) feedback
 * Body-Implying Features: Size, Weight, Pitch
+* Ear training - Constant through-line
 * Cognitive Loading; Self-monitoring
 * Social Background Features
     * Onsets, offsets, and consonant / vowel profiles
     * Articulation: Sharpness, Brightness, and Glide
-    * Intonation / Pitch contours: syllables, words, and sentences
+    * Intonation / Pitch contours: syllables, words, phrases, and sentences
+* Correcting problematic features e.g. aspirate sound, tension, etc.
 * Expressive Features
 * Contextual adjustments
 * Getting to a voice you're in love with

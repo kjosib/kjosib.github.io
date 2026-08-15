@@ -1,6 +1,6 @@
 # Prosody Keys
 
-These are written from a feminizing perspective.
+These are written from a General-American feminizing perspective.
 
 Bounciness - varying pitch instead of stress
  - Plenty of peaks, few large valleys
@@ -18,7 +18,11 @@ Crisp enunciation / articulation
 Syllable Separation
  - Oh. My. God!
  - Clapping with the voice / words.
-
+Pitch vs. Volume Accent on stressed syllables
+ - Most English words have a primary accented syllable.
+ - Some speakers raise pitch for these.
+ - Others give a punch of extra volume.
+ - It's been said that General-American females use pitch more here.
 
 
 ===
@@ -26,6 +30,7 @@ Syllable Separation
 Because prosody is regional, it's something you're going to have to pick up directly from interacting with your local female speech community. As you continue to participate and identify with them - to want to be respected by them - you'll pick up on microbehaviors over time. To accelerate that process, pay close attention to:
 
 * Intonation / Pitch Contours - within syllables, words, phrases, and sentences
+* Pitch vs. Volume Accent on stressed syllables.
 * Vowel elongation
 * Tempo variation
 * Crispness of enunciation and articulation

@@ -15,6 +15,8 @@ Elicitation techniques:
 * Gentle onsets - may or may not have an impact
 * SOVTE exploration. You may be able to find the sound with occlusion, and then remove the occlusion.
 
+For Masc, consider glottal-stops and buzzing.
+
 **IF STILL A PROBLEM:**
 
 Try a vocal warmup routine that encourages a focus on comfort and consistency/stability first and foremost - basically a 100% focused warmup  that we use to double up as coordination practice, starting first with slightly heavier configurations and then moving lighter- not obsessing over maximal lightness but just the lightest reachable without sacrificing consistency or vocal efficiency. 

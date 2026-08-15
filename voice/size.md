@@ -25,3 +25,10 @@ Proprioception (rightly understood) is appropriate here to the extent it helps t
 Homework:
 * Play! Play with as many different parts of the mouth and throat as the student can figure out how to access. Listen and absorb how those parts change the sound, for this will be the key to mimicry later.
 
+---
+
+Something to do with size growth:
+
+The vomit reflex can increase the pharynx size.
+Lifting your nose e.g. to smell a rose above your head also does, and is used clinically.
+

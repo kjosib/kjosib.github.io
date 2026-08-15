@@ -49,8 +49,9 @@ In rougly increasing order of difficulty:
 *Hurt my pride:*
 
 * Take a position for or against free will (or [some other eternal question](https://alphatoastmasters.au/members/table-topics-guidelines/table-topics-questions/)) and explain your reasoning.
+* Now argue the opposite: Poke holes in your previous argument.
 * Explain a problem you're having at work. Why is it a problem? What caused it? How do you plan to address it?
-* Give a critical analysis of recent political developments, either at home or abroad.
+* Give a critical analysis of recent political developments, either at home or abroad. (Or: Explain a technical topic to complete newbs.)
 * Tell a story about a time you or a loved one suffered grievously.
 * Justify a controversial and unpopular opinion that you hold.
 
@@ -67,9 +68,25 @@ In rougly increasing order of difficulty:
 * Negotiate peace between warring factions.
 * Eradicate some type of parasite from the Earth.
 * End world hunger.
-* Talk your boss into giving you a meaningful raise.
+* Talk your boss into *actually* giving you a *meaningful* raise.
 
 Each of these will work your conscious mind and emotional state harder than the last, forcing your voice to go on autopilot. Does it wobble or break? When? How? When did you notice? (Are you recording this?) What does it take to recover?
 
 
 *By the way, if you think the last entry humorously placed, have a look at [this article](https://aflcio.org/what-unions-do).*
+
+---
+
+https://content.toastmasters.org/image/upload/8053-generic-evaluation-resource.pdf
+
+**Rubric**
+* Clarity
+* Vocal Variety
+* Audience Awareness
+* Comfort Level
+* Interest
+* Well-Supported
+**Overall:**
+* You excelled at:
+* You may want to work on:
+* To challenge yourself:
