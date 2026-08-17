@@ -88,6 +88,7 @@ I told the whole mole to control the bowl. It hurts my soul to mould a bowl in f
 /ei/ (as in lane)
 The rain in Spain fell mainly in the plains
 Brains membranes have veins
+Studying the veins in the brain's membranes will drive you insane.
 
 /au/ (as in hour)
 A bowed cloud showers the sour flower
