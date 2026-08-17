@@ -19,7 +19,9 @@ They stirred their preferred curd !
 Sorry, I misheard the third word!
 They concurred on absurd words.
 
+```
 See also [the reading advice hub](https://thereadingadvicehub.com/wp-content/uploads/2020/10/Schwa-Sound-List-of-Words.pdf).
+```
 
 /ɛ/ (as in bed)
 

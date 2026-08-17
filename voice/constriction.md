@@ -20,6 +20,12 @@ Slide pitch *up from below* because it may be easier to find a clearer tone at a
 
 ## Tension in the Vocal Tract
 
+Flop over at waist and let all dangle.
+Let head move gently and dangle to relieve all tension.
+Sing a scale - perhaps descending.
+Capture the sensation and bring it back upright.
+Sing another scale.
+
 Allow tongue to flop forward, hanging limp like a panting dog might do.
 Breathe gently and slowly allow tension to melt over the course of *minutes*.
 Be mindful of all parts of your vocal tract, from the shoulders to the nose.
