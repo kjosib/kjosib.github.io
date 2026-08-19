@@ -43,7 +43,7 @@ In rougly increasing order of difficulty:
 * Narrate the facts of some recent or current events in your city or state.
 * Tell your weekend plans. How did you decide? How long have you been planning this?
 * Speak for 90 seconds about your interests and hobbies. What got you into this? What's your next investment of time or money?
-* Tell a story about something good that happened, or something important to you.
+* Tell a story about something good that happened to either you or to someone important to you.
 * Give an expressive monologue as if you were auditioning for a play.
 
 *Hurt my pride:*

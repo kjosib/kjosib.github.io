@@ -9,13 +9,14 @@ Elicitation techniques:
 * The "Princess sigh"
 * Sense of open throat after a puff of air - either "H" sound or "PHOO" puff.
 * Flow phonation - blow air on finger, add sound
+* Try variations with volume - but very quickly fix afterward. (ASMR or carnival barker).
 * Pitch hills.
 * Yodel / Tarzan call
 * Chicken Neck: Forward and up for thin, down and back for thick; then bring the sound back to a normal posture
 * Gentle onsets - may or may not have an impact
 * SOVTE exploration. You may be able to find the sound with occlusion, and then remove the occlusion.
 
-For Masc, consider glottal-stops and buzzing.
+For Masc, consider glottal-stops, buzzing, maybe the geiger counter thing.
 
 **IF STILL A PROBLEM:**
 

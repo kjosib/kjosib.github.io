@@ -33,7 +33,7 @@ If you want to include some expressiveness and be able to compare your *complete
 * https://youtu.be/qZ8UrMa1HeM - ARYEPIGLOTTIC SPHINCTER twang - for efficient volume (stage projection)
 * https://youtu.be/0tOsucpdD7Y - Groan Tube sound effect
 * https://youtu.be/FCaTFLdtsco - Gay Voice
-* https://youtu.be/3wYQOF2ltig - Messa Di Voce
+* [Messa Di Voce](https://youtu.be/3wYQOF2ltig)
 * [Language Jones on Peppa Pig](https://youtu.be/su2IeakC7tc): The sociolinguistics video every coach (and learner!) should watch.
 * [Joyce DiDonato teaches a student to trill.](https://www.youtube.com/watch?v=5jsUCr3CKTQ)
 
@@ -76,6 +76,7 @@ Low Fem stuff:
 * https://youtu.be/6S9UeKnewxE - Kathleen Turner later in life sounding manly on Good Morning America
 * https://youtu.be/DGcUB55muSw - Conversation With Actor Shohreh Aghdashloo - contrast to Walter Cronkite for prosody and size
 * https://youtu.be/cmRQXpbeA-0 - Most Savage Moments of Avasarala - The Expanse - Also contrast with Walter Cronkite.
+* https://www.youtube.com/watch?v=VG-A_RzL-x4 - Nurse - She bottoms out at low as A2.
 
 ## Performative Elements
 
