@@ -52,4 +52,9 @@ Ingressive FVF retraction forward-chain into ingressive clear phonation, then sw
 In either case, might need to adjust pitch to pick up the quality we want and drag that up and then into speech.
 
 
+## A few articles on MTD / Muscle Tension Dysphonia
+
+* https://my.clevelandclinic.org/health/diseases/muscle-tension-dysphonia
+* https://pmc.ncbi.nlm.nih.gov/articles/PMC4653091/
+* https://www.hopkinsmedicine.org/health/conditions-and-diseases/muscle-tension-dysphonia
 

@@ -5,7 +5,7 @@
 Any block of ten Harvard sentences contains all the speech-sounds of English,
 so you get a nice variety of weird things to say that give your tongue a proper work-out.
 
-* Harvard Sentences: https://harvardsentences.com
+* Harvard Sentences: https://harvardsentences.com or https://www.cs.columbia.edu/~hgs/audio/harvard.html
 
 * Spanish: https://www.tandfonline.com/action/downloadSupplement?doi=10.3109%2F14992027.2014.907507&file=iija_a_907507_sm0001.pdf
 
@@ -43,12 +43,13 @@ If you want to include some expressiveness and be able to compare your *complete
 * https://youtu.be/v0IEAGi2K1M - Fran Drescher type twang
 * https://youtu.be/OoUy3SO6REE - Janeway and Coffee: A Star Trek Love Story - Illustrating the variability of a natural voice
 * https://youtu.be/P_iUiafgk1o - cis woman with overfull (small, heavy) voice sounding masculine to my ears.
-* https://youtu.be/D7C1SUHIFOE - Girl shouting (among other things) - good for the sound of loud.
-* https://youtu.be/w3KswMaEBiI - Otherwords - Relatively full, unquestionably fem.
-* https://youtu.be/cpZma0JjwIo - Sounds like a cis woman, but apparently the singer is a cis dude named Chris Colfer.
-* [Sabine Hossenfelder's first video about natural units](https://youtu.be/PP5G20ImveU) - (presumably cis) fem, but 
-prosody like Cronkite. She's German, which has a *very different* prosodic dimorphism from General American.
+* [Girl shouting (among other things)](https://youtu.be/D7C1SUHIFOE) - good for the sound of loud.
+* [Otherwords](https://youtu.be/w3KswMaEBiI) - Relatively full, unquestionably fem.
+* [Corkboards & Curiosities](https://www.youtube.com/watch?v=Lx2pPiVRpdw) - Relatively lighter female voice
+* [cis dude named Chris Colfer](https://youtu.be/cpZma0JjwIo) - Singer from Glee that sounds like a cis woman, except when he doesn't.
+* [Sabine Hossenfelder's first video about natural units](https://youtu.be/PP5G20ImveU) - (presumably cis) fem, but prosody like Cronkite. She's German, which has a *very different* prosodic dimorphism from General American.
 * [Smoking Kills Voices.](https://www.youtube.com/watch?v=7U6tTJ29Abg) - George Burns at Johnny Carson.
+* [Comparing The Voices - Darth Sidious/Palpatine](https://www.youtube.com/watch?v=VNXHwDX0OFU)
 
 
 **Silly stuff:**
@@ -62,6 +63,7 @@ prosody like Cronkite. She's German, which has a *very different* prosodic dimor
 * https://www.youtube.com/watch?v=1X5uSpcjf38&t=52s - Kathleen Turner flipping voices
 * [The B-52's - Love Shack (Official Music Video)](https://www.youtube.com/watch?v=9SOryJvTAGs)
 * [Dying to play a Straight Guy - Cole Escola @ Late Show w/ Colbert](https://youtu.be/loYSPOl--c4?si=uh0YV16h94ApQLo7)
+* [The classic 2014 "Girl Voice" clip](https://www.youtube.com/watch?v=8UoJ-34Ssa0)
 * https://youtu.be/MYLEhIdJT3U?si=l9-xwYvL7ujOL0ai - a v-tuber I'm supposed to check out.
 * https://www.youtube.com/watch?v=Fj4Vnl2GNqE - old voice
 * [Jessica Darrow - Surface Pressure (From "Encanto")](https://youtu.be/tQwVKr8rCYw) - "Non-Binary singing voice"?
@@ -84,6 +86,7 @@ Low Fem stuff:
 * [Why Princesses and Villains Talk Like That: Voice Actor Explains](https://youtu.be/Q83W339TOMg) - Great analysis of contrasting fem-voices, notwithstanding some operatic terms.
 * [Voice actor explains resonance terms and techniques](https://www.youtube.com/watch?v=TEDmTRUn9L0)
 * [What Makes A Voice Sound Subordinate: Voice Actor Explains With The Devil Wears Prada](https://www.youtube.com/watch?v=grjHWx5Z5BM)
+* [Female Rage](https://www.youtube.com/watch?v=uHAcEf-TFAU) - a compilation of vignettes with angry women expressing themselves.
 
 ## Female Authority Figures
 
