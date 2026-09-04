@@ -29,13 +29,18 @@ If you want to include some expressiveness and be able to compare your *complete
 * Nasality vs. other features: https://vocaroo.com/1jprC3w7IMho
 * Glottal Stops: https://youtu.be/_4MJUi03GHM
 
-* Tight throat? Try this laryngeal massage: https://youtu.be/QUDNXLSrOXk or https://youtu.be/HbQOCB9bO6g
 * https://youtu.be/qZ8UrMa1HeM - ARYEPIGLOTTIC SPHINCTER twang - for efficient volume (stage projection)
 * https://youtu.be/0tOsucpdD7Y - Groan Tube sound effect
 * https://youtu.be/FCaTFLdtsco - Gay Voice
-* [Messa Di Voce](https://youtu.be/3wYQOF2ltig)
 * [Language Jones on Peppa Pig](https://youtu.be/su2IeakC7tc): The sociolinguistics video every coach (and learner!) should watch.
 * [Joyce DiDonato teaches a student to trill.](https://www.youtube.com/watch?v=5jsUCr3CKTQ)
+
+
+## Technique Vids
+
+* [Messa Di Voce](https://youtu.be/3wYQOF2ltig)
+* Laryngeal Massage: Try this for tight throat: https://youtu.be/QUDNXLSrOXk or https://youtu.be/HbQOCB9bO6g
+
 
 
 ## Interesting Voice Clips
@@ -87,6 +92,7 @@ Low Fem stuff:
 * [Voice actor explains resonance terms and techniques](https://www.youtube.com/watch?v=TEDmTRUn9L0)
 * [What Makes A Voice Sound Subordinate: Voice Actor Explains With The Devil Wears Prada](https://www.youtube.com/watch?v=grjHWx5Z5BM)
 * [Female Rage](https://www.youtube.com/watch?v=uHAcEf-TFAU) - a compilation of vignettes with angry women expressing themselves.
+* [More Rage - Hidden Figures](https://www.youtube.com/watch?v=xlYkpBj59u0) - Acting teacher reacts to the colored-bathroom conflict.
 
 ## Female Authority Figures
 

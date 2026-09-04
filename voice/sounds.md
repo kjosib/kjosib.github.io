@@ -13,7 +13,7 @@ Thanks be unto Savvy, from Scientifically Augmented Voice.
 ## Single Vowels
 
 ```
-/ɜ/ schwa sound "uh" as in bird
+/ɜ/ schwa sound "uh" as in bird (r-colored vowels /ɝ/ in General American)
 The nerd misheard the bird's slurred words.
 They stirred their preferred curd !
 Sorry, I misheard the third word!
@@ -53,6 +53,7 @@ Although snow is below the cargo, show me the torpedo!
 Listen to stereo radio, there's a tornado in Tokyo!
 Play banjo in a judo dojo! Bestow flamenco flow!
 The flamingo eats a kilo of tomato risotto!
+Indigo!
 
 /ae/ (as in cat)
 That black rat with a bat wins combat against a cat.
