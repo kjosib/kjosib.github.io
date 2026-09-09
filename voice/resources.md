@@ -11,9 +11,12 @@ so you get a nice variety of weird things to say that give your tongue a proper 
 
 ## Reading and Accent Passages
 
-If you want to include some expressiveness and be able to compare your *complete* dialect against many recorded examples, the https://DialectsArchive.com has what you need including a copy of *Comma Gets a Cure* you can read for yourself. There are also random word, sentence, and quote generator web sites for varying levels of emotional engagement with extremely short texts, or you can search for theatrical warm-up texts and tongue twisters if you want to work enunciation. For serious expressive work, a great many theater audition pieces - monologues, dialogues, and even more - can be found either free-floating on the web or passed from hand to hand as oral tradition in voice-acting circles. Finally and most effectively, the very best practice is to use your voice live in person with a speech community consisting primarily of people with no specific bias toward queerness. Social pressures will naturally mold you to sound like more those peers with whom you identify.
+If you want to include some expressiveness and be able to compare your *complete* dialect against many recorded examples, the https://DialectsArchive.com has what you need.
+A copy of [Comma Gets a Cure](./comma) is reproduced here by author's permission.
+There are also random word, sentence, and quote generator web sites for varying levels of emotional engagement with extremely short texts, or you can search for theatrical warm-up texts and tongue twisters if you want to work enunciation. For serious expressive work, a great many theater audition pieces - monologues, dialogues, and even more - can be found either free-floating on the web or passed from hand to hand as oral tradition in voice-acting circles. Finally and most effectively, the very best practice is to use your voice live in person with a speech community consisting primarily of people with no specific bias toward queerness. Social pressures will naturally mold you to sound like more those peers with whom you identify.
 
-* Comma Gets a Cure - Accent Analysis Text: https://www.dialectsarchive.com/comma-gets-a-cure  - Also poke around the site for recordings of masculine and feminine speakers from your region.
+* [Comma Gets a Cure](https://kjosib.github.io/voice/comma) - Accent Analysis Text
+* https://www.dialectsarchive.com/ - Recordings of masculine and feminine speakers from your region.
 * https://www.poetryfoundation.org/poems/48860/the-raven - The Raven - Loaded with pronunciation hazards for gender modification.
 * https://www.themarklandstudio.com/monologues/female - Female Monologues
 
@@ -74,6 +77,7 @@ If you want to include some expressiveness and be able to compare your *complete
 * [Jessica Darrow - Surface Pressure (From "Encanto")](https://youtu.be/tQwVKr8rCYw) - "Non-Binary singing voice"?
 
 * Intonation commentary - [1](https://youtube.com/shorts/0Ij66G0HI7c?is=EjRcxyIZhJBQ8zIe) and [2]()
+* [Screaming Homer Simpson](https://www.youtube.com/watch?v=ypzfsySqhxo) - feminine-style but large
 
 Low Fem stuff:
 

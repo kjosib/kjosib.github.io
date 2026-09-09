@@ -22,7 +22,7 @@ If you have any questions, feel free to ask for clarification via discord or e-m
 * [Hydrate!](./water)
 * [SOVTEs](./sovte)
 * [Environmental and Technical Preparation](./prep)
-
+* [The "Power-Source-Filter" model of voice](./psf)
 
 There is a password buried amongst the articles. I will ask you for it.
 If you don't find it, we'll spend part of session zero going back over these topics.
