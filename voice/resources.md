@@ -43,7 +43,7 @@ There are also random word, sentence, and quote generator web sites for varying 
 
 * [Messa Di Voce](https://youtu.be/3wYQOF2ltig)
 * Laryngeal Massage: Try this for tight throat: https://youtu.be/QUDNXLSrOXk or https://youtu.be/HbQOCB9bO6g
-
+* [How to Lie effectively about voice training](https://www.youtube.com/shorts/jHRQspYnyc4)
 
 
 ## Interesting Voice Clips

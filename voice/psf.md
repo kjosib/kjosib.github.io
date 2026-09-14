@@ -12,7 +12,7 @@ Controlled breathing can also be a good technique for managing stress. Although 
 
 ## Source: Glottal behavior turns breath into sound.
 
-Your glottis, the structure within the larynx consisting mainly of your vocal cords and the movable cartilages to which they attach, is the source of "voiced" sounds - the ones you need for all vowels and also for consonants like `b v m d z n g ng` and several others.
+Your glottis, the structure within the larynx consisting mainly of your vocal cords and the movable cartilages to which they attach, is the source of "voiced" sounds - the ones you need for all vowels and also for consonants like `b v m d z n g ng` and several others - but not for whispers or sounds like `h s f`.
 
 This initial sound can vary significantly in pitch, volume, and so-called "vocal weight", helping to shape people's perceptions of your voice, so mastering control over the glottis is essential. However, this is not the final sound people hear.
 
