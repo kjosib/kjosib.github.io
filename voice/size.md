@@ -7,6 +7,7 @@ Relaxation: Stretching, massage,
 Elicitation techniques for primary size reduction:
 * Nerd-maxing. Buggs-Bunny's signature "Ehhh -- What's up, doc?" sound.
 * Ngya-Ngya-Ngya, with maximal annoying quality.
+* Peanut butter is stuck to the roof of your mouth. Use the back of your tongue as a scraper to remove the PB. Now phonate while tongue is furthest up and fwd.
 * "Puppy-whimper" - may trick the person into getting a bunch of things at once.
 * "Meow" / "Yaung" - cat noises might elicit some shrink.
 * Big-Dog-Small-Dog, optionally with tongue pulled or hanging forward. Make sure the difference between big and little dog pant is entirely in the back part of the tongue.

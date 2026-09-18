@@ -115,7 +115,7 @@ tree, trick, trek, track, crow, draw, crew, rush
 ## Sibilant Consonants
 ```
 /f/
-Fear from afar the familiar but fake falsetto 
+Fear from afar the familiar but fake falsetto
 
 /s/
 Psychic security snails sacrifice seasoned sandwiches 
@@ -129,6 +129,11 @@ Breathe thin air through thick teeth.
 Thankfully thimbles protect these thumbs!
 
 thief, thin, therapy, thatch, thanos, thought(ɔ as in short), through(u as in boot), third(ɜ in burr), thunder(ʌ in bus)
+
+Need some SH-sounds
+
+She Sells Sea Shells on the Sea Shore
+
 ```
 
 ## Nasal Sounds
@@ -144,6 +149,11 @@ Pick up the crate, be careful of the glass.
 Would you please take these three glasses to be washed below the tap.
 That black cat attacked the plastic bag.
 The elevator stopped for us at the third floor.
+Four hours of steady work faced us.
+Add salt before you fry the egg.
+She flaps her cape as she parades the street.
+The little tales they tell are false.
+Plead with the lawyer to drop the lost cause.
 ```
 
 ## More word lists:
