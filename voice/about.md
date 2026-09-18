@@ -23,7 +23,7 @@ There's something about the one-on-one experience of not having to both steer an
 
 Currently I focus on those who would like the benefits of one-on-one work with a coach, but cannot afford top-dollar services.
 
-At this time, I ask $35 (USD) for a one-hour session teaching gender-affirming voice to adults of ordinary means.
+At this time, I ask $40 (USD) for a one-hour session teaching gender-affirming voice to adults of ordinary means.
 If you are unable to afford that, feel free to reach out. I might have some other options for you.
 And if you can afford to pay double, then you'd be supporting my studio and sponsoring some of those less fortunate.
 
