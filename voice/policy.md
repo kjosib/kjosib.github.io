@@ -4,7 +4,7 @@ By scheduling a lesson with me (Beth), you (the student/learner) agree as follow
 
 ## General Conduct:
 
-* Although voice training is generally relatively safe, you are ultimately responsible for your own health and safety, and you and assume any associated risks. *Listen to your body!*
+* Although voice training is generally relatively safe, you are ultimately responsible for your own health and safety, and you assume any associated risks. *Listen to your body!*
 * Both of us will be focused on the lesson. *Occasional brief interruptions may happen, but they should be the exception, not the rule.*
 * You consent to the lesson being recorded. *In general, the student will receive a link to download that recording, which normally remains valid for seven days.*
 * You **shall not** record video from the lesson, although you **may** make your own audio recordings of the lesson.
@@ -15,7 +15,7 @@ By scheduling a lesson with me (Beth), you (the student/learner) agree as follow
 
 * Lessons **shall** be scheduled no less than five days apart. *Weekly lessons are typical.*
 * If you cannot make it to your lesson at the appointed time, you **should** let me know as soon as possible.
-* If you give less than 24 hours notice for a lesson that is missed or 15 minutes late:
+* If you give less than 24 hours notice for a lesson that is missed or 15 minutes late, and:
     * You have paid in advance: You will forfeit the lesson fee.
     * I have arranged to bill you after the lesson: You will owe (and be billed) full price for the missed lesson.
 * If I am unable to make the scheduled time, I will endeavor to give you 24 hours notice. If I fail:
