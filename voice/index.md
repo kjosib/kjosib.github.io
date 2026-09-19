@@ -6,7 +6,7 @@ If you're here, it's because you've expressed an interest in learning to change 
 
 * Read [more about me](./about) for a sense of my qualifications, pricing, methods, and some important disclaimers.
 * [Book time with me here.](https://calendar.app.google/hpgShKuYxERX8guz6)
-
+* [Policy and Student Agreement](./policy)
 
 ## Pre-Reading
 
