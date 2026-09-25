@@ -16,7 +16,17 @@ Elicitation techniques:
 * Gentle onsets - may or may not have an impact
 * SOVTE exploration. You may be able to find the sound with occlusion, and then remove the occlusion.
 
+Eliciting Higher Weight:
+
+* Buggs Bunny voice: "eh, what's up, doc?"
+* Sessame Street's *The Count* laugh: " 'A 'A 'A 'A 'A " -- Glottal onsets and offsets
+* Airflow sensing fingertips at 2-3 finger widths - note that flow may feel like heat unless 
+* Pitch glide down below threshold, then drag high-weight back up to speaking pitch
+
 For Masc, consider glottal-stops, buzzing, maybe the geiger counter thing.
+
+## Got twang?
+Consider the refractory yawn.
 
 **IF STILL A PROBLEM:**
 
@@ -54,13 +64,6 @@ https://youtu.be/1PNnBRBfOVY - TVL's list of weight exercises.
 
 
 ## For masculinizers:
-
-Eliciting Higher Weight:
-
-* Buggs Bunny voice: "eh, what's up, doc?"
-* Sessame Street's *The Count* laugh: " 'A 'A 'A 'A 'A " -- Glottal onsets and offsets
-* Airflow sensing fingertips at 2-3 finger widths - note that flow may feel like heat unless 
-* Pitch glide down below threshold, then drag high-weight back up to speaking pitch
 
 ## Cool Tricks:
 

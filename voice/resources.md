@@ -19,6 +19,7 @@ There are also random word, sentence, and quote generator web sites for varying 
 * https://www.dialectsarchive.com/ - Recordings of masculine and feminine speakers from your region.
 * https://www.poetryfoundation.org/poems/48860/the-raven - The Raven - Loaded with pronunciation hazards for gender modification.
 * https://www.themarklandstudio.com/monologues/female - Female Monologues
+* [Story Berries](https://www.storyberries.com/) - Children's stories, easy reading, good for big intonation practice.
 
 ## Technical Studies
 
@@ -68,7 +69,7 @@ There are also random word, sentence, and quote generator web sites for varying 
 * https://youtu.be/uKxd30lQ1f0 - How to learn English pronunciation with My Fair Lady (1964)
 * https://www.youtube.com/watch?v=iaAT6-dY1QI - Tea, Earl Grey, Hot.
 * https://www.youtube.com/watch?v=KaiJto13PHc - Jim Henson as (not) known to Miss Piggy and Kermit
-* https://www.youtube.com/watch?v=1X5uSpcjf38&t=52s - Kathleen Turner flipping voices
+* [Kathleen Turner flipping voices](https://www.youtube.com/watch?v=1X5uSpcjf38&t=52s)
 * [The B-52's - Love Shack (Official Music Video)](https://www.youtube.com/watch?v=9SOryJvTAGs)
 * [Dying to play a Straight Guy - Cole Escola @ Late Show w/ Colbert](https://youtu.be/loYSPOl--c4?si=uh0YV16h94ApQLo7)
 * [The classic 2014 "Girl Voice" clip](https://www.youtube.com/watch?v=8UoJ-34Ssa0)
@@ -112,6 +113,7 @@ Low Fem stuff:
 * https://www.phys.unsw.edu.au/music/note/ - Frequency to Musical Note converter
 * https://www.szynalski.com/tone-generator/
 * https://mynoise.net/NoiseMachines/cafeRestaurantNoiseGenerator.php
+* [Vocal range test](https://www.tonegym.co/tool/item?id=vocal-range-test-tool)
 
 ## Anatomy Videos
 

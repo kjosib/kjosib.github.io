@@ -34,12 +34,12 @@ In rougly increasing order of difficulty:
 * Word Recital: Say the days of the week, the seasons and months of the year, the colors of the rainbow, or the alphabet.
 * Simple sentences: Go thou unto https://harvardsentences.com whereupon many simple sentences await your perusal. Each block of ten contains every sound of English.
 * Meaningful reading: Search up "Comma Gets a Cure". It's a standard dialect-analysis text so it has every sound and context. https://dialectsarchive.com has many versions recorded for your comparison.
+* Read a children's story with a moral e.g. from Story Berries.
 
 *Not too rough:*
 
 * Introduce yourself. What kind of work do you do? When did you start voice training? Who are your voice models?
 * Talk about the weather lately. How has it differed from this time in previous years?
-* Read a brief passage from a storybook.
 * Narrate the facts of some recent or current events in your city or state.
 * Tell your weekend plans. How did you decide? How long have you been planning this?
 * Speak for 90 seconds about your interests and hobbies. What got you into this? What's your next investment of time or money?
