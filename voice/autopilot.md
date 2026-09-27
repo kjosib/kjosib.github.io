@@ -40,7 +40,7 @@ In rougly increasing order of difficulty:
 
 * Introduce yourself. What kind of work do you do? When did you start voice training? Who are your voice models?
 * Talk about the weather lately. How has it differed from this time in previous years?
-* Narrate the facts of some recent or current events in your city or state.
+* Narrate the facts of some recent or current events in your city or state. EEIs: Who? What? When? Where? How? (Why is optional.)
 * Tell your weekend plans. How did you decide? How long have you been planning this?
 * Speak for 90 seconds about your interests and hobbies. What got you into this? What's your next investment of time or money?
 * Tell a story about something good that happened to either you or to someone important to you.
