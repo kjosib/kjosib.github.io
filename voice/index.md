@@ -22,6 +22,7 @@ If you have any questions, feel free to ask for clarification via discord or e-m
 * [Medical Considerations](./medical)
 * [Hydrate!](./water)
 * [SOVTEs](./sovte)
+* [About Homework](./homework)
 * [Environmental and Technical Preparation](./prep)
 * [The "Power-Source-Filter" model of voice](./psf)
 
