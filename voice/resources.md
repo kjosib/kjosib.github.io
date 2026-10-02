@@ -58,7 +58,7 @@ There are also random word, sentence, and quote generator web sites for varying 
 * [cis dude named Chris Colfer](https://youtu.be/cpZma0JjwIo) - Singer from Glee that sounds like a cis woman, except when he doesn't.
 * [Sabine Hossenfelder's first video about natural units](https://youtu.be/PP5G20ImveU) - (presumably cis) fem, but prosody like Cronkite. She's German, which has a *very different* prosodic dimorphism from General American.
 * [Smoking Kills Voices.](https://www.youtube.com/watch?v=7U6tTJ29Abg) - George Burns at Johnny Carson.
-* [Comparing The Voices - Darth Sidious/Palpatine](https://www.youtube.com/watch?v=VNXHwDX0OFU)
+* [Comparing The Voices - Darth Sidious / Emperor Palpatine](https://www.youtube.com/watch?v=VNXHwDX0OFU)
 
 
 **Silly stuff:**

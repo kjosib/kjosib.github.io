@@ -2,6 +2,7 @@
 
 * Session Zero: Introduction, Goals, Expectations, Objectives, Hopes, and Fears
 * How to properly give (and request) feedback
+* Placement, not force (Can this be easier?)
 * Body-Implying Features: Size, Weight, Pitch
 * Ear training - Constant through-line
 * Cognitive Loading; Self-monitoring
