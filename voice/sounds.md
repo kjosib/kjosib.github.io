@@ -140,6 +140,8 @@ She Sells Sea Shells on the Sea Shore
 
 ```
 I am intimating imitating intimate intestinal insight.
+Northern canaries nest in rainy lawns.
+Mom might make salami.
 Finger Singer
 ```
 

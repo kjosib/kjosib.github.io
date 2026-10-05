@@ -26,8 +26,8 @@ There are also random word, sentence, and quote generator web sites for varying 
 * Ear training --> https://selenearchive.github.io/
 
 * A paragon of vocal masculinity, [Walter Cronkite](https://youtu.be/G5tdqojA26E): High (masc) weight, large (masc++) size.
-* Patrick Star: Low (fem) weight, Extra-large (masc++) size. https://youtu.be/uwyRxK0htpI
-* https://youtu.be/O-Fy9758mxg?t=12 - Heimerdinger - Super-Small
+* [Patrick Star](https://www.youtube.com/watch?v=rMog3TXQRds): Low (fem) weight, Extra-large (masc++) size. [Here's more Patrick in context](https://youtu.be/uwyRxK0htpI).
+* [Heimerdinger](https://youtu.be/O-Fy9758mxg?t=12) - just relatively small and somewhat high.
 
 * Sharpness isolated: [Tim Gunn](https://youtu.be/x6K_b7sJXN0)
 * Nasality vs. other features: https://vocaroo.com/1jprC3w7IMho
@@ -50,7 +50,7 @@ There are also random word, sentence, and quote generator web sites for varying 
 ## Interesting Voice Clips
 
 * https://youtu.be/v0IEAGi2K1M - Fran Drescher type twang
-* https://youtu.be/OoUy3SO6REE - Janeway and Coffee: A Star Trek Love Story - Illustrating the variability of a natural voice
+* [Janeway and Coffee: A Star Trek Love Story](https://youtu.be/OoUy3SO6REE) - Illustrating the variability of a natural voice
 * https://youtu.be/P_iUiafgk1o - cis woman with overfull (small, heavy) voice sounding masculine to my ears.
 * [Girl shouting (among other things)](https://youtu.be/D7C1SUHIFOE) - good for the sound of loud.
 * [Otherwords](https://youtu.be/w3KswMaEBiI) - Relatively full, unquestionably fem.
