@@ -43,7 +43,7 @@ There are also random word, sentence, and quote generator web sites for varying 
 ## Technique Vids
 
 * [Messa Di Voce](https://youtu.be/3wYQOF2ltig)
-* Laryngeal Massage: Try this for tight throat: https://youtu.be/QUDNXLSrOXk or https://youtu.be/HbQOCB9bO6g
+* Laryngeal Massage: https://youtu.be/QUDNXLSrOXk or https://youtu.be/HbQOCB9bO6g
 * [How to Lie effectively about voice training](https://www.youtube.com/shorts/jHRQspYnyc4)
 
 
@@ -103,6 +103,7 @@ Low Fem stuff:
 
 * [Captain Janeway's Bully Speech](https://www.youtube.com/watch?v=Yx5mAd8wiNU)
 * [Classic Clips: Sigourney Weaver (1984)](https://www.youtube.com/watch?v=UvjABlIwQlE)
+* [QE2 on the occasion of her 90th](https://youtu.be/9-FKDWgdnPw?t=206)
 
 ## Useful Tools
 
@@ -125,6 +126,7 @@ Low Fem stuff:
 * https://www.speechtherapypd.com/courses/metatherapy-how-conversation-shapes-therapeutic-response
 * https://www.masteringbox.com/learn/what-are-harmonics-in-audio What Are Harmonics in Audio? Fundamental and Harmonic Frequencies Explained
 * [Toastmasters Evaluation Form](https://content.toastmasters.org/image/upload/8053-generic-evaluation-resource.pdf)
+* [Tongue Range of Motion Exercises](https://umc.edu/Healthcare/ENT/Patient-Handouts/Adult/Speech-Language-Pathology/Swallowing/Tongue-ROM-Exercises.html)
 
 ## Things to talk about
 

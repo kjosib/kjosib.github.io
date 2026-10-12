@@ -23,7 +23,9 @@ These are written from a General-American feminizing perspective.
 - Some speakers raise pitch for these.
 - Others give a punch of extra volume.
 - It's been said that General-American females use pitch more here.
-
+**Shadow Vowels**
+- Brief voicings (typically a schwa) after terminal unvoiced consonants
+- Seem to be functionally correlated with syllable separation
 
 ===
 
@@ -35,5 +37,7 @@ Because prosody is regional, it's something you're going to have to pick up dire
 * Tempo variation
 * Crispness of enunciation and articulation
 * Syllable separation
+
+-- For consonants, timing vs. tension - (Need to elaborate)
 
 I cannot tell you how to dial these in for your region; just that they are some things you can listen for to enhappify your speech.

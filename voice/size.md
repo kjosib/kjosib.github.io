@@ -11,6 +11,7 @@ Elicitation techniques for primary size reduction:
 * "Puppy-whimper" - may trick the person into getting a bunch of things at once.
 * "Meow" / "Yaung" - cat noises might elicit some shrink.
 * Big-Dog-Small-Dog, optionally with tongue pulled or hanging forward. Make sure the difference between big and little dog pant is entirely in the back part of the tongue.
+  * Note: Get panting quieter at smaller sizes to limit/avoid constriction
 * Unvoiced slide-whistle a-k-a whisper siren, with phonation test at the end.
 * Working loose a bit of stuck food in the back of the throat.
 * Pull back of tongue back and down.
