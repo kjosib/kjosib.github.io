@@ -7,7 +7,7 @@ If you're here, it's because you've expressed an interest in learning to change 
 * Read [more about me](./about) for a sense of my qualifications, pricing, methods, and some important disclaimers.
 * [Book time with me here.](https://calendar.app.google/ao28dikix8ZqtUKe7)
 * [Policy and Student Agreement](./policy)
-* Join [the Discord server where I teach](https://discord.gg/cmeGWMwymN)
+* Join [the Discord server where I teach](https://discord.gg/cmeGWMwymN) - We host some events, and you're welcome to reach out for questions.
 * Here's [a poster you can put up where appropriate](./poster.pdf) to spread the word.
 
 ## Pre-Reading
