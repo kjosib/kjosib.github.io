@@ -32,7 +32,7 @@ In rougly increasing order of difficulty:
 *Beginner:*
 
 * Word Recital: Say the days of the week, the seasons and months of the year, the colors of the rainbow, or the alphabet.
-* Simple sentences: Go thou unto https://harvardsentences.com whereupon many simple sentences await your perusal. Each block of ten contains every sound of English.
+* Simple sentences: Go thou unto [Harvard Sentences](https://www.cs.columbia.edu/~hgs/audio/harvard.html) whereupon many simple sentences await your perusal. Each block of ten contains every sound of English.
 * Meaningful reading: Search up "Comma Gets a Cure". It's a standard dialect-analysis text so it has every sound and context. https://dialectsarchive.com has many versions recorded for your comparison.
 * Read a children's story with a moral e.g. from Story Berries.
 

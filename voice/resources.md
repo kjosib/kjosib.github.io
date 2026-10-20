@@ -34,7 +34,6 @@ There are also random word, sentence, and quote generator web sites for varying 
 * Glottal Stops: https://youtu.be/_4MJUi03GHM
 
 * https://youtu.be/qZ8UrMa1HeM - ARYEPIGLOTTIC SPHINCTER twang - for efficient volume (stage projection)
-* https://youtu.be/0tOsucpdD7Y - Groan Tube sound effect
 * https://youtu.be/FCaTFLdtsco - Gay Voice
 * [Language Jones on Peppa Pig](https://youtu.be/su2IeakC7tc): The sociolinguistics video every coach (and learner!) should watch.
 * [Joyce DiDonato teaches a student to trill.](https://www.youtube.com/watch?v=5jsUCr3CKTQ)
@@ -45,6 +44,7 @@ There are also random word, sentence, and quote generator web sites for varying 
 * [Messa Di Voce](https://youtu.be/3wYQOF2ltig)
 * Laryngeal Massage: https://youtu.be/QUDNXLSrOXk or https://youtu.be/HbQOCB9bO6g
 * [How to Lie effectively about voice training](https://www.youtube.com/shorts/jHRQspYnyc4)
+* [Vocal cord closure exercises](https://www.youtube.com/watch?v=Jk-ItSzlRjI)
 
 
 ## Interesting Voice Clips
@@ -63,6 +63,7 @@ There are also random word, sentence, and quote generator web sites for varying 
 
 **Silly stuff:**
 
+* [https://youtu.be/0tOsucpdD7Y](Groan Tube sound effect)
 * https://youtu.be/KvtT3UyhibQ - Ancient Sweedish Herding Call (loud light fem)
 * https://youtu.be/9HgUU16PjKI - when you end the sentence you go "mmmmpphh"
 * https://youtu.be/iZjRXwWck74 - Doing SPOOKY Halloween Voices!
@@ -88,6 +89,7 @@ Low Fem stuff:
 * https://youtu.be/6S9UeKnewxE - Kathleen Turner later in life sounding manly on Good Morning America
 * https://youtu.be/DGcUB55muSw - Conversation With Actor Shohreh Aghdashloo - contrast to Walter Cronkite for prosody and size
 * https://youtu.be/cmRQXpbeA-0 - Most Savage Moments of Avasarala - The Expanse - Also contrast with Walter Cronkite.
+* [Shoreh Aghdashloo introducing her role in a video game](https://www.youtube.com/watch?v=qsoxJXcTX_g)
 * https://www.youtube.com/watch?v=VG-A_RzL-x4 - Nurse - She bottoms out at low as A2.
 
 ## Performative Elements
@@ -127,6 +129,7 @@ Low Fem stuff:
 * https://www.masteringbox.com/learn/what-are-harmonics-in-audio What Are Harmonics in Audio? Fundamental and Harmonic Frequencies Explained
 * [Toastmasters Evaluation Form](https://content.toastmasters.org/image/upload/8053-generic-evaluation-resource.pdf)
 * [Tongue Range of Motion Exercises](https://umc.edu/Healthcare/ENT/Patient-Handouts/Adult/Speech-Language-Pathology/Swallowing/Tongue-ROM-Exercises.html)
+* [Something Queird on the New Voice](https://thatsqueird.substack.com/p/45-new-voice)
 
 ## Things to talk about
 
