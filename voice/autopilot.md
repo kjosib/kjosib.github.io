@@ -27,13 +27,13 @@ Voice is a team sport, so join or organize events designed around this process t
 
 **Verbal Task Ideas:**
 
-In rougly increasing order of difficulty:
+In roughly increasing order of difficulty:
 
 *Beginner:*
 
 * Word Recital: Say the days of the week, the seasons and months of the year, the colors of the rainbow, or the alphabet.
 * Simple sentences: Go thou unto [Harvard Sentences](https://www.cs.columbia.edu/~hgs/audio/harvard.html) whereupon many simple sentences await your perusal. Each block of ten contains every sound of English.
-* Meaningful reading: Search up "Comma Gets a Cure". It's a standard dialect-analysis text so it has every sound and context. https://dialectsarchive.com has many versions recorded for your comparison.
+* Meaningful reading: [Comma Gets a Cure](https://kjosib.github.io/voice/comma). It's a standard dialect-analysis text so it has every sound and context. It also has a bit of plot and character development.
 * Read a children's story with a moral e.g. from Story Berries.
 
 *Not too rough:*
@@ -52,6 +52,8 @@ In rougly increasing order of difficulty:
 * Now argue the opposite: Poke holes in your previous argument.
 * Explain a problem you're having at work. Why is it a problem? What caused it? How do you plan to address it?
 * Give a critical analysis of recent political developments, either at home or abroad. (Or: Explain a technical topic to complete newbs.)
+* Explain the precepts and moral imperatives of your religion to a skeptic. If you're irreligious, explain where you get your morals from.
+* Choose one of those moral imperatives and explain it in terms of its impact on a society that follows it.
 * Tell a story about a time you or a loved one suffered grievously.
 * Justify a controversial and unpopular opinion that you hold.
 

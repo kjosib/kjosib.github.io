@@ -147,6 +147,7 @@ Finger Singer
 
 # Non-nasal passages:
 ```
+Phillip fried five fish.
 Pick up the crate, be careful of the glass.
 Would you please take these three glasses to be washed below the tap.
 That black cat attacked the plastic bag.

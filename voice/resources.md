@@ -61,7 +61,7 @@ There are also random word, sentence, and quote generator web sites for varying 
 * [Comparing The Voices - Darth Sidious / Emperor Palpatine](https://www.youtube.com/watch?v=VNXHwDX0OFU)
 
 
-**Silly stuff:**
+## Silly stuff:**
 
 * [https://youtu.be/0tOsucpdD7Y](Groan Tube sound effect)
 * https://youtu.be/KvtT3UyhibQ - Ancient Sweedish Herding Call (loud light fem)
@@ -77,17 +77,19 @@ There are also random word, sentence, and quote generator web sites for varying 
 * https://youtu.be/MYLEhIdJT3U?si=l9-xwYvL7ujOL0ai - a v-tuber I'm supposed to check out.
 * https://www.youtube.com/watch?v=Fj4Vnl2GNqE - old voice
 * [Jessica Darrow - Surface Pressure (From "Encanto")](https://youtu.be/tQwVKr8rCYw) - "Non-Binary singing voice"?
+* [You will never find a more wretched hive of scum and villainy](https://www.youtube.com/watch?v=Xcb4_QwP6fE)
+* [High Falsetto - What not to do](https://youtu.be/JgSv1SKCteQ?is=53yYptbyLWiSJo-_)
 
 * Intonation commentary - [1](https://youtube.com/shorts/0Ij66G0HI7c?is=EjRcxyIZhJBQ8zIe) and [2]()
 * [Screaming Homer Simpson](https://www.youtube.com/watch?v=ypzfsySqhxo) - feminine-style but large
 
-Low Fem stuff:
+## Low Fem stuff:
 
 * https://youtu.be/RrZjMxTY9QM - Kate Mulgrew voicing The Morrigan: She's adopting an accent with a bit more mouth space, but pharynx remains small, pitch remains high, and size is balanced.
 * https://youtu.be/HuWK0fCLpkY - Kate Mulgrew voicing Flemeth - lower-pitched, but still plenty small, and a bit over-full (higher weight than would be typical in that size). She also occasionally attains some compression (not constriction).
 * https://youtu.be/ynzlZVlxLzk?t=28 - Sultry Kathleen Turner sizzles in Body Heat (1981) (Skip to 28 seconds.)
 * https://youtu.be/6S9UeKnewxE - Kathleen Turner later in life sounding manly on Good Morning America
-* https://youtu.be/DGcUB55muSw - Conversation With Actor Shohreh Aghdashloo - contrast to Walter Cronkite for prosody and size
+* [Conversation With Actor Shohreh Aghdashloo](https://youtu.be/DGcUB55muSw) - contrast to Walter Cronkite for prosody and size
 * https://youtu.be/cmRQXpbeA-0 - Most Savage Moments of Avasarala - The Expanse - Also contrast with Walter Cronkite.
 * [Shoreh Aghdashloo introducing her role in a video game](https://www.youtube.com/watch?v=qsoxJXcTX_g)
 * https://www.youtube.com/watch?v=VG-A_RzL-x4 - Nurse - She bottoms out at low as A2.
@@ -130,6 +132,7 @@ Low Fem stuff:
 * [Toastmasters Evaluation Form](https://content.toastmasters.org/image/upload/8053-generic-evaluation-resource.pdf)
 * [Tongue Range of Motion Exercises](https://umc.edu/Healthcare/ENT/Patient-Handouts/Adult/Speech-Language-Pathology/Swallowing/Tongue-ROM-Exercises.html)
 * [Something Queird on the New Voice](https://thatsqueird.substack.com/p/45-new-voice)
+* [Human voice pitch measures are robust across a variety of speech recordings: methodological and theoretical implications](https://pmc.ncbi.nlm.nih.gov/articles/PMC8478519/)
 
 ## Things to talk about
 
