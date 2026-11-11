@@ -48,7 +48,8 @@ In roughly increasing order of difficulty:
 
 *Hurt my pride:*
 
-* Take a position for or against free will (or [some other eternal question](https://alphatoastmasters.au/members/table-topics-guidelines/table-topics-questions/)) and explain your reasoning.
+* "Don't even get me started on..." - give an emotional rant against a randomly-chosen topic.
+* Take a position for or against free will (or [some other eternal question](https://alphatoastmasters.au/members/table-topics-guidelines/table-topics-questions/)) and explain your reasoning through logic, feeling, and ethics.
 * Now argue the opposite: Poke holes in your previous argument.
 * Explain a problem you're having at work. Why is it a problem? What caused it? How do you plan to address it?
 * Give a critical analysis of recent political developments, either at home or abroad. (Or: Explain a technical topic to complete newbs.)
