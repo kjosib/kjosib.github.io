@@ -21,6 +21,7 @@ They concurred on absurd words.
 
 ```
 See also [the reading advice hub](https://thereadingadvicehub.com/wp-content/uploads/2020/10/Schwa-Sound-List-of-Words.pdf).
+And for fun, see [this XKCD cartoon.](https://xkcd.com/2907/)
 ```
 
 /ɛ/ (as in bed)
