@@ -33,6 +33,7 @@ In roughly increasing order of difficulty:
 
 * Word Recital: Say the days of the week, the seasons and months of the year, the colors of the rainbow, or the alphabet.
 * Simple sentences: Go thou unto [Harvard Sentences](https://www.cs.columbia.edu/~hgs/audio/harvard.html) whereupon many simple sentences await your perusal. Each block of ten contains every sound of English.
+* [Mother Goose Nursery Rhymes](https://www.nursery-rhymes-fun.com/mothergoose.html)
 * Meaningful reading: [Comma Gets a Cure](https://kjosib.github.io/voice/comma). It's a standard dialect-analysis text so it has every sound and context. It also has a bit of plot and character development.
 * Read a children's story with a moral e.g. from Story Berries.
 
