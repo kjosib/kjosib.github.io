@@ -48,8 +48,8 @@ In roughly increasing order of difficulty:
 
 *Hurt my pride:*
 
-* "Don't even get me started on..." - give an emotional rant against a randomly-chosen topic.
-* Take a position for or against free will (or [some other eternal question](https://alphatoastmasters.au/members/table-topics-guidelines/table-topics-questions/)) and explain your reasoning through logic, feeling, and ethics.
+* "Don't even get me started on..." - give an emotional rant against a randomly-chosen topic. [Here's a list of common pet peeves.](https://www.womansday.com/life/a40057707/pet-peeves-list/)
+* Use logic, feeling, and ethics to assert and defend a position for or against free will (or [some other eternal question](https://alphatoastmasters.au/members/table-topics-guidelines/table-topics-questions/)).
 * Now argue the opposite: Poke holes in your previous argument.
 * Explain a problem you're having at work. Why is it a problem? What caused it? How do you plan to address it?
 * Give a critical analysis of recent political developments, either at home or abroad. (Or: Explain a technical topic to complete newbs.)
