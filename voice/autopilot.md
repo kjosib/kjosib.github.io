@@ -5,9 +5,11 @@ If your practice sessions sound fine but your voice falters in conversation, the
 
 **Default is Habit:**
 
-As your focus drifts from 
+As your focus drifts from precise vocal production to the content of your conversation,
+your production will drift back to your default mode,
+almost as if the brain goes on cruise-control while you navigate a challenging conversation.
 
-Let's adjust your brain's vocal "cruise control" - the mechanism that takes over when your focus drifts from the vocal performance itself.
+Let's adjust your brain's vocal cruise control.
 You can do this for the voice overall or for any specific feature.
 Given time, this strategy will tune up your "resting" speech behaviors according to the standards you practice.
 
